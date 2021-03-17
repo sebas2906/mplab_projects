@@ -1,0 +1,1109 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PIC14E ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F18875 ]
+[d frameptr 6 ]
+"77 C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+[e E355 . `uc
+SPI1_DEFAULT 0
+]
+"88 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+[e E12595 . `uc
+SPI1_DEFAULT 0
+]
+"114
+[e E12831 Interrupciones `uc
+inactivo 0
+izquierda 1
+derecha 2
+]
+"1 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\abs.c
+[v _abs abs `(i  1 e 2 0 ]
+"5 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aldiv.c
+[v ___aldiv __aldiv `(l  1 e 4 0 ]
+"7 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
+[v ___aodiv __aodiv `(o  1 e 8 0 ]
+"7 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
+[v ___aomod __aomod `(o  1 e 8 0 ]
+"5 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\awdiv.c
+[v ___awdiv __awdiv `(i  1 e 2 0 ]
+"72 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+[v _pad pad `(i  1 s 2 pad ]
+"287
+[v _dtoa dtoa `(i  1 s 2 dtoa ]
+"692
+[v _vfpfcnvrt vfpfcnvrt `(i  1 s 2 vfpfcnvrt ]
+"1390
+[v _vfprintf vfprintf `(i  1 e 2 0 ]
+"8 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputc.c
+[v _fputc fputc `(i  1 e 2 0 ]
+"8 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputs.c
+[v _fputs fputs `(i  1 e 2 0 ]
+"9 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_sprintf.c
+[v _sprintf sprintf `(i  1 e 2 0 ]
+"7 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\putch.c
+[v _putch putch `(v  1 e 1 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"5 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\strlen.c
+[v _strlen strlen `(ui  1 e 2 0 ]
+"15 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul16.c
+[v ___wmul __wmul `(ui  1 e 2 0 ]
+"15 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul32.c
+[v ___lmul __lmul `(ul  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul8.c
+[v ___bmul __bmul `(uc  1 e 1 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"70 C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+[v _writeLine writeLine `(v  1 e 1 0 ]
+"119
+[v _display_drawLine display_drawLine `(v  1 e 1 0 ]
+"141
+[v _display_drawCircle display_drawCircle `(v  1 e 1 0 ]
+"184
+[v _display_drawCircleHelper display_drawCircleHelper `(v  1 e 1 0 ]
+"228
+[v _display_fillCircle display_fillCircle `(v  1 e 1 0 ]
+"245
+[v _display_fillCircleHelper display_fillCircleHelper `(v  1 e 1 0 ]
+"290
+[v _display_drawRect display_drawRect `(v  1 e 1 0 ]
+"308
+[v _display_drawRoundRect display_drawRoundRect `(v  1 e 1 0 ]
+"334
+[v _display_fillRoundRect display_fillRoundRect `(v  1 e 1 0 ]
+"359
+[v _display_drawTriangle display_drawTriangle `(v  1 e 1 0 ]
+"378
+[v _display_fillTriangle display_fillTriangle `(v  1 e 1 0 ]
+"460
+[v _display_print display_print `(v  1 e 1 0 ]
+"515
+[v _display_customChar display_customChar `(v  1 e 1 0 ]
+"593
+[v _display_setCursor display_setCursor `(v  1 e 1 0 ]
+"624
+[v _display_setTextSize display_setTextSize `(v  1 e 1 0 ]
+"635
+[v _display_setTextColor display_setTextColor `(v  1 e 1 0 ]
+"646
+[v _display_setTextColor2 display_setTextColor2 `(v  1 e 1 0 ]
+"702
+[v _display_color565 display_color565 `(us  1 e 2 0 ]
+"827
+[v _display_drawCustomChar display_drawCustomChar `(v  1 e 1 0 ]
+"54 C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+[v _startWrite startWrite `(v  1 e 1 0 ]
+"66
+[v _endWrite endWrite `(v  1 e 1 0 ]
+"81
+[v _writeCommand writeCommand `(v  1 e 1 0 ]
+"94
+[v _tft_begin tft_begin `(v  1 e 1 0 ]
+"149
+[v _setAddrWindow setAddrWindow `(v  1 e 1 0 ]
+"171
+[v _setRotation setRotation `(v  1 e 1 0 ]
+"202
+[v _drawPixel drawPixel `(v  1 e 1 0 ]
+"221
+[v _drawHLine drawHLine `(v  1 e 1 0 ]
+"246
+[v _drawVLine drawVLine `(v  1 e 1 0 ]
+"271
+[v _fillRect fillRect `(v  1 e 1 0 ]
+"297
+[v _fillScreen fillScreen `(v  1 e 1 0 ]
+"84 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+[v _main main `(v  1 e 1 0 ]
+"184
+[v _ctrl_izq ctrl_izq `(v  1 e 1 0 ]
+"188
+[v _ctrl_der ctrl_der `(v  1 e 1 0 ]
+"193
+[v _ctrl_izq2 ctrl_izq2 `(v  1 e 1 0 ]
+"197
+[v _ctrl_der2 ctrl_der2 `(v  1 e 1 0 ]
+"201
+[v _dibujarMarcador dibujarMarcador `(v  1 e 1 0 ]
+"216
+[v _moverJugador moverJugador `(v  1 e 1 0 ]
+"231
+[v _disp_texto disp_texto `(v  1 e 1 0 ]
+"52 C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/interrupt_manager.c
+[v _INTERRUPT_InterruptManager INTERRUPT_InterruptManager `II(v  1 e 1 0 ]
+"50 C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
+[v _SYSTEM_Initialize SYSTEM_Initialize `(v  1 e 1 0 ]
+"58
+[v _OSCILLATOR_Initialize OSCILLATOR_Initialize `(v  1 e 1 0 ]
+"72
+[v _PMD_Initialize PMD_Initialize `(v  1 e 1 0 ]
+"60 C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+[v _PIN_MANAGER_Initialize PIN_MANAGER_Initialize `(v  1 e 1 0 ]
+"172
+[v _PIN_MANAGER_IOC PIN_MANAGER_IOC `(v  1 e 1 0 ]
+"199
+[v _IOCAF1_ISR IOCAF1_ISR `(v  1 e 1 0 ]
+"214
+[v _IOCAF1_SetInterruptHandler IOCAF1_SetInterruptHandler `(v  1 e 1 0 ]
+"221
+[v _IOCAF1_DefaultInterruptHandler IOCAF1_DefaultInterruptHandler `(v  1 e 1 0 ]
+"229
+[v _IOCAF2_ISR IOCAF2_ISR `(v  1 e 1 0 ]
+"244
+[v _IOCAF2_SetInterruptHandler IOCAF2_SetInterruptHandler `(v  1 e 1 0 ]
+"251
+[v _IOCAF2_DefaultInterruptHandler IOCAF2_DefaultInterruptHandler `(v  1 e 1 0 ]
+"259
+[v _IOCBF4_ISR IOCBF4_ISR `(v  1 e 1 0 ]
+"274
+[v _IOCBF4_SetInterruptHandler IOCBF4_SetInterruptHandler `(v  1 e 1 0 ]
+"281
+[v _IOCBF4_DefaultInterruptHandler IOCBF4_DefaultInterruptHandler `(v  1 e 1 0 ]
+"289
+[v _IOCCF5_ISR IOCCF5_ISR `(v  1 e 1 0 ]
+"304
+[v _IOCCF5_SetInterruptHandler IOCCF5_SetInterruptHandler `(v  1 e 1 0 ]
+"311
+[v _IOCCF5_DefaultInterruptHandler IOCCF5_DefaultInterruptHandler `(v  1 e 1 0 ]
+"62 C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+[v _SPI1_Initialize SPI1_Initialize `(v  1 e 1 0 ]
+"77
+[v _SPI1_Open SPI1_Open `(a  1 e 1 0 ]
+"97
+[v _SPI1_ExchangeByte SPI1_ExchangeByte `(uc  1 e 1 0 ]
+"101 C:\Users\sseba\MPLABXProjects\ililib.X/GFX_Library.h
+[v _cursor_x cursor_x `s  1 e 2 0 ]
+"102
+[v _cursor_y cursor_y `s  1 e 2 0 ]
+"104
+[v _textcolor textcolor `us  1 e 2 0 ]
+"105
+[v _textbgcolor textbgcolor `us  1 e 2 0 ]
+"107
+[v _textsize textsize `uc  1 e 1 0 ]
+"113
+[v _font font `DC[256][5]uc  1 e 1280 0 ]
+"135 C:\Users\sseba\MPLABXProjects\ililib.X/ILI9341.h
+[v __width _width `us  1 e 2 0 ]
+"136
+[v __height _height `us  1 e 2 0 ]
+"137
+[v _rotation rotation `uc  1 e 1 0 ]
+"142
+[v _initcmd initcmd `DC[111]uc  1 e 111 0 ]
+[s S688 . 1 `uc 1 INTEDG 1 0 :1:0 
+`uc 1 . 1 0 :5:1 
+`uc 1 PEIE 1 0 :1:6 
+`uc 1 GIE 1 0 :1:7 
+]
+"364 C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/PIC16F1xxxx_DFP/1.4.119/xc8\pic\include\proc\pic16f18875.h
+[u S693 . 1 `S688 1 . 1 0 ]
+[v _INTCONbits INTCONbits `VES693  1 e 1 @11 ]
+[s S663 . 1 `uc 1 RA0 1 0 :1:0 
+`uc 1 RA1 1 0 :1:1 
+`uc 1 RA2 1 0 :1:2 
+`uc 1 RA3 1 0 :1:3 
+`uc 1 RA4 1 0 :1:4 
+`uc 1 RA5 1 0 :1:5 
+`uc 1 RA6 1 0 :1:6 
+`uc 1 RA7 1 0 :1:7 
+]
+"401
+[u S672 . 1 `S663 1 . 1 0 ]
+[v _PORTAbits PORTAbits `VES672  1 e 1 @12 ]
+"670
+[v _TRISA TRISA `VEuc  1 e 1 @17 ]
+"732
+[v _TRISB TRISB `VEuc  1 e 1 @18 ]
+"794
+[v _TRISC TRISC `VEuc  1 e 1 @19 ]
+[s S483 . 1 `uc 1 TRISC0 1 0 :1:0 
+`uc 1 TRISC1 1 0 :1:1 
+`uc 1 TRISC2 1 0 :1:2 
+`uc 1 TRISC3 1 0 :1:3 
+`uc 1 TRISC4 1 0 :1:4 
+`uc 1 TRISC5 1 0 :1:5 
+`uc 1 TRISC6 1 0 :1:6 
+`uc 1 TRISC7 1 0 :1:7 
+]
+"811
+[u S492 . 1 `S483 1 . 1 0 ]
+[v _TRISCbits TRISCbits `VES492  1 e 1 @19 ]
+"856
+[v _TRISD TRISD `VEuc  1 e 1 @20 ]
+"918
+[v _TRISE TRISE `VEuc  1 e 1 @21 ]
+"950
+[v _LATA LATA `VEuc  1 e 1 @22 ]
+[s S1374 . 1 `uc 1 LATA0 1 0 :1:0 
+`uc 1 LATA1 1 0 :1:1 
+`uc 1 LATA2 1 0 :1:2 
+`uc 1 LATA3 1 0 :1:3 
+`uc 1 LATA4 1 0 :1:4 
+`uc 1 LATA5 1 0 :1:5 
+`uc 1 LATA6 1 0 :1:6 
+`uc 1 LATA7 1 0 :1:7 
+]
+"967
+[u S1383 . 1 `S1374 1 . 1 0 ]
+[v _LATAbits LATAbits `VES1383  1 e 1 @22 ]
+"1012
+[v _LATB LATB `VEuc  1 e 1 @23 ]
+"1074
+[v _LATC LATC `VEuc  1 e 1 @24 ]
+[s S1340 . 1 `uc 1 LATC0 1 0 :1:0 
+`uc 1 LATC1 1 0 :1:1 
+`uc 1 LATC2 1 0 :1:2 
+`uc 1 LATC3 1 0 :1:3 
+`uc 1 LATC4 1 0 :1:4 
+`uc 1 LATC5 1 0 :1:5 
+`uc 1 LATC6 1 0 :1:6 
+`uc 1 LATC7 1 0 :1:7 
+]
+"1091
+[u S1349 . 1 `S1340 1 . 1 0 ]
+[v _LATCbits LATCbits `VES1349  1 e 1 @24 ]
+"1136
+[v _LATD LATD `VEuc  1 e 1 @25 ]
+"1198
+[v _LATE LATE `VEuc  1 e 1 @26 ]
+"4615
+[v _SSP1BUF SSP1BUF `VEuc  1 e 1 @396 ]
+"4635
+[v _SSP1ADD SSP1ADD `VEuc  1 e 1 @397 ]
+"4825
+[v _SSP1STAT SSP1STAT `VEuc  1 e 1 @399 ]
+"5189
+[v _SSP1CON1 SSP1CON1 `VEuc  1 e 1 @400 ]
+[s S504 . 1 `uc 1 SSPM 1 0 :4:0 
+`uc 1 CKP 1 0 :1:4 
+`uc 1 SSPEN 1 0 :1:5 
+`uc 1 SSPOV 1 0 :1:6 
+`uc 1 WCOL 1 0 :1:7 
+]
+"5219
+[s S510 . 1 `uc 1 SSPM0 1 0 :1:0 
+`uc 1 SSPM1 1 0 :1:1 
+`uc 1 SSPM2 1 0 :1:2 
+`uc 1 SSPM3 1 0 :1:3 
+]
+[s S515 . 1 `uc 1 SSPM01 1 0 :1:0 
+`uc 1 SSPM11 1 0 :1:1 
+`uc 1 SSPM21 1 0 :1:2 
+`uc 1 SSPM31 1 0 :1:3 
+`uc 1 CKP1 1 0 :1:4 
+`uc 1 SSPEN1 1 0 :1:5 
+`uc 1 SSPOV1 1 0 :1:6 
+`uc 1 WCOL1 1 0 :1:7 
+]
+[u S524 . 1 `S504 1 . 1 0 `S510 1 . 1 0 `S515 1 . 1 0 ]
+[v _SSP1CON1bits SSP1CON1bits `VES524  1 e 1 @400 ]
+"5309
+[v _SSP1CON2 SSP1CON2 `VEuc  1 e 1 @401 ]
+[s S624 . 1 `uc 1 INTF 1 0 :1:0 
+`uc 1 . 1 0 :3:1 
+`uc 1 IOCIF 1 0 :1:4 
+`uc 1 TMR0IF 1 0 :1:5 
+]
+"21325
+[u S629 . 1 `S624 1 . 1 0 ]
+[v _PIR0bits PIR0bits `VES629  1 e 1 @1804 ]
+[s S553 . 1 `uc 1 SSP1IF 1 0 :1:0 
+`uc 1 BCL1IF 1 0 :1:1 
+`uc 1 SSP2IF 1 0 :1:2 
+`uc 1 BCL2IF 1 0 :1:3 
+`uc 1 TXIF 1 0 :1:4 
+`uc 1 RCIF 1 0 :1:5 
+]
+"21432
+[u S560 . 1 `S553 1 . 1 0 ]
+[v _PIR3bits PIR3bits `VES560  1 e 1 @1807 ]
+[s S320 . 1 `uc 1 INTE 1 0 :1:0 
+`uc 1 . 1 0 :3:1 
+`uc 1 IOCIE 1 0 :1:4 
+`uc 1 TMR0IE 1 0 :1:5 
+]
+"21747
+[u S325 . 1 `S320 1 . 1 0 ]
+[v _PIE0bits PIE0bits `VES325  1 e 1 @1814 ]
+"22156
+[v _PMD0 PMD0 `VEuc  1 e 1 @1942 ]
+"22213
+[v _PMD1 PMD1 `VEuc  1 e 1 @1943 ]
+"22284
+[v _PMD2 PMD2 `VEuc  1 e 1 @1944 ]
+"22329
+[v _PMD3 PMD3 `VEuc  1 e 1 @1945 ]
+"22385
+[v _PMD4 PMD4 `VEuc  1 e 1 @1946 ]
+"22436
+[v _PMD5 PMD5 `VEuc  1 e 1 @1947 ]
+"23507
+[v _OSCCON1 OSCCON1 `VEuc  1 e 1 @2189 ]
+"23647
+[v _OSCCON3 OSCCON3 `VEuc  1 e 1 @2191 ]
+"23744
+[v _OSCEN OSCEN `VEuc  1 e 1 @2193 ]
+"23795
+[v _OSCTUNE OSCTUNE `VEuc  1 e 1 @2194 ]
+"23853
+[v _OSCFRQ OSCFRQ `VEuc  1 e 1 @2195 ]
+"31572
+[v _SSP1CLKPPS SSP1CLKPPS `VEuc  1 e 1 @3781 ]
+"31624
+[v _SSP1DATPPS SSP1DATPPS `VEuc  1 e 1 @3782 ]
+"32938
+[v _RC3PPS RC3PPS `VEuc  1 e 1 @3875 ]
+"33088
+[v _RC6PPS RC6PPS `VEuc  1 e 1 @3878 ]
+"33738
+[v _ANSELA ANSELA `VEuc  1 e 1 @3896 ]
+"33800
+[v _WPUA WPUA `VEuc  1 e 1 @3897 ]
+"33862
+[v _ODCONA ODCONA `VEuc  1 e 1 @3898 ]
+"33924
+[v _SLRCONA SLRCONA `VEuc  1 e 1 @3899 ]
+"33986
+[v _INLVLA INLVLA `VEuc  1 e 1 @3900 ]
+[s S133 . 1 `uc 1 IOCAP0 1 0 :1:0 
+`uc 1 IOCAP1 1 0 :1:1 
+`uc 1 IOCAP2 1 0 :1:2 
+`uc 1 IOCAP3 1 0 :1:3 
+`uc 1 IOCAP4 1 0 :1:4 
+`uc 1 IOCAP5 1 0 :1:5 
+`uc 1 IOCAP6 1 0 :1:6 
+`uc 1 IOCAP7 1 0 :1:7 
+]
+"34065
+[u S142 . 1 `S133 1 . 1 0 ]
+"34065
+"34065
+[v _IOCAPbits IOCAPbits `VES142  1 e 1 @3901 ]
+[s S112 . 1 `uc 1 IOCAN0 1 0 :1:0 
+`uc 1 IOCAN1 1 0 :1:1 
+`uc 1 IOCAN2 1 0 :1:2 
+`uc 1 IOCAN3 1 0 :1:3 
+`uc 1 IOCAN4 1 0 :1:4 
+`uc 1 IOCAN5 1 0 :1:5 
+`uc 1 IOCAN6 1 0 :1:6 
+`uc 1 IOCAN7 1 0 :1:7 
+]
+"34127
+[u S121 . 1 `S112 1 . 1 0 ]
+"34127
+"34127
+[v _IOCANbits IOCANbits `VES121  1 e 1 @3902 ]
+[s S91 . 1 `uc 1 IOCAF0 1 0 :1:0 
+`uc 1 IOCAF1 1 0 :1:1 
+`uc 1 IOCAF2 1 0 :1:2 
+`uc 1 IOCAF3 1 0 :1:3 
+`uc 1 IOCAF4 1 0 :1:4 
+`uc 1 IOCAF5 1 0 :1:5 
+`uc 1 IOCAF6 1 0 :1:6 
+`uc 1 IOCAF7 1 0 :1:7 
+]
+"34189
+[u S100 . 1 `S91 1 . 1 0 ]
+"34189
+"34189
+[v _IOCAFbits IOCAFbits `VES100  1 e 1 @3903 ]
+"34358
+[v _ANSELB ANSELB `VEuc  1 e 1 @3907 ]
+"34420
+[v _WPUB WPUB `VEuc  1 e 1 @3908 ]
+"34482
+[v _ODCONB ODCONB `VEuc  1 e 1 @3909 ]
+"34544
+[v _SLRCONB SLRCONB `VEuc  1 e 1 @3910 ]
+"34606
+[v _INLVLB INLVLB `VEuc  1 e 1 @3911 ]
+[s S196 . 1 `uc 1 IOCBP0 1 0 :1:0 
+`uc 1 IOCBP1 1 0 :1:1 
+`uc 1 IOCBP2 1 0 :1:2 
+`uc 1 IOCBP3 1 0 :1:3 
+`uc 1 IOCBP4 1 0 :1:4 
+`uc 1 IOCBP5 1 0 :1:5 
+`uc 1 IOCBP6 1 0 :1:6 
+`uc 1 IOCBP7 1 0 :1:7 
+]
+"34685
+[u S205 . 1 `S196 1 . 1 0 ]
+"34685
+"34685
+[v _IOCBPbits IOCBPbits `VES205  1 e 1 @3912 ]
+[s S175 . 1 `uc 1 IOCBN0 1 0 :1:0 
+`uc 1 IOCBN1 1 0 :1:1 
+`uc 1 IOCBN2 1 0 :1:2 
+`uc 1 IOCBN3 1 0 :1:3 
+`uc 1 IOCBN4 1 0 :1:4 
+`uc 1 IOCBN5 1 0 :1:5 
+`uc 1 IOCBN6 1 0 :1:6 
+`uc 1 IOCBN7 1 0 :1:7 
+]
+"34747
+[u S184 . 1 `S175 1 . 1 0 ]
+"34747
+"34747
+[v _IOCBNbits IOCBNbits `VES184  1 e 1 @3913 ]
+[s S154 . 1 `uc 1 IOCBF0 1 0 :1:0 
+`uc 1 IOCBF1 1 0 :1:1 
+`uc 1 IOCBF2 1 0 :1:2 
+`uc 1 IOCBF3 1 0 :1:3 
+`uc 1 IOCBF4 1 0 :1:4 
+`uc 1 IOCBF5 1 0 :1:5 
+`uc 1 IOCBF6 1 0 :1:6 
+`uc 1 IOCBF7 1 0 :1:7 
+]
+"34809
+[u S163 . 1 `S154 1 . 1 0 ]
+"34809
+"34809
+[v _IOCBFbits IOCBFbits `VES163  1 e 1 @3914 ]
+"34978
+[v _ANSELC ANSELC `VEuc  1 e 1 @3918 ]
+"35040
+[v _WPUC WPUC `VEuc  1 e 1 @3919 ]
+"35102
+[v _ODCONC ODCONC `VEuc  1 e 1 @3920 ]
+"35164
+[v _SLRCONC SLRCONC `VEuc  1 e 1 @3921 ]
+"35226
+[v _INLVLC INLVLC `VEuc  1 e 1 @3922 ]
+[s S259 . 1 `uc 1 IOCCP0 1 0 :1:0 
+`uc 1 IOCCP1 1 0 :1:1 
+`uc 1 IOCCP2 1 0 :1:2 
+`uc 1 IOCCP3 1 0 :1:3 
+`uc 1 IOCCP4 1 0 :1:4 
+`uc 1 IOCCP5 1 0 :1:5 
+`uc 1 IOCCP6 1 0 :1:6 
+`uc 1 IOCCP7 1 0 :1:7 
+]
+"35305
+[u S268 . 1 `S259 1 . 1 0 ]
+"35305
+"35305
+[v _IOCCPbits IOCCPbits `VES268  1 e 1 @3923 ]
+[s S238 . 1 `uc 1 IOCCN0 1 0 :1:0 
+`uc 1 IOCCN1 1 0 :1:1 
+`uc 1 IOCCN2 1 0 :1:2 
+`uc 1 IOCCN3 1 0 :1:3 
+`uc 1 IOCCN4 1 0 :1:4 
+`uc 1 IOCCN5 1 0 :1:5 
+`uc 1 IOCCN6 1 0 :1:6 
+`uc 1 IOCCN7 1 0 :1:7 
+]
+"35367
+[u S247 . 1 `S238 1 . 1 0 ]
+"35367
+"35367
+[v _IOCCNbits IOCCNbits `VES247  1 e 1 @3924 ]
+[s S217 . 1 `uc 1 IOCCF0 1 0 :1:0 
+`uc 1 IOCCF1 1 0 :1:1 
+`uc 1 IOCCF2 1 0 :1:2 
+`uc 1 IOCCF3 1 0 :1:3 
+`uc 1 IOCCF4 1 0 :1:4 
+`uc 1 IOCCF5 1 0 :1:5 
+`uc 1 IOCCF6 1 0 :1:6 
+`uc 1 IOCCF7 1 0 :1:7 
+]
+"35429
+[u S226 . 1 `S217 1 . 1 0 ]
+"35429
+"35429
+[v _IOCCFbits IOCCFbits `VES226  1 e 1 @3925 ]
+"35598
+[v _ANSELD ANSELD `VEuc  1 e 1 @3929 ]
+"35660
+[v _WPUD WPUD `VEuc  1 e 1 @3930 ]
+"35722
+[v _ODCOND ODCOND `VEuc  1 e 1 @3931 ]
+"35784
+[v _SLRCOND SLRCOND `VEuc  1 e 1 @3932 ]
+"35846
+[v _INLVLD INLVLD `VEuc  1 e 1 @3933 ]
+"36032
+[v _ANSELE ANSELE `VEuc  1 e 1 @3940 ]
+"36064
+[v _WPUE WPUE `VEuc  1 e 1 @3941 ]
+"36102
+[v _ODCONE ODCONE `VEuc  1 e 1 @3942 ]
+"36134
+[v _SLRCONE SLRCONE `VEuc  1 e 1 @3943 ]
+"36166
+[v _INLVLE INLVLE `VEuc  1 e 1 @3944 ]
+"55 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+[v _flags flags `i  1 s 2 flags ]
+[v _prec prec `i  1 s 2 prec ]
+[v _width width `i  1 s 2 width ]
+"66
+[v _dbuf dbuf `[32]uc  1 s 32 dbuf ]
+"69
+[v _nout nout `i  1 s 2 nout ]
+[s S648 . 10 `uc 1 sentido 1 0 `uc 1 velocidad 1 1 `uc 1 escala 1 2 `uc 1 id 1 3 `[5]uc 1 forma 5 4 `uc 1 posicion 1 9 ]
+"51 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+[v _jugador1 jugador1 `S648  1 e 10 0 ]
+"52
+[v _jugador2 jugador2 `S648  1 e 10 0 ]
+[s S655 . 12 `uc 1 sentidox 1 0 `uc 1 sentidoy 1 1 `uc 1 velocidad 1 2 `uc 1 escala 1 3 `[5]uc 1 forma 5 4 `uc 1 posicionx 1 9 `us 1 posiciony 2 10 ]
+"53
+[v _bolita bolita `S655  1 e 12 0 ]
+"55
+[v _movimiento_jugador1 movimiento_jugador1 `uc  1 e 1 0 ]
+[v _movimiento_jugador2 movimiento_jugador2 `uc  1 e 1 0 ]
+"56
+[v _marcador marcador `[3]uc  1 e 3 0 ]
+"57
+[v _puntaje1 puntaje1 `uc  1 e 1 0 ]
+"58
+[v _puntaje2 puntaje2 `uc  1 e 1 0 ]
+"54 C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+[v _IOCAF1_InterruptHandler IOCAF1_InterruptHandler `*.37(v  1 e 2 0 ]
+"55
+[v _IOCAF2_InterruptHandler IOCAF2_InterruptHandler `*.37(v  1 e 2 0 ]
+"56
+[v _IOCBF4_InterruptHandler IOCBF4_InterruptHandler `*.37(v  1 e 2 0 ]
+"57
+[v _IOCCF5_InterruptHandler IOCCF5_InterruptHandler `*.37(v  1 e 2 0 ]
+[s S471 . 4 `uc 1 con1 1 0 `uc 1 stat 1 1 `uc 1 add 1 2 `uc 1 operation 1 3 ]
+"58 C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+[v _spi1_configuration spi1_configuration `DC[1]S471  1 s 4 spi1_configuration ]
+"84 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+[v _main main `(v  1 e 1 0 ]
+{
+"181
+} 0
+"94 C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+[v _tft_begin tft_begin `(v  1 e 1 0 ]
+{
+"121
+[v tft_begin@addr addr `*.25DCuc  1 a 2 8 ]
+"120
+[v tft_begin@cmd cmd `uc  1 a 1 7 ]
+[v tft_begin@x x `uc  1 a 1 6 ]
+[v tft_begin@numArgs numArgs `uc  1 a 1 5 ]
+"138
+} 0
+"216 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+[v _moverJugador moverJugador `(v  1 e 1 0 ]
+{
+"217
+[v moverJugador@y y `uc  1 a 1 70 ]
+[s S648 . 10 `uc 1 sentido 1 0 `uc 1 velocidad 1 1 `uc 1 escala 1 2 `uc 1 id 1 3 `[5]uc 1 forma 5 4 `uc 1 posicion 1 9 ]
+"216
+[v moverJugador@jugador jugador `*.39S648  1 p 2 63 ]
+"229
+} 0
+"827 C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+[v _display_drawCustomChar display_drawCustomChar `(v  1 e 1 0 ]
+{
+"832
+[v display_drawCustomChar@prev_bg prev_bg `us  1 a 2 60 ]
+"831
+[v display_drawCustomChar@prev_color prev_color `us  1 a 2 58 ]
+"830
+[v display_drawCustomChar@prev_y prev_y `us  1 a 2 56 ]
+"829
+[v display_drawCustomChar@prev_x prev_x `us  1 a 2 54 ]
+"833
+[v display_drawCustomChar@prev_size prev_size `uc  1 a 1 62 ]
+"827
+[v display_drawCustomChar@x x `us  1 p 2 43 ]
+[v display_drawCustomChar@y y `us  1 p 2 45 ]
+[v display_drawCustomChar@c c `*.39uc  1 p 2 47 ]
+[v display_drawCustomChar@color color `us  1 p 2 49 ]
+[v display_drawCustomChar@bg bg `us  1 p 2 51 ]
+"828
+[v display_drawCustomChar@size size `uc  1 p 1 53 ]
+"846
+} 0
+"515
+[v _display_customChar display_customChar `(v  1 e 1 0 ]
+{
+"519
+[v display_customChar@j j `uc  1 a 1 41 ]
+"518
+[v display_customChar@line line `uc  1 a 1 40 ]
+"517
+[v display_customChar@i i `uc  1 a 1 42 ]
+"515
+[v display_customChar@c c `*.39DCuc  1 p 2 26 ]
+"553
+} 0
+"4 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul8.c
+[v ___bmul __bmul `(uc  1 e 1 0 ]
+{
+[v ___bmul@multiplier multiplier `uc  1 a 1 wreg ]
+"6
+[v ___bmul@product product `uc  1 a 1 3 ]
+"4
+[v ___bmul@multiplier multiplier `uc  1 a 1 wreg ]
+[v ___bmul@multiplicand multiplicand `uc  1 p 1 1 ]
+"6
+[v ___bmul@multiplier multiplier `uc  1 a 1 4 ]
+"51
+} 0
+"297 C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+[v _fillScreen fillScreen `(v  1 e 1 0 ]
+{
+[v fillScreen@color color `us  1 p 2 26 ]
+"299
+} 0
+"201 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+[v _dibujarMarcador dibujarMarcador `(v  1 e 1 0 ]
+{
+[v dibujarMarcador@puntaje1 puntaje1 `uc  1 a 1 wreg ]
+[v dibujarMarcador@puntaje1 puntaje1 `uc  1 a 1 wreg ]
+[v dibujarMarcador@puntaje2 puntaje2 `uc  1 p 1 77 ]
+[v dibujarMarcador@puntaje1 puntaje1 `uc  1 a 1 78 ]
+"213
+} 0
+"9 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_sprintf.c
+[v _sprintf sprintf `(i  1 e 2 0 ]
+{
+[v sprintf@s s `*.4uc  1 a 1 wreg ]
+[s S1902 _IO_FILE 5 `*.4uc 1 buffer 1 0 `i 1 count 2 1 `i 1 limit 2 3 ]
+"13
+[v sprintf@f f `S1902  1 a 5 4 ]
+"12
+[v sprintf@ap ap `[1]*.4v  1 a 1 2 ]
+"9
+[v sprintf@s s `*.4uc  1 a 1 wreg ]
+[v sprintf@fmt fmt `*.25DCuc  1 p 2 70 ]
+"15
+[v sprintf@s s `*.4uc  1 a 1 3 ]
+"23
+} 0
+"1390 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+[v _vfprintf vfprintf `(i  1 e 2 0 ]
+{
+[s S1928 _IO_FILE 0 ]
+[v vfprintf@fp fp `*.4S1928  1 a 1 wreg ]
+"1393
+[v vfprintf@cfmt cfmt `*.25uc  1 a 2 68 ]
+"1390
+[v vfprintf@fp fp `*.4S1928  1 a 1 wreg ]
+[v vfprintf@fmt fmt `*.25DCuc  1 p 2 62 ]
+[v vfprintf@ap ap `*.4*.4v  1 p 1 64 ]
+"1395
+"1390
+[v vfprintf@fp fp `*.4S1928  1 a 1 67 ]
+"1404
+} 0
+"692
+[v _vfpfcnvrt vfpfcnvrt `(i  1 s 2 vfpfcnvrt ]
+{
+[s S1928 _IO_FILE 0 ]
+[v vfpfcnvrt@fp fp `*.4S1928  1 a 1 wreg ]
+"696
+[v vfpfcnvrt@ll ll `o  1 a 8 53 ]
+"692
+[v vfpfcnvrt@fp fp `*.4S1928  1 a 1 wreg ]
+[v vfpfcnvrt@fmt fmt `*.4*.25uc  1 p 1 46 ]
+[v vfpfcnvrt@ap ap `*.4*.4v  1 p 1 47 ]
+"702
+"692
+[v vfpfcnvrt@fp fp `*.4S1928  1 a 1 61 ]
+"1387
+} 0
+"287
+[v _dtoa dtoa `(i  1 s 2 dtoa ]
+{
+[s S1928 _IO_FILE 0 ]
+[v dtoa@fp fp `*.4S1928  1 a 1 wreg ]
+"290
+[v dtoa@n n `o  1 a 8 36 ]
+"289
+[v dtoa@i i `i  1 a 2 44 ]
+[v dtoa@s s `i  1 a 2 34 ]
+[v dtoa@w w `i  1 a 2 32 ]
+[v dtoa@p p `i  1 a 2 30 ]
+"287
+[v dtoa@fp fp `*.4S1928  1 a 1 wreg ]
+[v dtoa@d d `o  1 p 8 16 ]
+"293
+"287
+[v dtoa@fp fp `*.4S1928  1 a 1 27 ]
+"328
+} 0
+"72
+[v _pad pad `(i  1 s 2 pad ]
+{
+[s S1928 _IO_FILE 0 ]
+[v pad@fp fp `*.4S1928  1 a 1 wreg ]
+"74
+[v pad@w w `i  1 a 2 12 ]
+[v pad@i i `i  1 a 2 10 ]
+"72
+[v pad@fp fp `*.4S1928  1 a 1 wreg ]
+[v pad@buf buf `*.5uc  1 p 1 7 ]
+[v pad@p p `i  1 p 2 8 ]
+"77
+"72
+[v pad@fp fp `*.4S1928  1 a 1 14 ]
+"95
+} 0
+"5 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\strlen.c
+[v _strlen strlen `(ui  1 e 2 0 ]
+{
+[v strlen@s s `*.5DCuc  1 a 1 wreg ]
+"7
+[v strlen@a a `*.5DCuc  1 a 1 4 ]
+"5
+[v strlen@s s `*.5DCuc  1 a 1 wreg ]
+"7
+[v strlen@s s `*.5DCuc  1 a 1 5 ]
+"12
+} 0
+"8 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputs.c
+[v _fputs fputs `(i  1 e 2 0 ]
+{
+[v fputs@s s `*.5DCuc  1 a 1 wreg ]
+"11
+[v fputs@i i `i  1 a 2 4 ]
+"10
+[v fputs@c c `uc  1 a 1 3 ]
+"8
+[v fputs@s s `*.5DCuc  1 a 1 wreg ]
+[s S1902 _IO_FILE 5 `*.4uc 1 buffer 1 0 `i 1 count 2 1 `i 1 limit 2 3 ]
+[v fputs@fp fp `*.4S1902  1 p 1 9 ]
+"13
+[v fputs@s s `*.5DCuc  1 a 1 6 ]
+"19
+} 0
+"8 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputc.c
+[v _fputc fputc `(i  1 e 2 0 ]
+{
+[v fputc@c c `i  1 p 2 1 ]
+[s S1902 _IO_FILE 5 `*.4uc 1 buffer 1 0 `i 1 count 2 1 `i 1 limit 2 3 ]
+[v fputc@fp fp `*.4S1902  1 p 1 3 ]
+"24
+} 0
+"7 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\putch.c
+[v _putch putch `(v  1 e 1 0 ]
+{
+"9
+} 0
+"1 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\abs.c
+[v _abs abs `(i  1 e 2 0 ]
+{
+[v abs@a a `i  1 p 2 4 ]
+"4
+} 0
+"7 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
+[v ___aomod __aomod `(o  1 e 8 0 ]
+{
+"12
+[v ___aomod@sign sign `uc  1 a 1 3 ]
+[v ___aomod@counter counter `uc  1 a 1 2 ]
+"7
+[v ___aomod@divisor divisor `o  1 p 8 0 ]
+[v ___aomod@dividend dividend `o  1 p 8 8 ]
+"36
+} 0
+"7 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
+[v ___aodiv __aodiv `(o  1 e 8 0 ]
+{
+"12
+[v ___aodiv@quotient quotient `o  1 a 8 4 ]
+"13
+[v ___aodiv@sign sign `uc  1 a 1 3 ]
+[v ___aodiv@counter counter `uc  1 a 1 2 ]
+"7
+[v ___aodiv@divisor divisor `o  1 p 8 0 ]
+[v ___aodiv@dividend dividend `o  1 p 8 8 ]
+"43
+} 0
+"171 C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+[v _setRotation setRotation `(v  1 e 1 0 ]
+{
+[v setRotation@m m `uc  1 a 1 wreg ]
+[v setRotation@m m `uc  1 a 1 wreg ]
+[v setRotation@m m `uc  1 a 1 5 ]
+"200
+} 0
+"624 C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+[v _display_setTextSize display_setTextSize `(v  1 e 1 0 ]
+{
+[v display_setTextSize@s s `uc  1 a 1 wreg ]
+[v display_setTextSize@s s `uc  1 a 1 wreg ]
+[v display_setTextSize@s s `uc  1 a 1 5 ]
+"626
+} 0
+"646
+[v _display_setTextColor2 display_setTextColor2 `(v  1 e 1 0 ]
+{
+[v display_setTextColor2@c c `us  1 p 2 1 ]
+"648
+} 0
+"635
+[v _display_setTextColor display_setTextColor `(v  1 e 1 0 ]
+{
+[v display_setTextColor@c c `us  1 p 2 1 ]
+[v display_setTextColor@bg bg `us  1 p 2 3 ]
+"638
+} 0
+"593
+[v _display_setCursor display_setCursor `(v  1 e 1 0 ]
+{
+[v display_setCursor@x x `us  1 p 2 1 ]
+[v display_setCursor@y y `us  1 p 2 3 ]
+"596
+} 0
+"231 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+[v _disp_texto disp_texto `(v  1 e 1 0 ]
+{
+"232
+[v disp_texto@i i `uc  1 a 1 11 ]
+"231
+[v disp_texto@cadena cadena `*.26uc  1 p 2 42 ]
+"236
+} 0
+"460 C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+[v _display_print display_print `(v  1 e 1 0 ]
+{
+[v display_print@c c `uc  1 a 1 wreg ]
+"475
+[v display_print@j j `uc  1 a 1 40 ]
+"474
+[v display_print@line line `uc  1 a 1 38 ]
+"473
+[v display_print@i i `uc  1 a 1 41 ]
+"460
+[v display_print@c c `uc  1 a 1 wreg ]
+"462
+[v display_print@c c `uc  1 a 1 39 ]
+"511
+} 0
+"271 C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+[v _fillRect fillRect `(v  1 e 1 0 ]
+{
+"282
+[v fillRect@px px `ul  1 a 4 20 ]
+"273
+[v fillRect@lo lo `uc  1 a 1 25 ]
+[v fillRect@hi hi `uc  1 a 1 24 ]
+"271
+[v fillRect@x x `us  1 p 2 6 ]
+[v fillRect@y y `us  1 p 2 8 ]
+[v fillRect@w w `us  1 p 2 10 ]
+[v fillRect@h h `us  1 p 2 12 ]
+[v fillRect@color color `us  1 p 2 14 ]
+"289
+} 0
+"15 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul32.c
+[v ___lmul __lmul `(ul  1 e 4 0 ]
+{
+"17
+[v ___lmul@product product `ul  1 a 4 0 ]
+"15
+[v ___lmul@multiplier multiplier `ul  1 p 4 1 ]
+[v ___lmul@multiplicand multiplicand `ul  1 p 4 5 ]
+"129
+} 0
+"246 C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+[v _drawVLine drawVLine `(v  1 e 1 0 ]
+{
+"248
+[v drawVLine@lo lo `uc  1 a 1 19 ]
+[v drawVLine@hi hi `uc  1 a 1 18 ]
+"246
+[v drawVLine@x x `us  1 p 2 6 ]
+[v drawVLine@y y `us  1 p 2 8 ]
+[v drawVLine@h h `us  1 p 2 10 ]
+[v drawVLine@color color `us  1 p 2 12 ]
+"259
+} 0
+"202
+[v _drawPixel drawPixel `(v  1 e 1 0 ]
+{
+[v drawPixel@x x `us  1 p 2 6 ]
+[v drawPixel@y y `us  1 p 2 8 ]
+[v drawPixel@color color `us  1 p 2 10 ]
+"210
+} 0
+"54
+[v _startWrite startWrite `(v  1 e 1 0 ]
+{
+"57
+} 0
+"149
+[v _setAddrWindow setAddrWindow `(v  1 e 1 0 ]
+{
+"151
+[v setAddrWindow@y2 y2 `us  1 a 2 4 ]
+"150
+[v setAddrWindow@x2 x2 `us  1 a 2 2 ]
+"149
+[v setAddrWindow@x1 x1 `us  1 p 2 3 ]
+[v setAddrWindow@y1 y1 `us  1 p 2 5 ]
+[v setAddrWindow@w w `us  1 p 2 7 ]
+[v setAddrWindow@h h `us  1 p 2 9 ]
+"163
+} 0
+"81
+[v _writeCommand writeCommand `(v  1 e 1 0 ]
+{
+[v writeCommand@cmd cmd `uc  1 a 1 wreg ]
+[v writeCommand@cmd cmd `uc  1 a 1 wreg ]
+[v writeCommand@cmd cmd `uc  1 a 1 2 ]
+"85
+} 0
+"97 C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+[v _SPI1_ExchangeByte SPI1_ExchangeByte `(uc  1 e 1 0 ]
+{
+[v SPI1_ExchangeByte@data data `uc  1 a 1 wreg ]
+[v SPI1_ExchangeByte@data data `uc  1 a 1 wreg ]
+"99
+[v SPI1_ExchangeByte@data data `uc  1 a 1 1 ]
+"103
+} 0
+"66 C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+[v _endWrite endWrite `(v  1 e 1 0 ]
+{
+"69
+} 0
+"15 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul16.c
+[v ___wmul __wmul `(ui  1 e 2 0 ]
+{
+"17
+[v ___wmul@product product `ui  1 a 2 5 ]
+"15
+[v ___wmul@multiplier multiplier `ui  1 p 2 1 ]
+[v ___wmul@multiplicand multiplicand `ui  1 p 2 3 ]
+"53
+} 0
+"50 C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
+[v _SYSTEM_Initialize SYSTEM_Initialize `(v  1 e 1 0 ]
+{
+"56
+} 0
+"62 C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+[v _SPI1_Initialize SPI1_Initialize `(v  1 e 1 0 ]
+{
+"75
+} 0
+"72 C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
+[v _PMD_Initialize PMD_Initialize `(v  1 e 1 0 ]
+{
+"86
+} 0
+"60 C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+[v _PIN_MANAGER_Initialize PIN_MANAGER_Initialize `(v  1 e 1 0 ]
+{
+"170
+} 0
+"304
+[v _IOCCF5_SetInterruptHandler IOCCF5_SetInterruptHandler `(v  1 e 1 0 ]
+{
+[v IOCCF5_SetInterruptHandler@InterruptHandler InterruptHandler `*.37(v  1 p 2 1 ]
+"306
+} 0
+"274
+[v _IOCBF4_SetInterruptHandler IOCBF4_SetInterruptHandler `(v  1 e 1 0 ]
+{
+[v IOCBF4_SetInterruptHandler@InterruptHandler InterruptHandler `*.37(v  1 p 2 1 ]
+"276
+} 0
+"244
+[v _IOCAF2_SetInterruptHandler IOCAF2_SetInterruptHandler `(v  1 e 1 0 ]
+{
+[v IOCAF2_SetInterruptHandler@InterruptHandler InterruptHandler `*.37(v  1 p 2 1 ]
+"246
+} 0
+"214
+[v _IOCAF1_SetInterruptHandler IOCAF1_SetInterruptHandler `(v  1 e 1 0 ]
+{
+[v IOCAF1_SetInterruptHandler@InterruptHandler InterruptHandler `*.37(v  1 p 2 1 ]
+"216
+} 0
+"58 C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
+[v _OSCILLATOR_Initialize OSCILLATOR_Initialize `(v  1 e 1 0 ]
+{
+"70
+} 0
+"77 C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+[v _SPI1_Open SPI1_Open `(a  1 e 1 0 ]
+{
+[v SPI1_Open@spi1UniqueConfiguration spi1UniqueConfiguration `E355  1 a 1 wreg ]
+[v SPI1_Open@spi1UniqueConfiguration spi1UniqueConfiguration `E355  1 a 1 wreg ]
+"79
+[v SPI1_Open@spi1UniqueConfiguration spi1UniqueConfiguration `E355  1 a 1 4 ]
+"90
+} 0
+"52 C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/interrupt_manager.c
+[v _INTERRUPT_InterruptManager INTERRUPT_InterruptManager `II(v  1 e 1 0 ]
+{
+"63
+} 0
+"172 C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+[v _PIN_MANAGER_IOC PIN_MANAGER_IOC `(v  1 e 1 0 ]
+{
+"194
+} 0
+"289
+[v _IOCCF5_ISR IOCCF5_ISR `(v  1 e 1 0 ]
+{
+"299
+} 0
+"311
+[v _IOCCF5_DefaultInterruptHandler IOCCF5_DefaultInterruptHandler `(v  1 e 1 0 ]
+{
+"314
+} 0
+"188 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+[v _ctrl_der ctrl_der `(v  1 e 1 0 ]
+{
+"190
+} 0
+"259 C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+[v _IOCBF4_ISR IOCBF4_ISR `(v  1 e 1 0 ]
+{
+"269
+} 0
+"281
+[v _IOCBF4_DefaultInterruptHandler IOCBF4_DefaultInterruptHandler `(v  1 e 1 0 ]
+{
+"284
+} 0
+"184 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+[v _ctrl_izq ctrl_izq `(v  1 e 1 0 ]
+{
+"186
+} 0
+"229 C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+[v _IOCAF2_ISR IOCAF2_ISR `(v  1 e 1 0 ]
+{
+"239
+} 0
+"251
+[v _IOCAF2_DefaultInterruptHandler IOCAF2_DefaultInterruptHandler `(v  1 e 1 0 ]
+{
+"254
+} 0
+"197 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+[v _ctrl_der2 ctrl_der2 `(v  1 e 1 0 ]
+{
+"199
+} 0
+"199 C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+[v _IOCAF1_ISR IOCAF1_ISR `(v  1 e 1 0 ]
+{
+"209
+} 0
+"221
+[v _IOCAF1_DefaultInterruptHandler IOCAF1_DefaultInterruptHandler `(v  1 e 1 0 ]
+{
+"224
+} 0
+"193 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+[v _ctrl_izq2 ctrl_izq2 `(v  1 e 1 0 ]
+{
+"195
+} 0
