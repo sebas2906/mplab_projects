@@ -7,11 +7,11 @@
 [e E355 . `uc
 SPI1_DEFAULT 0
 ]
-"88 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+"95 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
 [e E12595 . `uc
 SPI1_DEFAULT 0
 ]
-"114
+"121
 [e E12831 Interrupciones `uc
 inactivo 0
 izquierda 1
@@ -119,21 +119,21 @@ derecha 2
 [v _fillRect fillRect `(v  1 e 1 0 ]
 "297
 [v _fillScreen fillScreen `(v  1 e 1 0 ]
-"84 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+"91 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
 [v _main main `(v  1 e 1 0 ]
-"184
+"191
 [v _ctrl_izq ctrl_izq `(v  1 e 1 0 ]
-"188
+"195
 [v _ctrl_der ctrl_der `(v  1 e 1 0 ]
-"193
+"200
 [v _ctrl_izq2 ctrl_izq2 `(v  1 e 1 0 ]
-"197
+"204
 [v _ctrl_der2 ctrl_der2 `(v  1 e 1 0 ]
-"201
+"208
 [v _dibujarMarcador dibujarMarcador `(v  1 e 1 0 ]
-"216
+"223
 [v _moverJugador moverJugador `(v  1 e 1 0 ]
-"231
+"238
 [v _disp_texto disp_texto `(v  1 e 1 0 ]
 "52 C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/interrupt_manager.c
 [v _INTERRUPT_InterruptManager INTERRUPT_InterruptManager `II(v  1 e 1 0 ]
@@ -187,6 +187,8 @@ derecha 2
 [v _textbgcolor textbgcolor `us  1 e 2 0 ]
 "107
 [v _textsize textsize `uc  1 e 1 0 ]
+"109
+[v _wrap wrap `a  1 e 1 0 ]
 "113
 [v _font font `DC[256][5]uc  1 e 1280 0 ]
 "135 C:\Users\sseba\MPLABXProjects\ililib.X/ILI9341.h
@@ -547,21 +549,21 @@ derecha 2
 "69
 [v _nout nout `i  1 s 2 nout ]
 [s S648 . 10 `uc 1 sentido 1 0 `uc 1 velocidad 1 1 `uc 1 escala 1 2 `uc 1 id 1 3 `[5]uc 1 forma 5 4 `uc 1 posicion 1 9 ]
-"51 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+"58 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
 [v _jugador1 jugador1 `S648  1 e 10 0 ]
-"52
+"59
 [v _jugador2 jugador2 `S648  1 e 10 0 ]
 [s S655 . 12 `uc 1 sentidox 1 0 `uc 1 sentidoy 1 1 `uc 1 velocidad 1 2 `uc 1 escala 1 3 `[5]uc 1 forma 5 4 `uc 1 posicionx 1 9 `us 1 posiciony 2 10 ]
-"53
+"60
 [v _bolita bolita `S655  1 e 12 0 ]
-"55
+"62
 [v _movimiento_jugador1 movimiento_jugador1 `uc  1 e 1 0 ]
 [v _movimiento_jugador2 movimiento_jugador2 `uc  1 e 1 0 ]
-"56
+"63
 [v _marcador marcador `[3]uc  1 e 3 0 ]
-"57
+"64
 [v _puntaje1 puntaje1 `uc  1 e 1 0 ]
-"58
+"65
 [v _puntaje2 puntaje2 `uc  1 e 1 0 ]
 "54 C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
 [v _IOCAF1_InterruptHandler IOCAF1_InterruptHandler `*.37(v  1 e 2 0 ]
@@ -574,10 +576,10 @@ derecha 2
 [s S471 . 4 `uc 1 con1 1 0 `uc 1 stat 1 1 `uc 1 add 1 2 `uc 1 operation 1 3 ]
 "58 C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
 [v _spi1_configuration spi1_configuration `DC[1]S471  1 s 4 spi1_configuration ]
-"84 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+"91 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
 [v _main main `(v  1 e 1 0 ]
 {
-"181
+"188
 } 0
 "94 C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
 [v _tft_begin tft_begin `(v  1 e 1 0 ]
@@ -590,15 +592,15 @@ derecha 2
 [v tft_begin@numArgs numArgs `uc  1 a 1 5 ]
 "138
 } 0
-"216 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+"223 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
 [v _moverJugador moverJugador `(v  1 e 1 0 ]
 {
-"217
+"224
 [v moverJugador@y y `uc  1 a 1 70 ]
 [s S648 . 10 `uc 1 sentido 1 0 `uc 1 velocidad 1 1 `uc 1 escala 1 2 `uc 1 id 1 3 `[5]uc 1 forma 5 4 `uc 1 posicion 1 9 ]
-"216
+"223
 [v moverJugador@jugador jugador `*.39S648  1 p 2 63 ]
-"229
+"236
 } 0
 "827 C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
 [v _display_drawCustomChar display_drawCustomChar `(v  1 e 1 0 ]
@@ -655,14 +657,14 @@ derecha 2
 [v fillScreen@color color `us  1 p 2 26 ]
 "299
 } 0
-"201 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+"208 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
 [v _dibujarMarcador dibujarMarcador `(v  1 e 1 0 ]
 {
 [v dibujarMarcador@puntaje1 puntaje1 `uc  1 a 1 wreg ]
 [v dibujarMarcador@puntaje1 puntaje1 `uc  1 a 1 wreg ]
 [v dibujarMarcador@puntaje2 puntaje2 `uc  1 p 1 77 ]
 [v dibujarMarcador@puntaje1 puntaje1 `uc  1 a 1 78 ]
-"213
+"220
 } 0
 "9 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_sprintf.c
 [v _sprintf sprintf `(i  1 e 2 0 ]
@@ -856,14 +858,14 @@ derecha 2
 [v display_setCursor@y y `us  1 p 2 3 ]
 "596
 } 0
-"231 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+"238 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
 [v _disp_texto disp_texto `(v  1 e 1 0 ]
 {
-"232
+"239
 [v disp_texto@i i `uc  1 a 1 11 ]
-"231
+"238
 [v disp_texto@cadena cadena `*.26uc  1 p 2 42 ]
-"236
+"243
 } 0
 "460 C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
 [v _display_print display_print `(v  1 e 1 0 ]
@@ -1057,10 +1059,10 @@ derecha 2
 {
 "314
 } 0
-"188 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+"195 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
 [v _ctrl_der ctrl_der `(v  1 e 1 0 ]
 {
-"190
+"197
 } 0
 "259 C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
 [v _IOCBF4_ISR IOCBF4_ISR `(v  1 e 1 0 ]
@@ -1072,10 +1074,10 @@ derecha 2
 {
 "284
 } 0
-"184 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+"191 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
 [v _ctrl_izq ctrl_izq `(v  1 e 1 0 ]
 {
-"186
+"193
 } 0
 "229 C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
 [v _IOCAF2_ISR IOCAF2_ISR `(v  1 e 1 0 ]
@@ -1087,10 +1089,10 @@ derecha 2
 {
 "254
 } 0
-"197 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+"204 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
 [v _ctrl_der2 ctrl_der2 `(v  1 e 1 0 ]
 {
-"199
+"206
 } 0
 "199 C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
 [v _IOCAF1_ISR IOCAF1_ISR `(v  1 e 1 0 ]
@@ -1102,8 +1104,8 @@ derecha 2
 {
 "224
 } 0
-"193 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+"200 C:\Users\sseba\MPLABXProjects\ililib.X\main.c
 [v _ctrl_izq2 ctrl_izq2 `(v  1 e 1 0 ]
 {
-"195
+"202
 } 0

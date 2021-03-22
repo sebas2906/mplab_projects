@@ -1,0 +1,549 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PIC14E ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F18875 ]
+[d frameptr 6 ]
+"77 C:\Users\sseba\MPLABXProjects\ili9341lib.X\mcc_generated_files/spi1.c
+[e E355 . `uc
+SPI1_DEFAULT 0
+]
+"40 C:\Users\sseba\MPLABXProjects\ili9341lib.X\main.c
+[e E12563 . `uc
+SPI1_DEFAULT 0
+]
+"1 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\abs.c
+[v _abs abs `(i  1 e 2 0 ]
+"5 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aldiv.c
+[v ___aldiv __aldiv `(l  1 e 4 0 ]
+"5 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\awdiv.c
+[v ___awdiv __awdiv `(i  1 e 2 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"15 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul16.c
+[v ___wmul __wmul `(ui  1 e 2 0 ]
+"15 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul32.c
+[v ___lmul __lmul `(ul  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul8.c
+[v ___bmul __bmul `(uc  1 e 1 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"70 C:\Users\sseba\MPLABXProjects\ili9341lib.X\GFX_Library.c
+[v _writeLine writeLine `(v  1 e 1 0 ]
+"119
+[v _display_drawLine display_drawLine `(v  1 e 1 0 ]
+"141
+[v _display_drawCircle display_drawCircle `(v  1 e 1 0 ]
+"184
+[v _display_drawCircleHelper display_drawCircleHelper `(v  1 e 1 0 ]
+"228
+[v _display_fillCircle display_fillCircle `(v  1 e 1 0 ]
+"245
+[v _display_fillCircleHelper display_fillCircleHelper `(v  1 e 1 0 ]
+"290
+[v _display_drawRect display_drawRect `(v  1 e 1 0 ]
+"308
+[v _display_drawRoundRect display_drawRoundRect `(v  1 e 1 0 ]
+"334
+[v _display_fillRoundRect display_fillRoundRect `(v  1 e 1 0 ]
+"359
+[v _display_drawTriangle display_drawTriangle `(v  1 e 1 0 ]
+"378
+[v _display_fillTriangle display_fillTriangle `(v  1 e 1 0 ]
+"460
+[v _display_print display_print `(v  1 e 1 0 ]
+"515
+[v _display_customChar display_customChar `(v  1 e 1 0 ]
+"593
+[v _display_setCursor display_setCursor `(v  1 e 1 0 ]
+"624
+[v _display_setTextSize display_setTextSize `(v  1 e 1 0 ]
+"635
+[v _display_setTextColor display_setTextColor `(v  1 e 1 0 ]
+"646
+[v _display_setTextColor2 display_setTextColor2 `(v  1 e 1 0 ]
+"702
+[v _display_color565 display_color565 `(us  1 e 2 0 ]
+"53 C:\Users\sseba\MPLABXProjects\ili9341lib.X\ILI9341.c
+[v _startWrite startWrite `(v  1 e 1 0 ]
+"65
+[v _endWrite endWrite `(v  1 e 1 0 ]
+"80
+[v _writeCommand writeCommand `(v  1 e 1 0 ]
+"93
+[v _tft_begin tft_begin `(v  1 e 1 0 ]
+"152
+[v _setAddrWindow setAddrWindow `(v  1 e 1 0 ]
+"174
+[v _setRotation setRotation `(v  1 e 1 0 ]
+"205
+[v _drawPixel drawPixel `(v  1 e 1 0 ]
+"224
+[v _drawHLine drawHLine `(v  1 e 1 0 ]
+"249
+[v _drawVLine drawVLine `(v  1 e 1 0 ]
+"274
+[v _fillRect fillRect `(v  1 e 1 0 ]
+"300
+[v _fillScreen fillScreen `(v  1 e 1 0 ]
+"37 C:\Users\sseba\MPLABXProjects\ili9341lib.X\main.c
+[v _main main `(v  1 e 1 0 ]
+"59
+[v _disp_texto disp_texto `(v  1 e 1 0 ]
+"66
+[v _testFillScreen testFillScreen `(v  1 e 1 0 ]
+"74
+[v _testText testText `(v  1 e 1 0 ]
+"50 C:\Users\sseba\MPLABXProjects\ili9341lib.X\mcc_generated_files/mcc.c
+[v _SYSTEM_Initialize SYSTEM_Initialize `(v  1 e 1 0 ]
+"58
+[v _OSCILLATOR_Initialize OSCILLATOR_Initialize `(v  1 e 1 0 ]
+"72
+[v _PMD_Initialize PMD_Initialize `(v  1 e 1 0 ]
+"55 C:\Users\sseba\MPLABXProjects\ili9341lib.X\mcc_generated_files/pin_manager.c
+[v _PIN_MANAGER_Initialize PIN_MANAGER_Initialize `(v  1 e 1 0 ]
+"62 C:\Users\sseba\MPLABXProjects\ili9341lib.X\mcc_generated_files/spi1.c
+[v _SPI1_Initialize SPI1_Initialize `(v  1 e 1 0 ]
+"77
+[v _SPI1_Open SPI1_Open `(a  1 e 1 0 ]
+"97
+[v _SPI1_ExchangeByte SPI1_ExchangeByte `(uc  1 e 1 0 ]
+"101 C:\Users\sseba\MPLABXProjects\ili9341lib.X/GFX_Library.h
+[v _cursor_x cursor_x `s  1 e 2 0 ]
+"102
+[v _cursor_y cursor_y `s  1 e 2 0 ]
+"104
+[v _textcolor textcolor `us  1 e 2 0 ]
+"105
+[v _textbgcolor textbgcolor `us  1 e 2 0 ]
+"107
+[v _textsize textsize `uc  1 e 1 0 ]
+"109
+[v _wrap wrap `a  1 e 1 0 ]
+"113
+[v _font font `DC[256][5]uc  1 e 1280 0 ]
+"135 C:\Users\sseba\MPLABXProjects\ili9341lib.X/ILI9341.h
+[v __width _width `us  1 e 2 0 ]
+"136
+[v __height _height `us  1 e 2 0 ]
+"137
+[v _rotation rotation `uc  1 e 1 0 ]
+"142
+[v _initcmd initcmd `DC[111]uc  1 e 111 0 ]
+[s S345 . 1 `uc 1 RA0 1 0 :1:0 
+`uc 1 RA1 1 0 :1:1 
+`uc 1 RA2 1 0 :1:2 
+`uc 1 RA3 1 0 :1:3 
+`uc 1 RA4 1 0 :1:4 
+`uc 1 RA5 1 0 :1:5 
+`uc 1 RA6 1 0 :1:6 
+`uc 1 RA7 1 0 :1:7 
+]
+"401 C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/PIC16F1xxxx_DFP/1.4.119/xc8\pic\include\proc\pic16f18875.h
+[u S354 . 1 `S345 1 . 1 0 ]
+[v _PORTAbits PORTAbits `VES354  1 e 1 @12 ]
+"670
+[v _TRISA TRISA `VEuc  1 e 1 @17 ]
+"732
+[v _TRISB TRISB `VEuc  1 e 1 @18 ]
+"794
+[v _TRISC TRISC `VEuc  1 e 1 @19 ]
+[s S558 . 1 `uc 1 TRISC0 1 0 :1:0 
+`uc 1 TRISC1 1 0 :1:1 
+`uc 1 TRISC2 1 0 :1:2 
+`uc 1 TRISC3 1 0 :1:3 
+`uc 1 TRISC4 1 0 :1:4 
+`uc 1 TRISC5 1 0 :1:5 
+`uc 1 TRISC6 1 0 :1:6 
+`uc 1 TRISC7 1 0 :1:7 
+]
+"811
+[u S567 . 1 `S558 1 . 1 0 ]
+[v _TRISCbits TRISCbits `VES567  1 e 1 @19 ]
+"856
+[v _TRISD TRISD `VEuc  1 e 1 @20 ]
+"918
+[v _TRISE TRISE `VEuc  1 e 1 @21 ]
+"950
+[v _LATA LATA `VEuc  1 e 1 @22 ]
+[s S371 . 1 `uc 1 LATA0 1 0 :1:0 
+`uc 1 LATA1 1 0 :1:1 
+`uc 1 LATA2 1 0 :1:2 
+`uc 1 LATA3 1 0 :1:3 
+`uc 1 LATA4 1 0 :1:4 
+`uc 1 LATA5 1 0 :1:5 
+`uc 1 LATA6 1 0 :1:6 
+`uc 1 LATA7 1 0 :1:7 
+]
+"967
+[u S380 . 1 `S371 1 . 1 0 ]
+[v _LATAbits LATAbits `VES380  1 e 1 @22 ]
+"1012
+[v _LATB LATB `VEuc  1 e 1 @23 ]
+"1074
+[v _LATC LATC `VEuc  1 e 1 @24 ]
+[s S324 . 1 `uc 1 LATC0 1 0 :1:0 
+`uc 1 LATC1 1 0 :1:1 
+`uc 1 LATC2 1 0 :1:2 
+`uc 1 LATC3 1 0 :1:3 
+`uc 1 LATC4 1 0 :1:4 
+`uc 1 LATC5 1 0 :1:5 
+`uc 1 LATC6 1 0 :1:6 
+`uc 1 LATC7 1 0 :1:7 
+]
+"1091
+[u S333 . 1 `S324 1 . 1 0 ]
+[v _LATCbits LATCbits `VES333  1 e 1 @24 ]
+"1136
+[v _LATD LATD `VEuc  1 e 1 @25 ]
+"1198
+[v _LATE LATE `VEuc  1 e 1 @26 ]
+"4615
+[v _SSP1BUF SSP1BUF `VEuc  1 e 1 @396 ]
+"4635
+[v _SSP1ADD SSP1ADD `VEuc  1 e 1 @397 ]
+"4825
+[v _SSP1STAT SSP1STAT `VEuc  1 e 1 @399 ]
+"5189
+[v _SSP1CON1 SSP1CON1 `VEuc  1 e 1 @400 ]
+[s S579 . 1 `uc 1 SSPM 1 0 :4:0 
+`uc 1 CKP 1 0 :1:4 
+`uc 1 SSPEN 1 0 :1:5 
+`uc 1 SSPOV 1 0 :1:6 
+`uc 1 WCOL 1 0 :1:7 
+]
+"5219
+[s S585 . 1 `uc 1 SSPM0 1 0 :1:0 
+`uc 1 SSPM1 1 0 :1:1 
+`uc 1 SSPM2 1 0 :1:2 
+`uc 1 SSPM3 1 0 :1:3 
+]
+[s S590 . 1 `uc 1 SSPM01 1 0 :1:0 
+`uc 1 SSPM11 1 0 :1:1 
+`uc 1 SSPM21 1 0 :1:2 
+`uc 1 SSPM31 1 0 :1:3 
+`uc 1 CKP1 1 0 :1:4 
+`uc 1 SSPEN1 1 0 :1:5 
+`uc 1 SSPOV1 1 0 :1:6 
+`uc 1 WCOL1 1 0 :1:7 
+]
+[u S599 . 1 `S579 1 . 1 0 `S585 1 . 1 0 `S590 1 . 1 0 ]
+[v _SSP1CON1bits SSP1CON1bits `VES599  1 e 1 @400 ]
+"5309
+[v _SSP1CON2 SSP1CON2 `VEuc  1 e 1 @401 ]
+[s S628 . 1 `uc 1 SSP1IF 1 0 :1:0 
+`uc 1 BCL1IF 1 0 :1:1 
+`uc 1 SSP2IF 1 0 :1:2 
+`uc 1 BCL2IF 1 0 :1:3 
+`uc 1 TXIF 1 0 :1:4 
+`uc 1 RCIF 1 0 :1:5 
+]
+"21432
+[u S635 . 1 `S628 1 . 1 0 ]
+[v _PIR3bits PIR3bits `VES635  1 e 1 @1807 ]
+"22156
+[v _PMD0 PMD0 `VEuc  1 e 1 @1942 ]
+"22213
+[v _PMD1 PMD1 `VEuc  1 e 1 @1943 ]
+"22284
+[v _PMD2 PMD2 `VEuc  1 e 1 @1944 ]
+"22329
+[v _PMD3 PMD3 `VEuc  1 e 1 @1945 ]
+"22385
+[v _PMD4 PMD4 `VEuc  1 e 1 @1946 ]
+"22436
+[v _PMD5 PMD5 `VEuc  1 e 1 @1947 ]
+"23507
+[v _OSCCON1 OSCCON1 `VEuc  1 e 1 @2189 ]
+"23647
+[v _OSCCON3 OSCCON3 `VEuc  1 e 1 @2191 ]
+"23744
+[v _OSCEN OSCEN `VEuc  1 e 1 @2193 ]
+"23795
+[v _OSCTUNE OSCTUNE `VEuc  1 e 1 @2194 ]
+"23853
+[v _OSCFRQ OSCFRQ `VEuc  1 e 1 @2195 ]
+"31572
+[v _SSP1CLKPPS SSP1CLKPPS `VEuc  1 e 1 @3781 ]
+"31624
+[v _SSP1DATPPS SSP1DATPPS `VEuc  1 e 1 @3782 ]
+"32938
+[v _RC3PPS RC3PPS `VEuc  1 e 1 @3875 ]
+"33088
+[v _RC6PPS RC6PPS `VEuc  1 e 1 @3878 ]
+"33738
+[v _ANSELA ANSELA `VEuc  1 e 1 @3896 ]
+"33800
+[v _WPUA WPUA `VEuc  1 e 1 @3897 ]
+"33862
+[v _ODCONA ODCONA `VEuc  1 e 1 @3898 ]
+"33924
+[v _SLRCONA SLRCONA `VEuc  1 e 1 @3899 ]
+"33986
+[v _INLVLA INLVLA `VEuc  1 e 1 @3900 ]
+"34358
+[v _ANSELB ANSELB `VEuc  1 e 1 @3907 ]
+"34420
+[v _WPUB WPUB `VEuc  1 e 1 @3908 ]
+"34482
+[v _ODCONB ODCONB `VEuc  1 e 1 @3909 ]
+"34544
+[v _SLRCONB SLRCONB `VEuc  1 e 1 @3910 ]
+"34606
+[v _INLVLB INLVLB `VEuc  1 e 1 @3911 ]
+"34978
+[v _ANSELC ANSELC `VEuc  1 e 1 @3918 ]
+"35040
+[v _WPUC WPUC `VEuc  1 e 1 @3919 ]
+"35102
+[v _ODCONC ODCONC `VEuc  1 e 1 @3920 ]
+"35164
+[v _SLRCONC SLRCONC `VEuc  1 e 1 @3921 ]
+"35226
+[v _INLVLC INLVLC `VEuc  1 e 1 @3922 ]
+"35598
+[v _ANSELD ANSELD `VEuc  1 e 1 @3929 ]
+"35660
+[v _WPUD WPUD `VEuc  1 e 1 @3930 ]
+"35722
+[v _ODCOND ODCOND `VEuc  1 e 1 @3931 ]
+"35784
+[v _SLRCOND SLRCOND `VEuc  1 e 1 @3932 ]
+"35846
+[v _INLVLD INLVLD `VEuc  1 e 1 @3933 ]
+"36032
+[v _ANSELE ANSELE `VEuc  1 e 1 @3940 ]
+"36064
+[v _WPUE WPUE `VEuc  1 e 1 @3941 ]
+"36102
+[v _ODCONE ODCONE `VEuc  1 e 1 @3942 ]
+"36134
+[v _SLRCONE SLRCONE `VEuc  1 e 1 @3943 ]
+"36166
+[v _INLVLE INLVLE `VEuc  1 e 1 @3944 ]
+[s S546 . 4 `uc 1 con1 1 0 `uc 1 stat 1 1 `uc 1 add 1 2 `uc 1 operation 1 3 ]
+"58 C:\Users\sseba\MPLABXProjects\ili9341lib.X\mcc_generated_files/spi1.c
+[v _spi1_configuration spi1_configuration `DC[1]S546  1 s 4 spi1_configuration ]
+"37 C:\Users\sseba\MPLABXProjects\ili9341lib.X\main.c
+[v _main main `(v  1 e 1 0 ]
+{
+"50
+[v main@i i `uc  1 a 1 48 ]
+"57
+} 0
+"93 C:\Users\sseba\MPLABXProjects\ili9341lib.X\ILI9341.c
+[v _tft_begin tft_begin `(v  1 e 1 0 ]
+{
+"124
+[v tft_begin@addr addr `*.25DCuc  1 a 2 7 ]
+"123
+[v tft_begin@cmd cmd `uc  1 a 1 6 ]
+[v tft_begin@x x `uc  1 a 1 5 ]
+[v tft_begin@numArgs numArgs `uc  1 a 1 4 ]
+"141
+} 0
+"74 C:\Users\sseba\MPLABXProjects\ili9341lib.X\main.c
+[v _testText testText `(v  1 e 1 0 ]
+{
+"105
+} 0
+"624 C:\Users\sseba\MPLABXProjects\ili9341lib.X\GFX_Library.c
+[v _display_setTextSize display_setTextSize `(v  1 e 1 0 ]
+{
+[v display_setTextSize@s s `uc  1 a 1 wreg ]
+[v display_setTextSize@s s `uc  1 a 1 wreg ]
+[v display_setTextSize@s s `uc  1 a 1 4 ]
+"626
+} 0
+"646
+[v _display_setTextColor2 display_setTextColor2 `(v  1 e 1 0 ]
+{
+[v display_setTextColor2@c c `us  1 p 2 0 ]
+"648
+} 0
+"593
+[v _display_setCursor display_setCursor `(v  1 e 1 0 ]
+{
+[v display_setCursor@x x `us  1 p 2 0 ]
+[v display_setCursor@y y `us  1 p 2 2 ]
+"596
+} 0
+"59 C:\Users\sseba\MPLABXProjects\ili9341lib.X\main.c
+[v _disp_texto disp_texto `(v  1 e 1 0 ]
+{
+"60
+[v disp_texto@i i `uc  1 a 1 45 ]
+"59
+[v disp_texto@cadena cadena `*.25uc  1 p 2 40 ]
+"64
+} 0
+"460 C:\Users\sseba\MPLABXProjects\ili9341lib.X\GFX_Library.c
+[v _display_print display_print `(v  1 e 1 0 ]
+{
+[v display_print@c c `uc  1 a 1 wreg ]
+"475
+[v display_print@j j `uc  1 a 1 38 ]
+"474
+[v display_print@line line `uc  1 a 1 36 ]
+"473
+[v display_print@i i `uc  1 a 1 39 ]
+"460
+[v display_print@c c `uc  1 a 1 wreg ]
+"462
+[v display_print@c c `uc  1 a 1 37 ]
+"511
+} 0
+"249 C:\Users\sseba\MPLABXProjects\ili9341lib.X\ILI9341.c
+[v _drawVLine drawVLine `(v  1 e 1 0 ]
+{
+"251
+[v drawVLine@lo lo `uc  1 a 1 13 ]
+[v drawVLine@hi hi `uc  1 a 1 12 ]
+"249
+[v drawVLine@x x `us  1 p 2 4 ]
+[v drawVLine@y y `us  1 p 2 6 ]
+[v drawVLine@h h `us  1 p 2 8 ]
+[v drawVLine@color color `us  1 p 2 10 ]
+"262
+} 0
+"205
+[v _drawPixel drawPixel `(v  1 e 1 0 ]
+{
+[v drawPixel@x x `us  1 p 2 4 ]
+[v drawPixel@y y `us  1 p 2 6 ]
+[v drawPixel@color color `us  1 p 2 8 ]
+"213
+} 0
+"15 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul16.c
+[v ___wmul __wmul `(ui  1 e 2 0 ]
+{
+"17
+[v ___wmul@product product `ui  1 a 2 4 ]
+"15
+[v ___wmul@multiplier multiplier `ui  1 p 2 0 ]
+[v ___wmul@multiplicand multiplicand `ui  1 p 2 2 ]
+"53
+} 0
+"66 C:\Users\sseba\MPLABXProjects\ili9341lib.X\main.c
+[v _testFillScreen testFillScreen `(v  1 e 1 0 ]
+{
+"72
+} 0
+"300 C:\Users\sseba\MPLABXProjects\ili9341lib.X\ILI9341.c
+[v _fillScreen fillScreen `(v  1 e 1 0 ]
+{
+[v fillScreen@color color `us  1 p 2 24 ]
+"302
+} 0
+"274
+[v _fillRect fillRect `(v  1 e 1 0 ]
+{
+"285
+[v fillRect@px px `ul  1 a 4 18 ]
+"276
+[v fillRect@lo lo `uc  1 a 1 23 ]
+[v fillRect@hi hi `uc  1 a 1 22 ]
+"274
+[v fillRect@x x `us  1 p 2 4 ]
+[v fillRect@y y `us  1 p 2 6 ]
+[v fillRect@w w `us  1 p 2 8 ]
+[v fillRect@h h `us  1 p 2 10 ]
+[v fillRect@color color `us  1 p 2 12 ]
+"292
+} 0
+"152
+[v _setAddrWindow setAddrWindow `(v  1 e 1 0 ]
+{
+"154
+[v setAddrWindow@y2 y2 `us  1 a 2 2 ]
+"153
+[v setAddrWindow@x2 x2 `us  1 a 2 0 ]
+"152
+[v setAddrWindow@x1 x1 `us  1 p 2 2 ]
+[v setAddrWindow@y1 y1 `us  1 p 2 4 ]
+[v setAddrWindow@w w `us  1 p 2 6 ]
+[v setAddrWindow@h h `us  1 p 2 8 ]
+"166
+} 0
+"15 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul32.c
+[v ___lmul __lmul `(ul  1 e 4 0 ]
+{
+"17
+[v ___lmul@product product `ul  1 a 4 8 ]
+"15
+[v ___lmul@multiplier multiplier `ul  1 p 4 0 ]
+[v ___lmul@multiplicand multiplicand `ul  1 p 4 4 ]
+"129
+} 0
+"174 C:\Users\sseba\MPLABXProjects\ili9341lib.X\ILI9341.c
+[v _setRotation setRotation `(v  1 e 1 0 ]
+{
+[v setRotation@m m `uc  1 a 1 wreg ]
+[v setRotation@m m `uc  1 a 1 wreg ]
+[v setRotation@m m `uc  1 a 1 4 ]
+"203
+} 0
+"80
+[v _writeCommand writeCommand `(v  1 e 1 0 ]
+{
+[v writeCommand@cmd cmd `uc  1 a 1 wreg ]
+[v writeCommand@cmd cmd `uc  1 a 1 wreg ]
+[v writeCommand@cmd cmd `uc  1 a 1 1 ]
+"84
+} 0
+"97 C:\Users\sseba\MPLABXProjects\ili9341lib.X\mcc_generated_files/spi1.c
+[v _SPI1_ExchangeByte SPI1_ExchangeByte `(uc  1 e 1 0 ]
+{
+[v SPI1_ExchangeByte@data data `uc  1 a 1 wreg ]
+[v SPI1_ExchangeByte@data data `uc  1 a 1 wreg ]
+"99
+[v SPI1_ExchangeByte@data data `uc  1 a 1 0 ]
+"103
+} 0
+"53 C:\Users\sseba\MPLABXProjects\ili9341lib.X\ILI9341.c
+[v _startWrite startWrite `(v  1 e 1 0 ]
+{
+"56
+} 0
+"65
+[v _endWrite endWrite `(v  1 e 1 0 ]
+{
+"68
+} 0
+"50 C:\Users\sseba\MPLABXProjects\ili9341lib.X\mcc_generated_files/mcc.c
+[v _SYSTEM_Initialize SYSTEM_Initialize `(v  1 e 1 0 ]
+{
+"56
+} 0
+"62 C:\Users\sseba\MPLABXProjects\ili9341lib.X\mcc_generated_files/spi1.c
+[v _SPI1_Initialize SPI1_Initialize `(v  1 e 1 0 ]
+{
+"75
+} 0
+"72 C:\Users\sseba\MPLABXProjects\ili9341lib.X\mcc_generated_files/mcc.c
+[v _PMD_Initialize PMD_Initialize `(v  1 e 1 0 ]
+{
+"86
+} 0
+"55 C:\Users\sseba\MPLABXProjects\ili9341lib.X\mcc_generated_files/pin_manager.c
+[v _PIN_MANAGER_Initialize PIN_MANAGER_Initialize `(v  1 e 1 0 ]
+{
+"131
+} 0
+"58 C:\Users\sseba\MPLABXProjects\ili9341lib.X\mcc_generated_files/mcc.c
+[v _OSCILLATOR_Initialize OSCILLATOR_Initialize `(v  1 e 1 0 ]
+{
+"70
+} 0
+"77 C:\Users\sseba\MPLABXProjects\ili9341lib.X\mcc_generated_files/spi1.c
+[v _SPI1_Open SPI1_Open `(a  1 e 1 0 ]
+{
+[v SPI1_Open@spi1UniqueConfiguration spi1UniqueConfiguration `E355  1 a 1 wreg ]
+[v SPI1_Open@spi1UniqueConfiguration spi1UniqueConfiguration `E355  1 a 1 wreg ]
+"79
+[v SPI1_Open@spi1UniqueConfiguration spi1UniqueConfiguration `E355  1 a 1 3 ]
+"90
+} 0

@@ -207,6 +207,7 @@ void ctrl_der2() {
 
 void dibujarMarcador(uint8_t puntaje1,uint8_t puntaje2){
     setRotation(1);
+    __delay_ms(10);
     display_setCursor((ILI9341_TFTHEIGHT/2)-10,0);
     display_setTextSize(2);
     display_setTextColor(ILI9341_BLACK,ILI9341_BLACK);

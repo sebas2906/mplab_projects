@@ -12,73 +12,73 @@
 # in delta units.  Any other numeric values are decimal.
 %PSECTS
 $dist/default/production\ililib.X.production.o
-cinit CODE 0 10 10 30 2
-text1 CODE 0 1625 1625 85 2
-text2 CODE 0 16AA 16AA 93 2
-text3 CODE 0 14D6 14D6 6C 2
-text4 CODE 0 DE5 DE5 21B 2
-text5 CODE 0 11BB 11BB 11 2
-text6 CODE 0 1270 1270 1D 2
-text7 CODE 0 799 799 60 2
-text8 CODE 0 12D6 12D6 28 2
-text9 CODE 0 12FE 12FE 2D 2
-text10 CODE 0 830 830 CE 2
-text11 CODE 0 ACD ACD 14D 2
-text12 CODE 0 1488 1488 4E 2
-text13 CODE 0 1222 1222 18 2
-text14 CODE 0 12B1 12B1 25 2
-text15 CODE 0 1365 1365 45 2
-text16 CODE 0 3 3 1 2
-text17 CODE 0 120B 120B 17 2
-text18 CODE 0 8FE 8FE DC 2
-text19 CODE 0 9DA 9DA F3 2
-text20 CODE 0 13F2 13F2 49 2
-text21 CODE 0 11F6 11F6 15 2
-text22 CODE 0 1149 1149 9 2
-text23 CODE 0 115C 115C A 2
-text24 CODE 0 1152 1152 A 2
-text25 CODE 0 128D 128D 24 2
-text26 CODE 0 540 540 259 2
-text27 CODE 0 173D 173D C3 2
-text28 CODE 0 801 801 2F 2
-text29 CODE 0 15B2 15B2 73 2
-text30 CODE 0 132B 132B 3A 2
-text31 CODE 0 1102 1102 3 2
-text32 CODE 0 13AA 13AA 48 2
-text33 CODE 0 1140 1140 9 2
-text34 CODE 0 1170 1170 B 2
-text35 CODE 0 1105 1105 4 2
-text36 CODE 0 123A 123A 1B 2
-text37 CODE 0 117B 117B C 2
-text38 CODE 0 11E1 11E1 15 2
-text39 CODE 0 112F 112F 8 2
-text40 CODE 0 1542 1542 70 2
-text41 CODE 0 1123 1123 6 2
-text42 CODE 0 1118 1118 5 2
-text43 CODE 0 1113 1113 5 2
-text44 CODE 0 111D 111D 6 2
-text45 CODE 0 1137 1137 9 2
-text46 CODE 0 143B 143B 4D 2
-text48 CODE 0 11CC 11CC 15 2
-text49 CODE 0 11AE 11AE D 2
-text50 CODE 0 2 2 1 2
-text51 CODE 0 110E 110E 5 2
-text52 CODE 0 11A1 11A1 D 2
-text53 CODE 0 800 800 1 2
-text54 CODE 0 10FF 10FF 3 2
-text55 CODE 0 1194 1194 D 2
-text56 CODE 0 10FB 10FB 1 2
-text57 CODE 0 1109 1109 5 2
-text58 CODE 0 1187 1187 D 2
-text59 CODE 0 10FA 10FA 1 2
-text60 CODE 0 10FC 10FC 3 2
+cinit CODE 0 16 16 31 2
+text1 CODE 0 1525 1525 8D 2
+text2 CODE 0 15B2 15B2 9B 2
+text3 CODE 0 13C6 13C6 6E 2
+text4 CODE 0 DC3 DC3 23D 2
+text5 CODE 0 103E 103E 15 2
+text6 CODE 0 10D9 10D9 1F 2
+text7 CODE 0 135B 135B 6B 2
+text8 CODE 0 7D1 7D1 29 2
+text9 CODE 0 116A 116A 31 2
+text10 CODE 0 1725 1725 DB 2
+text11 CODE 0 A4A A4A 170 2
+text12 CODE 0 806 806 59 2
+text13 CODE 0 1085 1085 1A 2
+text14 CODE 0 1141 1141 29 2
+text15 CODE 0 12AB 12AB 4F 2
+text16 CODE 0 2 2 1 2
+text17 CODE 0 106B 106B 1A 2
+text18 CODE 0 85F 85F EA 2
+text19 CODE 0 949 949 101 2
+text20 CODE 0 12FA 12FA 61 2
+text21 CODE 0 1053 1053 18 2
+text22 CODE 0 1FBE 1FBE A 2
+text23 CODE 0 1FB4 1FB4 A 2
+text24 CODE 0 1FAA 1FAA A 2
+text25 CODE 0 1119 1119 28 2
+text26 CODE 0 547 547 28A 2
+text27 CODE 0 164D 164D D8 2
+text28 CODE 0 119B 119B 36 2
+text29 CODE 0 14A5 14A5 80 2
+text30 CODE 0 11D1 11D1 41 2
+text31 CODE 0 1F61 1F61 3 2
+text32 CODE 0 1212 1212 4A 2
+text33 CODE 0 1FA0 1FA0 A 2
+text34 CODE 0 1FD5 1FD5 D 2
+text35 CODE 0 1F68 1F68 4 2
+text36 CODE 0 10BA 10BA 1F 2
+text37 CODE 0 1FC8 1FC8 D 2
+text38 CODE 0 1029 1029 15 2
+text39 CODE 0 1F8F 1F8F 8 2
+text40 CODE 0 1434 1434 71 2
+text41 CODE 0 1F89 1F89 6 2
+text42 CODE 0 1F83 1F83 6 2
+text43 CODE 0 1F7D 1F7D 6 2
+text44 CODE 0 1F77 1F77 6 2
+text45 CODE 0 1F97 1F97 9 2
+text46 CODE 0 125C 125C 4F 2
+text48 CODE 0 10F8 10F8 21 2
+text49 CODE 0 101A 101A F 2
+text50 CODE 0 1000 1000 1 2
+text51 CODE 0 1F6C 1F6C 5 2
+text52 CODE 0 100B 100B F 2
+text53 CODE 0 1F5D 1F5D 1 2
+text54 CODE 0 1F5E 1F5E 3 2
+text55 CODE 0 1FF1 1FF1 F 2
+text56 CODE 0 1F5C 1F5C 1 2
+text57 CODE 0 1F71 1F71 6 2
+text58 CODE 0 1FE2 1FE2 F 2
+text59 CODE 0 1F5B 1F5B 1 2
+text60 CODE 0 1F64 1F64 4 2
 nvBANK1 BANK1 1 E4 E4 8 1
-maintext CODE 0 C1A C1A 1CB 2
+maintext CODE 0 BBA BBA 209 2
 cstackCOMMON COMMON 1 70 70 C 1
 cstackBANK0 BANK0 1 20 20 4F 1
 cstackBANK1 BANK1 1 D2 D2 12 1
-inittext CODE 0 7F9 7F9 6 2
-stringtext1 STRCODE 0 40 40 500 2
+inittext CODE 0 7FA 7FA 6 2
+stringtext1 STRCODE 0 47 47 500 2
 stringtext2 STRCODE 0 1964 1964 4 2
 stringtext3 STRCODE 0 1800 1800 6F 2
 stringtext4 STRCODE 0 186F 186F 1E 2
@@ -87,16 +87,16 @@ stringtext6 STRCODE 0 18AA 18AA 1D 2
 stringtext7 STRCODE 0 18C7 18C7 1C 2
 stringtext8 STRCODE 0 18E3 18E3 16 2
 stringtext9 STRCODE 0 18F9 18F9 15 2
-intentry CODE 0 4 4 A 2
+intentry CODE 0 4 4 10 2
 bssBANK1 BANK1 1 BB BB 17 1
 bssBANK2 BANK2 1 120 120 20 1
-idataBANK0 CODE 0 7FF 7FF 1 2
-idataBANK1 CODE 0 1255 1255 1B 2
-idataBANK2 CODE 0 1166 1166 A 2
+idataBANK0 CODE 0 3 3 1 2
+idataBANK1 CODE 0 109F 109F 1B 2
+idataBANK2 CODE 0 1001 1001 A 2
 dataBANK0 BANK0 1 6F 6F 1 1
 dataBANK1 BANK1 1 A0 A0 1B 1
 dataBANK2 BANK2 1 140 140 A 1
-clrtext CODE 0 1129 1129 6 2
+clrtext CODE 0 800 800 6 2
 bssCOMMON COMMON 1 7C 7C 1 1
 stringtext10 STRCODE 0 190E 190E 12 2
 stringtext11 STRCODE 0 1920 1920 12 2
@@ -106,9 +106,9 @@ stringtext14 STRCODE 0 194C 194C A 2
 stringtext15 STRCODE 0 1956 1956 8 2
 stringtext16 STRCODE 0 195E 195E 6 2
 config CONFIG 4 8007 8007 5 2
-$C:\Users\sseba\AppData\Local\Temp\sc2s.o
+$C:\Users\sseba\AppData\Local\Temp\sfl8.o
 reset_vec CODE 0 0 0 2 2
-end_init CODE 0 E E 2 2
+end_init CODE 0 14 14 2 2
 config CONFIG 4 8007 8007 5 2
 # %UNUSED Section
 # This section enumerates the unused ranges of each CLASS. Each entry
@@ -137,10 +137,8 @@ BANK6 320-36F 1
 BANK7 3A0-3EF 1
 BANK8 420-46F 1
 BANK9 4A0-4EF 1
-CONST 1000-10F9 2
-CONST 1968-1FFF 2
-ENTRY 1000-10F9 2
-ENTRY 1968-1FFF 2
+CONST 1968-1F5A 2
+ENTRY 1968-1F5A 2
 IDLOC 8000-8003 2
 SFR10 500-51F 1
 SFR11 580-59F 1
@@ -165,8 +163,7 @@ SFR29 E80-EEF 1
 SFR30 F00-F6F 1
 SFR31 F80-FEF 1
 STACK 20CA-23EF 1
-CODE 1000-10F9 2
-CODE 1968-1FFF 2
+CODE 1968-1F5A 2
 SFR0 0-1F 1
 SFR1 80-9F 1
 SFR2 100-11F 1
@@ -183,10 +180,8 @@ BANK12 620-64F 1
 BIGRAM 2000-23EF 1
 COMMON 7D-7D 1
 EEDATA F000-F0FF 2
-STRCODE 1000-10F9 2
-STRCODE 1968-1FFF 2
-STRING 1000-10F9 2
-STRING 1968-1FFF 2
+STRCODE 1968-1F5A 2
+STRING 1968-1F5A 2
 # %LINETAB Section
 # This section enumerates the file/line to address mappings.
 # The beginning of the section is indicated by %LINETAB.
@@ -201,694 +196,709 @@ STRING 1968-1FFF 2
 # All other numeric values are in decimal.
 %LINETAB
 $dist/default/production\ililib.X.production.o
-10 cinit CODE >10957:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-10 cinit CODE >10960:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-10 cinit CODE >11078:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-13 cinit CODE >11079:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-14 cinit CODE >11083:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-15 cinit CODE >11084:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-16 cinit CODE >11085:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-17 cinit CODE >11086:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-18 cinit CODE >11087:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-19 cinit CODE >11088:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-1A cinit CODE >11089:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-1B cinit CODE >11090:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-1C cinit CODE >11091:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-1D cinit CODE >11092:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-20 cinit CODE >11096:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-21 cinit CODE >11097:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-22 cinit CODE >11098:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-23 cinit CODE >11099:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-24 cinit CODE >11100:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-25 cinit CODE >11101:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-26 cinit CODE >11102:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-27 cinit CODE >11103:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-28 cinit CODE >11104:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-29 cinit CODE >11105:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-2C cinit CODE >11122:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-2D cinit CODE >11126:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-2E cinit CODE >11127:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-2F cinit CODE >11128:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-30 cinit CODE >11129:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-31 cinit CODE >11130:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-32 cinit CODE >11131:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-35 cinit CODE >11135:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-36 cinit CODE >11136:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-37 cinit CODE >11137:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-38 cinit CODE >11138:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-39 cinit CODE >11139:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-3A cinit CODE >11140:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-3C cinit CODE >11146:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-3C cinit CODE >11148:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-3D cinit CODE >11149:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-3E cinit CODE >11150:C:\Users\sseba\AppData\Local\Temp\sc2s.s
+16 cinit CODE >10958:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+16 cinit CODE >10961:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+16 cinit CODE >11079:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+19 cinit CODE >11080:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+1A cinit CODE >11084:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+1B cinit CODE >11085:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+1C cinit CODE >11086:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+1D cinit CODE >11087:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+1E cinit CODE >11088:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+1F cinit CODE >11089:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+20 cinit CODE >11090:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+21 cinit CODE >11091:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+22 cinit CODE >11092:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+23 cinit CODE >11093:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+26 cinit CODE >11097:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+27 cinit CODE >11098:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+28 cinit CODE >11099:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+29 cinit CODE >11100:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+2A cinit CODE >11101:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+2B cinit CODE >11102:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+2C cinit CODE >11103:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+2D cinit CODE >11104:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+2E cinit CODE >11105:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+2F cinit CODE >11106:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+32 cinit CODE >11123:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+33 cinit CODE >11127:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+34 cinit CODE >11128:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+35 cinit CODE >11129:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+36 cinit CODE >11130:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+37 cinit CODE >11131:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+38 cinit CODE >11132:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+3B cinit CODE >11136:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+3C cinit CODE >11137:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+3D cinit CODE >11138:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+3E cinit CODE >11139:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+3F cinit CODE >11140:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+40 cinit CODE >11141:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+43 cinit CODE >11147:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+43 cinit CODE >11149:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+44 cinit CODE >11150:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+45 cinit CODE >11151:C:\Users\sseba\AppData\Local\Temp\sfl8.s
 4 intentry CODE >52:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/interrupt_manager.c
 6 intentry CODE >55:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/interrupt_manager.c
-A intentry CODE >57:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/interrupt_manager.c
-C intentry CODE >63:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/interrupt_manager.c
-10FC text60 CODE >193:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-10FC text60 CODE >194:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-10FE text60 CODE >195:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-10FA text59 CODE >221:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-10FA text59 CODE >224:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1187 text58 CODE >199:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1187 text58 CODE >204:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-118C text58 CODE >206:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1191 text58 CODE >208:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1193 text58 CODE >209:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1109 text57 CODE >197:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-1109 text57 CODE >198:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-110D text57 CODE >199:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-10FB text56 CODE >251:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-10FB text56 CODE >254:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1194 text55 CODE >229:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1194 text55 CODE >234:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1199 text55 CODE >236:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-119E text55 CODE >238:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-11A0 text55 CODE >239:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-10FF text54 CODE >184:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-10FF text54 CODE >185:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-1101 text54 CODE >186:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-800 text53 CODE >281:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-800 text53 CODE >284:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-11A1 text52 CODE >259:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-11A1 text52 CODE >264:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-11A6 text52 CODE >266:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-11AB text52 CODE >268:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-11AD text52 CODE >269:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-110E text51 CODE >188:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-110E text51 CODE >189:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-1112 text51 CODE >190:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-2 text50 CODE >311:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-2 text50 CODE >314:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-11AE text49 CODE >289:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-11AE text49 CODE >294:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-11B3 text49 CODE >296:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-11B8 text49 CODE >298:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-11BA text49 CODE >299:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-11CC text48 CODE >172:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-11CC text48 CODE >175:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-11CF text48 CODE >177:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-11D2 text48 CODE >180:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-11D4 text48 CODE >182:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-11D7 text48 CODE >185:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-11D9 text48 CODE >187:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-11DC text48 CODE >190:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-11DE text48 CODE >192:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-11E0 text48 CODE >194:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-143B text46 CODE >77:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
-143C text46 CODE >79:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
-143F text46 CODE >81:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
-144E text46 CODE >82:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
-145D text46 CODE >83:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
-145E text46 CODE >84:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
-146D text46 CODE >85:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
-1485 text46 CODE >86:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
-1487 text46 CODE >90:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
-1137 text45 CODE >58:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
-1137 text45 CODE >61:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
-113A text45 CODE >63:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
-113B text45 CODE >65:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
-113C text45 CODE >67:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
-113E text45 CODE >69:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
-113F text45 CODE >70:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
-111D text44 CODE >214:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-111D text44 CODE >215:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1122 text44 CODE >216:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1113 text43 CODE >244:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1113 text43 CODE >245:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1117 text43 CODE >246:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1118 text42 CODE >274:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1118 text42 CODE >275:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-111C text42 CODE >276:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1123 text41 CODE >304:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1123 text41 CODE >305:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1128 text41 CODE >306:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1542 text40 CODE >60:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1542 text40 CODE >65:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1544 text40 CODE >66:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1545 text40 CODE >67:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1547 text40 CODE >68:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1548 text40 CODE >69:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-154A text40 CODE >74:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-154C text40 CODE >75:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-154E text40 CODE >76:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1550 text40 CODE >77:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1552 text40 CODE >78:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1554 text40 CODE >83:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1557 text40 CODE >84:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1559 text40 CODE >85:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-155B text40 CODE >86:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-155D text40 CODE >87:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-155F text40 CODE >92:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1560 text40 CODE >93:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1561 text40 CODE >94:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1562 text40 CODE >95:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1563 text40 CODE >96:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1564 text40 CODE >101:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1565 text40 CODE >102:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1566 text40 CODE >103:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1567 text40 CODE >104:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1568 text40 CODE >105:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1569 text40 CODE >110:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-156B text40 CODE >111:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-156D text40 CODE >112:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-156F text40 CODE >113:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1571 text40 CODE >114:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1573 text40 CODE >119:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1575 text40 CODE >120:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1577 text40 CODE >121:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1579 text40 CODE >122:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-157B text40 CODE >123:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-157D text40 CODE >130:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-157E text40 CODE >132:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-157F text40 CODE >134:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1580 text40 CODE >136:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1581 text40 CODE >138:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1582 text40 CODE >140:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1583 text40 CODE >142:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1584 text40 CODE >144:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1585 text40 CODE >146:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1586 text40 CODE >148:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1587 text40 CODE >150:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1588 text40 CODE >152:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1589 text40 CODE >157:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1590 text40 CODE >158:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-1597 text40 CODE >159:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-159E text40 CODE >160:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-15A4 text40 CODE >163:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-15A6 text40 CODE >166:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-15A9 text40 CODE >167:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-15AC text40 CODE >168:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-15AE text40 CODE >169:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-15B1 text40 CODE >170:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
-112F text39 CODE >72:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
-112F text39 CODE >75:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
-1131 text39 CODE >77:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
-1132 text39 CODE >79:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
-1133 text39 CODE >81:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
-1134 text39 CODE >83:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
-1135 text39 CODE >85:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
-1136 text39 CODE >86:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
-11E1 text38 CODE >62:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
-11E1 text38 CODE >65:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
-11E4 text38 CODE >66:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
-11E6 text38 CODE >67:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
-11E9 text38 CODE >68:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
-11EB text38 CODE >70:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
-11EE text38 CODE >71:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
-11EF text38 CODE >72:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
-11F1 text38 CODE >73:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
-11F3 text38 CODE >74:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
-11F5 text38 CODE >75:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
-117B text37 CODE >50:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
-117B text37 CODE >52:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
-117E text37 CODE >53:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
-1181 text37 CODE >54:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
-1184 text37 CODE >55:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
-1186 text37 CODE >56:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
-123A text36 CODE >15:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul16.c
-123A text36 CODE >43:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul16.c
-123C text36 CODE >45:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul16.c
-123E text36 CODE >46:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul16.c
-1242 text36 CODE >47:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul16.c
-1247 text36 CODE >48:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul16.c
-124C text36 CODE >49:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul16.c
-1250 text36 CODE >52:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul16.c
-1254 text36 CODE >53:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul16.c
-1105 text35 CODE >66:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1105 text35 CODE >67:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1107 text35 CODE >68:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1108 text35 CODE >69:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1170 text34 CODE >97:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
-1171 text34 CODE >99:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
-1174 text34 CODE >100:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
-1177 text34 CODE >101:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
-1178 text34 CODE >102:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
-117A text34 CODE >103:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
-1140 text33 CODE >81:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1141 text33 CODE >82:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1143 text33 CODE >83:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1146 text33 CODE >84:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1148 text33 CODE >85:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-13AA text32 CODE >149:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-13AA text32 CODE >150:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-13B6 text32 CODE >151:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-13C2 text32 CODE >152:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-13C6 text32 CODE >153:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-13CA text32 CODE >154:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-13CE text32 CODE >155:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-13D3 text32 CODE >156:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-13D8 text32 CODE >157:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-13DC text32 CODE >158:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-13E0 text32 CODE >159:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-13E4 text32 CODE >160:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-13E9 text32 CODE >161:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-13EE text32 CODE >162:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-13F1 text32 CODE >163:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1102 text31 CODE >54:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1102 text31 CODE >56:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1104 text31 CODE >57:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-132B text30 CODE >202:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-132B text30 CODE >203:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1343 text30 CODE >204:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1346 text30 CODE >205:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1359 text30 CODE >206:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-135D text30 CODE >207:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1362 text30 CODE >208:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1364 text30 CODE >210:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-15B2 text29 CODE >246:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-15B2 text29 CODE >247:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-15CE text29 CODE >248:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-15D6 text29 CODE >249:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-15EE text29 CODE >250:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-15F8 text29 CODE >251:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-15FB text29 CODE >252:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-160E text29 CODE >253:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1618 text29 CODE >254:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-161C text29 CODE >255:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1621 text29 CODE >253:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1622 text29 CODE >257:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1624 text29 CODE >259:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-801 text28 CODE >15:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul32.c
-801 text28 CODE >119:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul32.c
-809 text28 CODE >121:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul32.c
-80B text28 CODE >122:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul32.c
-813 text28 CODE >123:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul32.c
-81A text28 CODE >124:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul32.c
-821 text28 CODE >125:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul32.c
-827 text28 CODE >128:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul32.c
-82F text28 CODE >129:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul32.c
-173D text27 CODE >271:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-173D text27 CODE >272:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1745 text27 CODE >273:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-174D text27 CODE >274:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1765 text27 CODE >276:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-177D text27 CODE >277:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1787 text27 CODE >278:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-179F text27 CODE >279:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-17A9 text27 CODE >280:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-17AC text27 CODE >281:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-17BF text27 CODE >282:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-17D6 text27 CODE >283:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-17F2 text27 CODE >284:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-17F7 text27 CODE >285:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-17FC text27 CODE >283:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-17FD text27 CODE >287:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-17FF text27 CODE >289:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-540 text26 CODE >460:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-541 text26 CODE >462:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-54A text26 CODE >464:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-54F text26 CODE >465:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-553 text26 CODE >468:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-557 text26 CODE >469:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-568 text26 CODE >473:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-569 text26 CODE >474:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-58C text26 CODE >475:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-58D text26 CODE >476:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-58F text26 CODE >477:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-592 text26 CODE >478:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-5B4 text26 CODE >480:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-5FF text26 CODE >483:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-608 text26 CODE >484:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-60C text26 CODE >485:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-62E text26 CODE >487:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-67D text26 CODE >489:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-688 text26 CODE >490:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-690 text26 CODE >492:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-699 text26 CODE >493:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-6BF text26 CODE >494:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-6FE text26 CODE >495:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-6FE text26 CODE >497:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-712 text26 CODE >499:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-737 text26 CODE >500:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-73C text26 CODE >503:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-760 text26 CODE >505:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-762 text26 CODE >506:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-773 text26 CODE >507:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-793 text26 CODE >508:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-798 text26 CODE >511:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-128D text25 CODE >231:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-128D text25 CODE >232:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-1291 text25 CODE >233:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-12A1 text25 CODE >234:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-12B0 text25 CODE >233:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-1152 text24 CODE >593:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-1152 text24 CODE >594:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-1157 text24 CODE >595:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-115B text24 CODE >596:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-115C text23 CODE >635:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-115C text23 CODE >636:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-1161 text23 CODE >637:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-1165 text23 CODE >638:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-1149 text22 CODE >646:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-1149 text22 CODE >647:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-1151 text22 CODE >648:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-11F6 text21 CODE >624:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-11F7 text21 CODE >625:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-120A text21 CODE >626:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-13F2 text20 CODE >171:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-13F3 text20 CODE >172:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-13F9 text20 CODE >173:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-13FA text20 CODE >175:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-13FC text20 CODE >180:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-13FE text20 CODE >185:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1402 text20 CODE >186:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1406 text20 CODE >187:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-140A text20 CODE >190:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-140E text20 CODE >191:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1412 text20 CODE >192:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1416 text20 CODE >193:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1417 text20 CODE >194:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-142D text20 CODE >196:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1430 text20 CODE >197:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1434 text20 CODE >198:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1438 text20 CODE >199:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-143A text20 CODE >200:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-9DA text19 CODE >7:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
-9DA text19 CODE >15:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
-9DB text19 CODE >16:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
-9E3 text19 CODE >17:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
-A02 text19 CODE >18:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
-A04 text19 CODE >20:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
-A0C text19 CODE >21:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
-A2B text19 CODE >22:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
-A2F text19 CODE >24:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
-A39 text19 CODE >25:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
-A44 text19 CODE >26:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
-A46 text19 CODE >27:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
-A48 text19 CODE >28:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
-A50 text19 CODE >29:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
-A54 text19 CODE >27:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
-A55 text19 CODE >32:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
-A5D text19 CODE >33:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
-A7D text19 CODE >34:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
-A8D text19 CODE >35:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
-A8E text19 CODE >37:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
-A96 text19 CODE >38:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
-A9A text19 CODE >40:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
-A9D text19 CODE >41:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
-ABB text19 CODE >42:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
-ACC text19 CODE >43:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
-8FE text18 CODE >7:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
-8FE text18 CODE >14:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
-8FF text18 CODE >15:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
-907 text18 CODE >16:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
-926 text18 CODE >17:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
-928 text18 CODE >19:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
-930 text18 CODE >20:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
-94F text18 CODE >21:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
-95A text18 CODE >22:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
-95C text18 CODE >23:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
-95E text18 CODE >24:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
-966 text18 CODE >25:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
-96A text18 CODE >23:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
-96B text18 CODE >28:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
-98B text18 CODE >29:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
-99B text18 CODE >30:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
-9A3 text18 CODE >31:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
-9A7 text18 CODE >33:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
-9AA text18 CODE >34:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
-9C8 text18 CODE >35:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
-9D9 text18 CODE >36:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
-120B text17 CODE >1:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\abs.c
-120B text17 CODE >3:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\abs.c
-3 text16 CODE >7:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\putch.c
-3 text16 CODE >9:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\putch.c
-1365 text15 CODE >8:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputc.c
-1365 text15 CODE >12:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputc.c
-136A text15 CODE >13:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputc.c
-136D text15 CODE >14:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputc.c
-136E text15 CODE >15:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputc.c
-1391 text15 CODE >18:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputc.c
-13A1 text15 CODE >20:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputc.c
-13A9 text15 CODE >24:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputc.c
-12B1 text14 CODE >8:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputs.c
-12B2 text14 CODE >13:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputs.c
-12B4 text14 CODE >14:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputs.c
-12C2 text14 CODE >15:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputs.c
-12D0 text14 CODE >16:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputs.c
-12D5 text14 CODE >14:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputs.c
-1222 text13 CODE >5:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\strlen.c
-1223 text13 CODE >7:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\strlen.c
-1227 text13 CODE >8:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\strlen.c
-122E text13 CODE >9:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\strlen.c
-1232 text13 CODE >8:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\strlen.c
-1233 text13 CODE >11:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\strlen.c
-1239 text13 CODE >12:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\strlen.c
-1488 text12 CODE >72:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-1489 text12 CODE >77:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-148C text12 CODE >78:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-1495 text12 CODE >82:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-149F text12 CODE >83:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-14A1 text12 CODE >84:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-14AD text12 CODE >85:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-14B9 text12 CODE >86:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-14BE text12 CODE >84:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-14BF text12 CODE >90:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-14C2 text12 CODE >91:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-14CB text12 CODE >94:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-14D5 text12 CODE >95:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-ACD text11 CODE >287:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-ACE text11 CODE >293:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-ADE text11 CODE >294:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-AF0 text11 CODE >295:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-AF4 text11 CODE >296:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-B12 text11 CODE >297:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-B12 text11 CODE >300:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-B15 text11 CODE >301:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-B19 text11 CODE >302:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-B19 text11 CODE >303:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-B34 text11 CODE >304:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-B3C text11 CODE >305:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-B43 text11 CODE >306:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-B48 text11 CODE >307:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-B48 text11 CODE >310:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-B4D text11 CODE >311:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-B4F text11 CODE >312:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-B75 text11 CODE >313:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-B7A text11 CODE >314:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-BA8 text11 CODE >315:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-BAC text11 CODE >316:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-BB0 text11 CODE >317:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-BDC text11 CODE >312:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-BDC text11 CODE >318:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-BE8 text11 CODE >321:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-BF0 text11 CODE >322:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-BF5 text11 CODE >323:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-C08 text11 CODE >327:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-C19 text11 CODE >328:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-830 text10 CODE >692:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-831 text10 CODE >702:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-840 text10 CODE >703:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-848 text10 CODE >705:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-84D text10 CODE >706:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-851 text10 CODE >847:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-870 text10 CODE >849:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-878 text10 CODE >850:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-891 text10 CODE >852:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-8A9 text10 CODE >1372:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-8B8 text10 CODE >1373:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-8C0 text10 CODE >1374:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-8CA text10 CODE >1375:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-8D0 text10 CODE >1379:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-8D8 text10 CODE >1380:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-8DB text10 CODE >1384:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-8F4 text10 CODE >1385:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-12FE text9 CODE >1390:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-12FF text9 CODE >1395:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-1303 text9 CODE >1396:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-1306 text9 CODE >1397:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-130E text9 CODE >1398:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-1321 text9 CODE >1397:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-1322 text9 CODE >1400:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-132A text9 CODE >1404:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
-12D6 text8 CODE >9:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_sprintf.c
-12D8 text8 CODE >15:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_sprintf.c
-12DE text8 CODE >16:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_sprintf.c
-12E4 text8 CODE >17:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_sprintf.c
-12E6 text8 CODE >18:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_sprintf.c
-12E8 text8 CODE >19:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_sprintf.c
-12F4 text8 CODE >20:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_sprintf.c
-12FD text8 CODE >23:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_sprintf.c
-799 text7 CODE >201:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-79B text7 CODE >202:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-79F text7 CODE >203:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-7A9 text7 CODE >204:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-7AD text7 CODE >205:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-7B6 text7 CODE >207:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-7BE text7 CODE >208:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-7C8 text7 CODE >209:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-7CF text7 CODE >210:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-7EE text7 CODE >211:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-7F5 text7 CODE >212:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-7F8 text7 CODE >213:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-1270 text6 CODE >297:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1270 text6 CODE >298:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-128C text6 CODE >299:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-11BB text5 CODE >4:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul8.c
-11BC text5 CODE >6:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul8.c
-11BD text5 CODE >43:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul8.c
-11BF text5 CODE >44:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul8.c
-11C3 text5 CODE >45:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul8.c
-11C5 text5 CODE >46:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul8.c
-11C7 text5 CODE >47:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul8.c
-11CA text5 CODE >50:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul8.c
-11CB text5 CODE >51:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul8.c
-DE5 text4 CODE >515:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-DE5 text4 CODE >517:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-DE6 text4 CODE >518:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-DF3 text4 CODE >519:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-DF4 text4 CODE >520:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-DF6 text4 CODE >521:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-DF9 text4 CODE >522:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-E1B text4 CODE >524:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-E66 text4 CODE >527:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-E6F text4 CODE >528:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-E73 text4 CODE >529:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-E95 text4 CODE >531:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-EE4 text4 CODE >533:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-EEF text4 CODE >534:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-EF7 text4 CODE >536:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-F00 text4 CODE >537:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-F26 text4 CODE >538:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-F65 text4 CODE >539:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-F65 text4 CODE >541:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-F79 text4 CODE >543:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-F9E text4 CODE >544:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-FA3 text4 CODE >546:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-FC7 text4 CODE >548:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-FC9 text4 CODE >549:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-FDA text4 CODE >550:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+F intentry CODE >57:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/interrupt_manager.c
+12 intentry CODE >63:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/interrupt_manager.c
+1F64 text60 CODE >200:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+1F64 text60 CODE >201:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+1F67 text60 CODE >202:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+1F5B text59 CODE >221:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1F5B text59 CODE >224:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1FE2 text58 CODE >199:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1FE2 text58 CODE >204:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1FE9 text58 CODE >206:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1FEE text58 CODE >208:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1FF0 text58 CODE >209:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1F71 text57 CODE >204:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+1F71 text57 CODE >205:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+1F76 text57 CODE >206:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+1F5C text56 CODE >251:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1F5C text56 CODE >254:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1FF1 text55 CODE >229:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1FF1 text55 CODE >234:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1FF8 text55 CODE >236:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1FFD text55 CODE >238:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1FFF text55 CODE >239:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1F5E text54 CODE >191:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+1F5E text54 CODE >192:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+1F60 text54 CODE >193:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+1F5D text53 CODE >281:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1F5D text53 CODE >284:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+100B text52 CODE >259:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+100B text52 CODE >264:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1012 text52 CODE >266:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1017 text52 CODE >268:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1019 text52 CODE >269:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1F6C text51 CODE >195:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+1F6C text51 CODE >196:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+1F70 text51 CODE >197:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+1000 text50 CODE >311:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1000 text50 CODE >314:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+101A text49 CODE >289:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+101A text49 CODE >294:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1021 text49 CODE >296:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1026 text49 CODE >298:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1028 text49 CODE >299:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+10F8 text48 CODE >172:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+10F8 text48 CODE >175:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+10FD text48 CODE >177:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1100 text48 CODE >180:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1105 text48 CODE >182:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1108 text48 CODE >185:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+110D text48 CODE >187:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1110 text48 CODE >190:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1115 text48 CODE >192:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1118 text48 CODE >194:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+125C text46 CODE >77:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+125D text46 CODE >79:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+1262 text46 CODE >81:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+1271 text46 CODE >82:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+1280 text46 CODE >83:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+1281 text46 CODE >84:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+1290 text46 CODE >85:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+12A8 text46 CODE >86:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+12AA text46 CODE >90:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+1F97 text45 CODE >58:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
+1F97 text45 CODE >61:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
+1F9A text45 CODE >63:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
+1F9B text45 CODE >65:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
+1F9C text45 CODE >67:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
+1F9E text45 CODE >69:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
+1F9F text45 CODE >70:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
+1F77 text44 CODE >214:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1F77 text44 CODE >215:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1F7C text44 CODE >216:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1F7D text43 CODE >244:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1F7D text43 CODE >245:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1F82 text43 CODE >246:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1F83 text42 CODE >274:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1F83 text42 CODE >275:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1F88 text42 CODE >276:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1F89 text41 CODE >304:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1F89 text41 CODE >305:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1F8E text41 CODE >306:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1434 text40 CODE >60:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1434 text40 CODE >65:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1436 text40 CODE >66:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1437 text40 CODE >67:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1439 text40 CODE >68:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+143A text40 CODE >69:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+143C text40 CODE >74:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+143E text40 CODE >75:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1440 text40 CODE >76:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1442 text40 CODE >77:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1444 text40 CODE >78:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1446 text40 CODE >83:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1449 text40 CODE >84:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+144B text40 CODE >85:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+144D text40 CODE >86:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+144F text40 CODE >87:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1451 text40 CODE >92:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1452 text40 CODE >93:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1453 text40 CODE >94:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1454 text40 CODE >95:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1455 text40 CODE >96:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1456 text40 CODE >101:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1457 text40 CODE >102:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1458 text40 CODE >103:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1459 text40 CODE >104:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+145A text40 CODE >105:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+145B text40 CODE >110:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+145D text40 CODE >111:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+145F text40 CODE >112:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1461 text40 CODE >113:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1463 text40 CODE >114:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1465 text40 CODE >119:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1467 text40 CODE >120:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1469 text40 CODE >121:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+146B text40 CODE >122:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+146D text40 CODE >123:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+146F text40 CODE >130:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1470 text40 CODE >132:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1471 text40 CODE >134:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1472 text40 CODE >136:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1473 text40 CODE >138:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1474 text40 CODE >140:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1475 text40 CODE >142:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1476 text40 CODE >144:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1477 text40 CODE >146:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1478 text40 CODE >148:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1479 text40 CODE >150:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+147A text40 CODE >152:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+147B text40 CODE >157:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1482 text40 CODE >158:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1489 text40 CODE >159:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1490 text40 CODE >160:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1497 text40 CODE >163:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1499 text40 CODE >166:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+149C text40 CODE >167:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+149F text40 CODE >168:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+14A1 text40 CODE >169:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+14A4 text40 CODE >170:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/pin_manager.c
+1F8F text39 CODE >72:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
+1F8F text39 CODE >75:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
+1F91 text39 CODE >77:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
+1F92 text39 CODE >79:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
+1F93 text39 CODE >81:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
+1F94 text39 CODE >83:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
+1F95 text39 CODE >85:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
+1F96 text39 CODE >86:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
+1029 text38 CODE >62:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+1029 text38 CODE >65:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+102C text38 CODE >66:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+102E text38 CODE >67:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+1031 text38 CODE >68:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+1033 text38 CODE >70:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+1036 text38 CODE >71:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+1037 text38 CODE >72:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+1039 text38 CODE >73:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+103B text38 CODE >74:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+103D text38 CODE >75:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+1FC8 text37 CODE >50:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
+1FC8 text37 CODE >52:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
+1FCB text37 CODE >53:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
+1FCE text37 CODE >54:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
+1FD1 text37 CODE >55:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
+1FD4 text37 CODE >56:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/mcc.c
+10BA text36 CODE >15:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul16.c
+10BA text36 CODE >43:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul16.c
+10BC text36 CODE >45:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul16.c
+10C0 text36 CODE >46:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul16.c
+10C4 text36 CODE >47:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul16.c
+10C9 text36 CODE >48:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul16.c
+10CE text36 CODE >49:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul16.c
+10D4 text36 CODE >52:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul16.c
+10D8 text36 CODE >53:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul16.c
+1F68 text35 CODE >66:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1F68 text35 CODE >67:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1F6A text35 CODE >68:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1F6B text35 CODE >69:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1FD5 text34 CODE >97:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+1FD6 text34 CODE >99:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+1FD9 text34 CODE >100:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+1FDE text34 CODE >101:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+1FDF text34 CODE >102:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+1FE1 text34 CODE >103:C:\Users\sseba\MPLABXProjects\ililib.X\mcc_generated_files/spi1.c
+1FA0 text33 CODE >81:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1FA1 text33 CODE >82:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1FA3 text33 CODE >83:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1FA7 text33 CODE >84:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1FA9 text33 CODE >85:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1212 text32 CODE >149:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1212 text32 CODE >150:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+121F text32 CODE >151:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+122B text32 CODE >152:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+122F text32 CODE >153:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1233 text32 CODE >154:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1237 text32 CODE >155:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+123C text32 CODE >156:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1241 text32 CODE >157:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1245 text32 CODE >158:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1249 text32 CODE >159:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+124D text32 CODE >160:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1252 text32 CODE >161:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1257 text32 CODE >162:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+125B text32 CODE >163:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1F61 text31 CODE >54:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1F61 text31 CODE >56:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1F63 text31 CODE >57:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+11D1 text30 CODE >202:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+11D1 text30 CODE >203:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+11ED text30 CODE >204:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+11F0 text30 CODE >205:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1204 text30 CODE >206:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1209 text30 CODE >207:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+120E text30 CODE >208:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1211 text30 CODE >210:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+14A5 text29 CODE >246:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+14A5 text29 CODE >247:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+14C7 text29 CODE >248:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+14CF text29 CODE >249:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+14E9 text29 CODE >250:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+14F3 text29 CODE >251:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+14F6 text29 CODE >252:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+150A text29 CODE >253:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+150B text29 CODE >254:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+150F text29 CODE >255:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1514 text29 CODE >253:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1521 text29 CODE >257:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1524 text29 CODE >259:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+119B text28 CODE >15:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul32.c
+119B text28 CODE >119:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul32.c
+11A4 text28 CODE >121:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul32.c
+11A8 text28 CODE >122:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul32.c
+11B1 text28 CODE >123:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul32.c
+11B8 text28 CODE >124:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul32.c
+11BF text28 CODE >125:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul32.c
+11C7 text28 CODE >128:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul32.c
+11D0 text28 CODE >129:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul32.c
+164D text27 CODE >271:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+164D text27 CODE >272:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+165A text27 CODE >273:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1662 text27 CODE >274:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+167F text27 CODE >276:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1699 text27 CODE >277:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+16A3 text27 CODE >278:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+16BD text27 CODE >279:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+16C7 text27 CODE >280:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+16CA text27 CODE >281:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+16DE text27 CODE >282:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+16F7 text27 CODE >283:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+16F8 text27 CODE >284:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+16FD text27 CODE >285:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1702 text27 CODE >283:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1721 text27 CODE >287:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1724 text27 CODE >289:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+547 text26 CODE >460:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+549 text26 CODE >462:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+55C text26 CODE >464:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+563 text26 CODE >465:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+567 text26 CODE >468:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+56D text26 CODE >469:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+57E text26 CODE >473:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+57F text26 CODE >474:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+5A3 text26 CODE >475:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+5A4 text26 CODE >476:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+5A8 text26 CODE >477:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+5AD text26 CODE >478:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+5CF text26 CODE >480:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+61F text26 CODE >483:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+62A text26 CODE >484:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+630 text26 CODE >485:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+652 text26 CODE >487:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+6A1 text26 CODE >489:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+6AE text26 CODE >490:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+6B8 text26 CODE >492:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+6C3 text26 CODE >493:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+6EB text26 CODE >494:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+72A text26 CODE >495:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+72A text26 CODE >497:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+73E text26 CODE >499:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+765 text26 CODE >500:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+76A text26 CODE >503:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+796 text26 CODE >505:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+798 text26 CODE >506:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+7A9 text26 CODE >507:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+7CB text26 CODE >508:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+7D0 text26 CODE >511:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+1119 text25 CODE >238:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+1119 text25 CODE >239:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+111E text25 CODE >240:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+111F text25 CODE >241:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+112E text25 CODE >240:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+1140 text25 CODE >243:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+1FAA text24 CODE >593:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+1FAA text24 CODE >594:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+1FAF text24 CODE >595:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+1FB3 text24 CODE >596:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+1FB4 text23 CODE >635:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+1FB4 text23 CODE >636:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+1FB9 text23 CODE >637:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+1FBD text23 CODE >638:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+1FBE text22 CODE >646:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+1FBE text22 CODE >647:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+1FC7 text22 CODE >648:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+1053 text21 CODE >624:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+1054 text21 CODE >625:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+106A text21 CODE >626:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+12FA text20 CODE >171:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+12FB text20 CODE >172:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1301 text20 CODE >173:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1302 text20 CODE >175:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1306 text20 CODE >176:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+130A text20 CODE >177:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+130E text20 CODE >178:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+130F text20 CODE >180:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1313 text20 CODE >181:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1317 text20 CODE >182:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+131B text20 CODE >183:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+131C text20 CODE >185:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1320 text20 CODE >186:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1324 text20 CODE >187:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1328 text20 CODE >188:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1329 text20 CODE >190:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+132D text20 CODE >191:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1331 text20 CODE >192:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1335 text20 CODE >193:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1336 text20 CODE >194:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+134C text20 CODE >196:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+134F text20 CODE >197:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1353 text20 CODE >198:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1357 text20 CODE >199:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+135A text20 CODE >200:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+949 text19 CODE >7:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
+949 text19 CODE >15:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
+94A text19 CODE >16:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
+954 text19 CODE >17:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
+973 text19 CODE >18:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
+975 text19 CODE >20:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
+97F text19 CODE >21:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
+99E text19 CODE >22:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
+9A2 text19 CODE >24:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
+9AC text19 CODE >25:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
+9B9 text19 CODE >26:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
+9BB text19 CODE >27:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
+9BC text19 CODE >28:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
+9C4 text19 CODE >29:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
+9C8 text19 CODE >27:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
+9CC text19 CODE >32:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
+9D4 text19 CODE >33:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
+9F6 text19 CODE >34:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
+A06 text19 CODE >35:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
+A07 text19 CODE >37:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
+A0F text19 CODE >38:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
+A15 text19 CODE >40:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
+A1A text19 CODE >41:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
+A38 text19 CODE >42:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
+A49 text19 CODE >43:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aodiv.c
+85F text18 CODE >7:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
+85F text18 CODE >14:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
+860 text18 CODE >15:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
+86A text18 CODE >16:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
+889 text18 CODE >17:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
+88B text18 CODE >19:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
+895 text18 CODE >20:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
+8B4 text18 CODE >21:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
+8C1 text18 CODE >22:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
+8C3 text18 CODE >23:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
+8C4 text18 CODE >24:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
+8CC text18 CODE >25:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
+8D0 text18 CODE >23:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
+8D4 text18 CODE >28:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
+8F6 text18 CODE >29:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
+906 text18 CODE >30:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
+90E text18 CODE >31:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
+914 text18 CODE >33:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
+919 text18 CODE >34:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
+937 text18 CODE >35:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
+948 text18 CODE >36:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\aomod.c
+106B text17 CODE >1:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\abs.c
+106B text17 CODE >3:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\abs.c
+1084 text17 CODE >4:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\abs.c
+2 text16 CODE >7:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\putch.c
+2 text16 CODE >9:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\putch.c
+12AB text15 CODE >8:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputc.c
+12AB text15 CODE >12:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputc.c
+12B5 text15 CODE >13:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputc.c
+12B9 text15 CODE >14:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputc.c
+12BA text15 CODE >15:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputc.c
+12E1 text15 CODE >18:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputc.c
+12F1 text15 CODE >20:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputc.c
+12F9 text15 CODE >24:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputc.c
+1141 text14 CODE >8:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputs.c
+1143 text14 CODE >13:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputs.c
+1145 text14 CODE >14:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputs.c
+1146 text14 CODE >15:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputs.c
+1154 text14 CODE >16:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputs.c
+1159 text14 CODE >14:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputs.c
+1169 text14 CODE >19:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_fputs.c
+1085 text13 CODE >5:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\strlen.c
+1086 text13 CODE >7:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\strlen.c
+108A text13 CODE >8:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\strlen.c
+108B text13 CODE >9:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\strlen.c
+108F text13 CODE >8:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\strlen.c
+1098 text13 CODE >11:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\strlen.c
+109E text13 CODE >12:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\strlen.c
+806 text12 CODE >72:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+808 text12 CODE >77:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+80D text12 CODE >78:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+816 text12 CODE >82:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+822 text12 CODE >83:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+824 text12 CODE >84:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+825 text12 CODE >85:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+831 text12 CODE >86:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+836 text12 CODE >84:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+844 text12 CODE >90:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+849 text12 CODE >91:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+852 text12 CODE >94:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+85E text12 CODE >95:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+A4A text11 CODE >287:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+A4C text11 CODE >293:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+A5C text11 CODE >294:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+A6F text11 CODE >295:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+A75 text11 CODE >296:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+A93 text11 CODE >297:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+A93 text11 CODE >300:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+A98 text11 CODE >301:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+A9C text11 CODE >302:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+A9C text11 CODE >303:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+AB9 text11 CODE >304:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+AC1 text11 CODE >305:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+ACC text11 CODE >306:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+AD1 text11 CODE >307:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+AD1 text11 CODE >310:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+AD6 text11 CODE >311:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+AD8 text11 CODE >312:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+AD9 text11 CODE >313:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+ADE text11 CODE >314:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+B0D text11 CODE >315:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+B11 text11 CODE >316:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+B15 text11 CODE >317:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+B42 text11 CODE >312:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+B42 text11 CODE >318:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+B7D text11 CODE >321:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+B89 text11 CODE >322:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+B8E text11 CODE >323:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+BA6 text11 CODE >327:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+BB9 text11 CODE >328:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+1725 text10 CODE >692:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+1727 text10 CODE >702:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+1738 text10 CODE >703:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+1740 text10 CODE >705:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+1745 text10 CODE >706:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+1749 text10 CODE >847:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+176C text10 CODE >849:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+1774 text10 CODE >850:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+178D text10 CODE >852:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+17A7 text10 CODE >1372:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+17B8 text10 CODE >1373:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+17C0 text10 CODE >1374:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+17CB text10 CODE >1375:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+17D1 text10 CODE >1379:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+17D9 text10 CODE >1380:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+17DC text10 CODE >1384:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+17F5 text10 CODE >1385:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+17FF text10 CODE >1387:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+116A text9 CODE >1390:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+116C text9 CODE >1395:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+1170 text9 CODE >1396:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+1173 text9 CODE >1397:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+1174 text9 CODE >1398:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+1188 text9 CODE >1397:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+1192 text9 CODE >1400:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+119A text9 CODE >1404:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\doprnt.c
+7D1 text8 CODE >9:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_sprintf.c
+7D3 text8 CODE >15:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_sprintf.c
+7D9 text8 CODE >16:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_sprintf.c
+7DF text8 CODE >17:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_sprintf.c
+7E1 text8 CODE >18:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_sprintf.c
+7E3 text8 CODE >19:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_sprintf.c
+7F0 text8 CODE >20:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_sprintf.c
+7F9 text8 CODE >23:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\nf_sprintf.c
+135B text7 CODE >208:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+135D text7 CODE >209:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+1361 text7 CODE >210:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+136A text7 CODE >211:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+1374 text7 CODE >212:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+1378 text7 CODE >213:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+1381 text7 CODE >214:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+1389 text7 CODE >215:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+1393 text7 CODE >216:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+139A text7 CODE >217:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+13B9 text7 CODE >218:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+13C1 text7 CODE >219:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+13C5 text7 CODE >220:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+10D9 text6 CODE >297:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+10D9 text6 CODE >298:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+10F7 text6 CODE >299:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+103E text5 CODE >4:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul8.c
+103F text5 CODE >6:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul8.c
+1040 text5 CODE >43:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul8.c
+1044 text5 CODE >44:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul8.c
+1048 text5 CODE >45:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul8.c
+104A text5 CODE >46:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul8.c
+104C text5 CODE >47:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul8.c
+1051 text5 CODE >50:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul8.c
+1052 text5 CODE >51:C:\Program Files\Microchip\xc8\v2.31\pic\sources\c99\common\Umul8.c
+DC3 text4 CODE >515:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+DC3 text4 CODE >517:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+DC5 text4 CODE >518:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+DD2 text4 CODE >519:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+DD3 text4 CODE >520:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+DD7 text4 CODE >521:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+DDC text4 CODE >522:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+DFE text4 CODE >524:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+E4E text4 CODE >527:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+E59 text4 CODE >528:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+E5F text4 CODE >529:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+E81 text4 CODE >531:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+ED0 text4 CODE >533:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+EDD text4 CODE >534:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+EE7 text4 CODE >536:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+EF2 text4 CODE >537:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+F1A text4 CODE >538:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+F59 text4 CODE >539:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+F59 text4 CODE >541:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+F6D text4 CODE >543:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+F94 text4 CODE >544:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+F99 text4 CODE >546:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+FC5 text4 CODE >548:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+FC7 text4 CODE >549:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+FD8 text4 CODE >550:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
 FFA text4 CODE >551:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
 FFF text4 CODE >553:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-14D6 text3 CODE >827:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-14D6 text3 CODE >829:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-14DE text3 CODE >830:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-14E6 text3 CODE >831:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-14EE text3 CODE >832:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-14F6 text3 CODE >833:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-14FA text3 CODE >835:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-1505 text3 CODE >836:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-150A text3 CODE >837:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-1515 text3 CODE >838:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-151C text3 CODE >841:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-1524 text3 CODE >842:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-152C text3 CODE >843:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-1534 text3 CODE >844:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-153C text3 CODE >845:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-1541 text3 CODE >846:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
-16AA text2 CODE >216:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-16AA text2 CODE >217:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-16AB text2 CODE >218:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-16B3 text2 CODE >219:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-16C4 text2 CODE >220:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-16C4 text2 CODE >222:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-16EF text2 CODE >223:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-16F6 text2 CODE >224:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-1704 text2 CODE >225:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-1705 text2 CODE >226:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-1711 text2 CODE >228:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-173C text2 CODE >229:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-1625 text1 CODE >94:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1625 text1 CODE >98:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1627 text1 CODE >101:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1633 text1 CODE >102:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1635 text1 CODE >104:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1641 text1 CODE >105:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1643 text1 CODE >107:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-164F text1 CODE >112:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1651 text1 CODE >118:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1654 text1 CODE >121:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1658 text1 CODE >122:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1664 text1 CODE >123:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1667 text1 CODE >124:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-166B text1 CODE >125:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-1677 text1 CODE >126:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-167C text1 CODE >127:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-168E text1 CODE >129:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-169D text1 CODE >133:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-169F text1 CODE >135:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-16A4 text1 CODE >136:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-16A8 text1 CODE >137:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-16A9 text1 CODE >138:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
-C1A maintext CODE >84:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-C1A maintext CODE >85:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-C1B maintext CODE >87:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-C1E maintext CODE >88:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-C22 maintext CODE >91:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-C23 maintext CODE >93:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-C24 maintext CODE >95:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-C2B maintext CODE >96:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-C32 maintext CODE >98:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-C39 maintext CODE >99:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-C40 maintext CODE >102:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-C43 maintext CODE >105:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-C4A maintext CODE >107:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-C65 maintext CODE >108:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-C93 maintext CODE >110:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-CBA maintext CODE >111:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-CBF maintext CODE >114:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-CC2 maintext CODE >115:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-CC4 maintext CODE >116:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-CC9 maintext CODE >117:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-CCC maintext CODE >119:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-CD0 maintext CODE >120:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-CD1 maintext CODE >121:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-CD6 maintext CODE >122:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-CD8 maintext CODE >125:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-CDE maintext CODE >126:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-CEA maintext CODE >127:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-CEE maintext CODE >128:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-CF6 maintext CODE >129:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-CF7 maintext CODE >130:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-CF9 maintext CODE >132:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-D01 maintext CODE >133:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-D03 maintext CODE >134:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-D0D maintext CODE >138:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-D33 maintext CODE >139:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-D38 maintext CODE >140:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-D3A maintext CODE >141:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-D3E maintext CODE >142:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-D3F maintext CODE >145:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-D46 maintext CODE >147:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-D5C maintext CODE >148:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-D5F maintext CODE >149:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-D60 maintext CODE >150:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-D66 maintext CODE >156:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-D6D maintext CODE >157:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-D87 maintext CODE >158:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-D89 maintext CODE >159:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-D8A maintext CODE >160:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-D8F maintext CODE >161:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-D99 maintext CODE >152:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-D9E maintext CODE >153:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-DA2 maintext CODE >167:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-DA5 maintext CODE >168:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-DA7 maintext CODE >169:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-DA8 maintext CODE >170:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-DAC maintext CODE >171:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-DAC maintext CODE >173:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-DAF maintext CODE >174:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-DB6 maintext CODE >175:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-DB7 maintext CODE >176:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-DBE maintext CODE >178:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
-1129 clrtext CODE >11111:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-1129 clrtext CODE >11112:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-112A clrtext CODE >11113:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-112A clrtext CODE >11114:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-112B clrtext CODE >11115:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-112C clrtext CODE >11116:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-112D clrtext CODE >11117:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-112E clrtext CODE >11118:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-7F9 inittext CODE >11067:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-7F9 inittext CODE >11068:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-7FA inittext CODE >11069:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-7FA inittext CODE >11070:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-7FB inittext CODE >11071:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-7FC inittext CODE >11072:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-7FD inittext CODE >11073:C:\Users\sseba\AppData\Local\Temp\sc2s.s
-7FE inittext CODE >11074:C:\Users\sseba\AppData\Local\Temp\sc2s.s
+13C6 text3 CODE >827:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+13C6 text3 CODE >829:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+13CE text3 CODE >830:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+13D6 text3 CODE >831:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+13DE text3 CODE >832:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+13E6 text3 CODE >833:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+13EA text3 CODE >835:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+13F5 text3 CODE >836:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+13FA text3 CODE >837:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+1406 text3 CODE >838:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+140E text3 CODE >841:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+1416 text3 CODE >842:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+141E text3 CODE >843:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+1426 text3 CODE >844:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+142E text3 CODE >845:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+1433 text3 CODE >846:C:\Users\sseba\MPLABXProjects\ililib.X\GFX_Library.c
+15B2 text2 CODE >223:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+15B2 text2 CODE >224:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+15B4 text2 CODE >225:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+15BE text2 CODE >226:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+15D0 text2 CODE >227:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+15D0 text2 CODE >229:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+15FB text2 CODE >230:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+1605 text2 CODE >231:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+1613 text2 CODE >232:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+1614 text2 CODE >233:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+1620 text2 CODE >235:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+164C text2 CODE >236:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+1525 text1 CODE >94:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1525 text1 CODE >98:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1527 text1 CODE >101:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1533 text1 CODE >102:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1535 text1 CODE >104:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1541 text1 CODE >105:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1543 text1 CODE >107:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+154F text1 CODE >112:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1551 text1 CODE >118:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1554 text1 CODE >121:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1558 text1 CODE >122:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1564 text1 CODE >123:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1565 text1 CODE >124:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1569 text1 CODE >125:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+1575 text1 CODE >126:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+157A text1 CODE >127:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+158E text1 CODE >129:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+159F text1 CODE >123:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+15A4 text1 CODE >133:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+15A7 text1 CODE >135:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+15AC text1 CODE >136:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+15B0 text1 CODE >137:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+15B1 text1 CODE >138:C:\Users\sseba\MPLABXProjects\ililib.X\ILI9341.c
+BBA maintext CODE >91:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+BBA maintext CODE >92:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+BBC maintext CODE >94:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+BBF maintext CODE >95:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+BC3 maintext CODE >98:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+BC4 maintext CODE >100:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+BC5 maintext CODE >102:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+BCC maintext CODE >103:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+BD3 maintext CODE >105:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+BDA maintext CODE >106:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+BE1 maintext CODE >109:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+BE4 maintext CODE >112:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+BEB maintext CODE >114:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+C07 maintext CODE >115:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+C36 maintext CODE >117:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+C5D maintext CODE >118:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+C63 maintext CODE >121:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+C68 maintext CODE >122:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+C6A maintext CODE >123:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+C71 maintext CODE >124:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+C74 maintext CODE >126:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+C7A maintext CODE >127:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+C7B maintext CODE >128:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+C82 maintext CODE >129:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+C84 maintext CODE >132:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+C8E maintext CODE >133:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+C9A maintext CODE >134:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+CA0 maintext CODE >135:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+CA8 maintext CODE >136:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+CA9 maintext CODE >137:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+CB4 maintext CODE >138:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+CB5 maintext CODE >139:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+CBD maintext CODE >140:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+CBF maintext CODE >141:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+CC9 maintext CODE >145:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+CEF maintext CODE >146:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+CF6 maintext CODE >147:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+CF8 maintext CODE >148:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+CFF maintext CODE >149:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+D00 maintext CODE >152:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+D09 maintext CODE >154:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+D23 maintext CODE >155:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+D26 maintext CODE >156:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+D27 maintext CODE >157:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+D2C maintext CODE >158:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+D36 maintext CODE >159:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+D3B maintext CODE >160:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+D40 maintext CODE >163:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+D49 maintext CODE >164:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+D67 maintext CODE >165:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+D69 maintext CODE >166:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+D6A maintext CODE >167:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+D6F maintext CODE >168:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+D7A maintext CODE >174:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+D7F maintext CODE >175:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+D81 maintext CODE >176:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+D82 maintext CODE >177:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+D86 maintext CODE >178:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+D86 maintext CODE >180:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+D8B maintext CODE >181:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+D92 maintext CODE >182:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+D93 maintext CODE >183:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+D9A maintext CODE >185:C:\Users\sseba\MPLABXProjects\ililib.X\main.c
+800 clrtext CODE >11112:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+800 clrtext CODE >11113:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+801 clrtext CODE >11114:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+801 clrtext CODE >11115:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+802 clrtext CODE >11116:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+803 clrtext CODE >11117:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+804 clrtext CODE >11118:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+805 clrtext CODE >11119:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+7FA inittext CODE >11068:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+7FA inittext CODE >11069:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+7FB inittext CODE >11070:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+7FB inittext CODE >11071:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+7FC inittext CODE >11072:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+7FD inittext CODE >11073:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+7FE inittext CODE >11074:C:\Users\sseba\AppData\Local\Temp\sfl8.s
+7FF inittext CODE >11075:C:\Users\sseba\AppData\Local\Temp\sfl8.s
 # %SYMTAB Section
 # An enumeration of all symbols in the program.
 # The beginning of the section is indicated by %SYMTAB.
@@ -906,28 +916,28 @@ ___latbits 2 0 ABS 0 - dist/default/production\ililib.X.production.o
 __LdataBANK0 0 0 ABS 0 dataBANK0 -
 __LdataBANK1 0 0 ABS 0 dataBANK1 -
 __LdataBANK2 0 0 ABS 0 dataBANK2 -
-__Hspace_0 1968 0 ABS 0 - -
+__Hspace_0 2000 0 ABS 0 - -
 __Hspace_1 14A 0 ABS 0 - -
 __Hspace_2 0 0 ABS 0 - -
 __Hspace_3 0 0 ABS 0 - -
 __Hspace_4 10013 0 ABS 0 - -
-__end_of_display_print F32 0 CODE 0 text26 dist/default/production\ililib.X.production.o
-__end_of_display_setTextColor 22CC 0 CODE 0 text23 dist/default/production\ililib.X.production.o
+__end_of_display_print FA2 0 CODE 0 text26 dist/default/production\ililib.X.production.o
+__end_of_display_setTextColor 3F7C 0 CODE 0 text23 dist/default/production\ililib.X.production.o
 __HidataBANK0 0 0 ABS 0 idataBANK0 -
 __HidataBANK1 0 0 ABS 0 idataBANK1 -
 __HidataBANK2 0 0 ABS 0 idataBANK2 -
 __size_of_moverJugador 0 0 ABS 0 - dist/default/production\ililib.X.production.o
-__end_of_startWrite 220A 0 CODE 0 text31 dist/default/production\ililib.X.production.o
-__end_of_writeCommand 2292 0 CODE 0 text33 dist/default/production\ililib.X.production.o
+__end_of_startWrite 3EC8 0 CODE 0 text31 dist/default/production\ililib.X.production.o
+__end_of_writeCommand 3F54 0 CODE 0 text33 dist/default/production\ililib.X.production.o
 display_print@c 47 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 display_print@i 49 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 display_print@j 48 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
-_dibujarMarcador F32 0 CODE 0 text7 dist/default/production\ililib.X.production.o
+_dibujarMarcador 26B6 0 CODE 0 text7 dist/default/production\ililib.X.production.o
 __Heeprom_data 0 0 EEDATA 3 eeprom_data -
-_PMD_Initialize 225E 0 CODE 0 text39 dist/default/production\ililib.X.production.o
-__end_of_PIN_MANAGER_IOC 23C2 0 CODE 0 text48 dist/default/production\ililib.X.production.o
-__end_of_ctrl_der2 221C 0 CODE 0 text57 dist/default/production\ililib.X.production.o
-__end_of_ctrl_izq2 21FE 0 CODE 0 text60 dist/default/production\ililib.X.production.o
+_PMD_Initialize 3F1E 0 CODE 0 text39 dist/default/production\ililib.X.production.o
+__end_of_PIN_MANAGER_IOC 2232 0 CODE 0 text48 dist/default/production\ililib.X.production.o
+__end_of_ctrl_der2 3EEE 0 CODE 0 text57 dist/default/production\ililib.X.production.o
+__end_of_ctrl_izq2 3ED0 0 CODE 0 text60 dist/default/production\ililib.X.production.o
 ?_abs 74 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
 ?_pad 27 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 __size_of_IOCCF5_DefaultInterruptHandler 0 0 ABS 0 - dist/default/production\ililib.X.production.o
@@ -952,19 +962,20 @@ _WPUB F44 0 ABS 0 - dist/default/production\ililib.X.production.o
 _WPUC F4F 0 ABS 0 - dist/default/production\ililib.X.production.o
 _WPUD F5A 0 ABS 0 - dist/default/production\ililib.X.production.o
 _WPUE F65 0 ABS 0 - dist/default/production\ililib.X.production.o
-___sp 0 0 STACK 2 stack C:\Users\sseba\AppData\Local\Temp\sc2s.o
+___sp 0 0 STACK 2 stack C:\Users\sseba\AppData\Local\Temp\sfl8.o
 _dbuf 120 0 BANK2 1 bssBANK2 dist/default/production\ililib.X.production.o
-_dtoa 159A 0 CODE 0 text11 dist/default/production\ililib.X.production.o
-_font 80 0 STRCODE 0 stringtext1 dist/default/production\ililib.X.production.o
-_main 1834 0 CODE 0 maintext dist/default/production\ililib.X.production.o
+_dtoa 1494 0 CODE 0 text11 dist/default/production\ililib.X.production.o
+_font 8E 0 STRCODE 0 stringtext1 dist/default/production\ililib.X.production.o
+_main 1774 0 CODE 0 maintext dist/default/production\ililib.X.production.o
 _nout BB 0 BANK1 1 bssBANK1 dist/default/production\ililib.X.production.o
 _prec BF 0 BANK1 1 bssBANK1 dist/default/production\ililib.X.production.o
+_wrap A4 0 BANK1 1 dataBANK1 dist/default/production\ililib.X.production.o
 abs@a 74 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
 btemp 7E 0 ABS 0 - dist/default/production\ililib.X.production.o
 pad@i 2A 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 pad@p 28 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 pad@w 2C 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
-start 1C 0 CODE 0 init C:\Users\sseba\AppData\Local\Temp\sc2s.o
+start 28 0 CODE 0 init C:\Users\sseba\AppData\Local\Temp\sfl8.o
 ___aomod@counter 72 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
 __size_of___aodiv 0 0 ABS 0 - dist/default/production\ililib.X.production.o
 __size_of___aomod 0 0 ABS 0 - dist/default/production\ililib.X.production.o
@@ -979,35 +990,35 @@ __Hstringtext15 0 0 ABS 0 stringtext15 -
 __Hstringtext16 0 0 ABS 0 stringtext16 -
 __Hstringtext17 0 0 ABS 0 stringtext17 -
 __HbssCOMMON 0 0 ABS 0 bssCOMMON -
-__end_of_SPI1_Initialize 23EC 0 CODE 0 text38 dist/default/production\ililib.X.production.o
+__end_of_SPI1_Initialize 207C 0 CODE 0 text38 dist/default/production\ililib.X.production.o
 pad@fp 2E 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
-__end_of_moverJugador 2E7A 0 CODE 0 text2 dist/default/production\ililib.X.production.o
+__end_of_moverJugador 2C9A 0 CODE 0 text2 dist/default/production\ililib.X.production.o
 ?___lmul 71 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
 ?___wmul 71 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
 _IOCBF4_InterruptHandler E6 0 BANK1 1 nvBANK1 dist/default/production\ililib.X.production.o
 __LidataBANK0 0 0 ABS 0 idataBANK0 -
 __LidataBANK1 0 0 ABS 0 idataBANK1 -
 __LidataBANK2 0 0 ABS 0 idataBANK2 -
-_ctrl_der2 2212 0 CODE 0 text57 dist/default/production\ililib.X.production.o
-_ctrl_izq2 21F8 0 CODE 0 text60 dist/default/production\ililib.X.production.o
-__end_of_IOCAF2_DefaultInterruptHandler 21F8 0 CODE 0 text56 dist/default/production\ililib.X.production.o
+_ctrl_der2 3EE2 0 CODE 0 text57 dist/default/production\ililib.X.production.o
+_ctrl_izq2 3EC8 0 CODE 0 text60 dist/default/production\ililib.X.production.o
+__end_of_IOCAF2_DefaultInterruptHandler 3EBA 0 CODE 0 text56 dist/default/production\ililib.X.production.o
 __Hpowerup 0 0 CODE 0 powerup -
 __end_of_spi1_configuration 32D0 0 STRCODE 0 stringtext2 dist/default/production\ililib.X.production.o
-__end_of_vfpfcnvrt 11FC 0 CODE 0 text10 dist/default/production\ililib.X.production.o
+__end_of_vfpfcnvrt 3000 0 CODE 0 text10 dist/default/production\ililib.X.production.o
 __size_of_SYSTEM_Initialize 0 0 ABS 0 - dist/default/production\ililib.X.production.o
 __size_of_vfpfcnvrt 0 0 ABS 0 - dist/default/production\ililib.X.production.o
 fillRect@hi 38 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 fillRect@lo 39 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 fillRect@px 34 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
-intlevel0 0 0 ENTRY 0 functab C:\Users\sseba\AppData\Local\Temp\sc2s.o
-intlevel1 0 0 ENTRY 0 functab C:\Users\sseba\AppData\Local\Temp\sc2s.o
-intlevel2 0 0 ENTRY 0 functab C:\Users\sseba\AppData\Local\Temp\sc2s.o
-intlevel3 0 0 ENTRY 0 functab C:\Users\sseba\AppData\Local\Temp\sc2s.o
-intlevel4 0 0 ENTRY 0 functab C:\Users\sseba\AppData\Local\Temp\sc2s.o
-intlevel5 0 0 ENTRY 0 functab C:\Users\sseba\AppData\Local\Temp\sc2s.o
+intlevel0 0 0 ENTRY 0 functab C:\Users\sseba\AppData\Local\Temp\sfl8.o
+intlevel1 0 0 ENTRY 0 functab C:\Users\sseba\AppData\Local\Temp\sfl8.o
+intlevel2 0 0 ENTRY 0 functab C:\Users\sseba\AppData\Local\Temp\sfl8.o
+intlevel3 0 0 ENTRY 0 functab C:\Users\sseba\AppData\Local\Temp\sfl8.o
+intlevel4 0 0 ENTRY 0 functab C:\Users\sseba\AppData\Local\Temp\sfl8.o
+intlevel5 0 0 ENTRY 0 functab C:\Users\sseba\AppData\Local\Temp\sfl8.o
 __LbssCOMMON 0 0 ABS 0 bssCOMMON -
 ___bmul@multiplicand 71 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
-_IOCCF5_ISR 235C 0 CODE 0 text49 dist/default/production\ililib.X.production.o
+_IOCCF5_ISR 2034 0 CODE 0 text49 dist/default/production\ililib.X.production.o
 _jugador1 140 0 BANK2 1 dataBANK2 dist/default/production\ililib.X.production.o
 _jugador2 B1 0 BANK1 1 dataBANK1 dist/default/production\ililib.X.production.o
 tft_begin@numArgs 75 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
@@ -1016,14 +1027,14 @@ __Hfunctab 0 0 ENTRY 0 functab -
 fillScreen@color 3A 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 setAddrWindow@h 79 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
 setAddrWindow@w 77 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
-_PIN_MANAGER_IOC 2398 0 CODE 0 text48 dist/default/production\ililib.X.production.o
-__end_of_PMD_Initialize 226E 0 CODE 0 text39 dist/default/production\ililib.X.production.o
+_PIN_MANAGER_IOC 21F0 0 CODE 0 text48 dist/default/production\ililib.X.production.o
+__end_of_PMD_Initialize 3F2E 0 CODE 0 text39 dist/default/production\ililib.X.production.o
 setAddrWindow@x1 73 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
 setAddrWindow@x2 22 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 setAddrWindow@y1 75 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
 setAddrWindow@y2 24 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 __Hclrtext 0 0 ABS 0 clrtext -
-_vfpfcnvrt 1060 0 CODE 0 text10 dist/default/production\ililib.X.production.o
+_vfpfcnvrt 2E4A 0 CODE 0 text10 dist/default/production\ililib.X.production.o
 __size_of_fillScreen 0 0 ABS 0 - dist/default/production\ililib.X.production.o
 dtoa@fp 3B 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 __size_of_IOCAF2_SetInterruptHandler 0 0 ABS 0 - dist/default/production\ililib.X.production.o
@@ -1031,7 +1042,7 @@ ___wmul@multiplicand 73 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X
 display_setTextColor@c 71 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
 _movimiento_jugador1 7C 0 COMMON 1 bssCOMMON dist/default/production\ililib.X.production.o
 _movimiento_jugador2 CD 0 BANK1 1 bssBANK1 dist/default/production\ililib.X.production.o
-_SPI1_Initialize 23C2 0 CODE 0 text38 dist/default/production\ililib.X.production.o
+_SPI1_Initialize 2052 0 CODE 0 text38 dist/default/production\ililib.X.production.o
 display_setTextColor2@c 71 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
 display_setTextColor@bg 73 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
 _spi1_configuration 32C8 0 STRCODE 0 stringtext2 dist/default/production\ililib.X.production.o
@@ -1043,20 +1054,20 @@ _ANSELE F64 0 ABS 0 - dist/default/production\ililib.X.production.o
 moverJugador@y 66 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 __size_of_IOCAF1_DefaultInterruptHandler 0 0 ABS 0 - dist/default/production\ililib.X.production.o
 display_setTextSize@s 75 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
-__end_of_INTERRUPT_InterruptManager 1C 0 CODE 0 intentry dist/default/production\ililib.X.production.o
+__end_of_INTERRUPT_InterruptManager 28 0 CODE 0 intentry dist/default/production\ililib.X.production.o
 display_customChar@line 48 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 __size_of_dibujarMarcador 0 0 ABS 0 - dist/default/production\ililib.X.production.o
-__end_of___bmul 2398 0 CODE 0 text5 dist/default/production\ililib.X.production.o
-__end_of___lmul 1060 0 CODE 0 text28 dist/default/production\ililib.X.production.o
-__end_of___wmul 24AA 0 CODE 0 text36 dist/default/production\ililib.X.production.o
+__end_of___bmul 20A6 0 CODE 0 text5 dist/default/production\ililib.X.production.o
+__end_of___lmul 23A2 0 CODE 0 text28 dist/default/production\ililib.X.production.o
+__end_of___wmul 21B2 0 CODE 0 text36 dist/default/production\ililib.X.production.o
 fillRect@color 2E 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 __Lmaintext 0 0 ABS 0 maintext -
 __size_of_sprintf 0 0 ABS 0 - dist/default/production\ililib.X.production.o
 __LnvBANK1 0 0 ABS 0 nvBANK1 -
 __size_of_SPI1_ExchangeByte 0 0 ABS 0 - dist/default/production\ililib.X.production.o
 ___bmul@multiplier 74 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
-__end_of___aodiv 159A 0 CODE 0 text19 dist/default/production\ililib.X.production.o
-__end_of___aomod 13B4 0 CODE 0 text18 dist/default/production\ililib.X.production.o
+__end_of___aodiv 1494 0 CODE 0 text19 dist/default/production\ililib.X.production.o
+__end_of___aomod 1292 0 CODE 0 text18 dist/default/production\ililib.X.production.o
 display_drawCustomChar@prev_x 56 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 display_drawCustomChar@prev_y 58 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 ___aodiv@quotient 74 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
@@ -1066,19 +1077,19 @@ _INLVLC F52 0 ABS 0 - dist/default/production\ililib.X.production.o
 _INLVLD F5D 0 ABS 0 - dist/default/production\ililib.X.production.o
 _INLVLE F68 0 ABS 0 - dist/default/production\ililib.X.production.o
 ?_strlen 71 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
-__end_of_IOCCF5_DefaultInterruptHandler 6 0 CODE 0 text50 dist/default/production\ililib.X.production.o
+__end_of_IOCCF5_DefaultInterruptHandler 2002 0 CODE 0 text50 dist/default/production\ililib.X.production.o
 __size_of_endWrite 0 0 ABS 0 - dist/default/production\ililib.X.production.o
-___stackhi 23EF 0 ABS 0 - C:\Users\sseba\AppData\Local\Temp\sc2s.o
-___stacklo 20CA 0 ABS 0 - C:\Users\sseba\AppData\Local\Temp\sc2s.o
-__end_of_IOCCF5_ISR 2376 0 CODE 0 text49 dist/default/production\ililib.X.production.o
+___stackhi 23EF 0 ABS 0 - C:\Users\sseba\AppData\Local\Temp\sfl8.o
+___stacklo 20CA 0 ABS 0 - C:\Users\sseba\AppData\Local\Temp\sfl8.o
+__end_of_IOCCF5_ISR 2052 0 CODE 0 text49 dist/default/production\ililib.X.production.o
 ___aomod@dividend 28 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 __size_of_IOCBF4_ISR 0 0 ABS 0 - dist/default/production\ililib.X.production.o
-_IOCAF2_SetInterruptHandler 2226 0 CODE 0 text43 dist/default/production\ililib.X.production.o
+_IOCAF2_SetInterruptHandler 3EFA 0 CODE 0 text43 dist/default/production\ililib.X.production.o
 __size_of_fputc 0 0 ABS 0 - dist/default/production\ililib.X.production.o
 __size_of_fputs 0 0 ABS 0 - dist/default/production\ililib.X.production.o
 __size_of_putch 0 0 ABS 0 - dist/default/production\ililib.X.production.o
 __size_of_IOCBF4_DefaultInterruptHandler 0 0 ABS 0 - dist/default/production\ililib.X.production.o
-_PIN_MANAGER_Initialize 2A84 0 CODE 0 text40 dist/default/production\ililib.X.production.o
+_PIN_MANAGER_Initialize 2868 0 CODE 0 text40 dist/default/production\ililib.X.production.o
 __Lstringtext10 0 0 ABS 0 stringtext10 -
 __Lstringtext11 0 0 ABS 0 stringtext11 -
 __Lstringtext12 0 0 ABS 0 stringtext12 -
@@ -1088,30 +1099,30 @@ __Lstringtext15 0 0 ABS 0 stringtext15 -
 __Lstringtext16 0 0 ABS 0 stringtext16 -
 __Lstringtext17 0 0 ABS 0 stringtext17 -
 ___aomod@divisor 20 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
-start_initialization 20 0 CODE 0 cinit dist/default/production\ililib.X.production.o
+start_initialization 2C 0 CODE 0 cinit dist/default/production\ililib.X.production.o
 _ODCONA F3A 0 ABS 0 - dist/default/production\ililib.X.production.o
 _ODCONB F45 0 ABS 0 - dist/default/production\ililib.X.production.o
 _ODCONC F50 0 ABS 0 - dist/default/production\ililib.X.production.o
 _ODCOND F5B 0 ABS 0 - dist/default/production\ililib.X.production.o
 _ODCONE F66 0 ABS 0 - dist/default/production\ililib.X.production.o
 _OSCFRQ 893 0 ABS 0 - dist/default/production\ililib.X.production.o
-__end_of_IOCBF4_SetInterruptHandler 223A 0 CODE 0 text42 dist/default/production\ililib.X.production.o
-_IOCAF2_DefaultInterruptHandler 21F6 0 CODE 0 text56 dist/default/production\ililib.X.production.o
+__end_of_IOCBF4_SetInterruptHandler 3F12 0 CODE 0 text42 dist/default/production\ililib.X.production.o
+_IOCAF2_DefaultInterruptHandler 3EB8 0 CODE 0 text56 dist/default/production\ililib.X.production.o
 __size_of_startWrite 0 0 ABS 0 - dist/default/production\ililib.X.production.o
 _TRISCbits 13 0 ABS 0 - dist/default/production\ililib.X.production.o
-__end_of_setRotation 2876 0 CODE 0 text20 dist/default/production\ililib.X.production.o
-__end_of_tft_begin 2D54 0 CODE 0 text1 dist/default/production\ililib.X.production.o
+__end_of_setRotation 26B6 0 CODE 0 text20 dist/default/production\ililib.X.production.o
+__end_of_tft_begin 2B64 0 CODE 0 text1 dist/default/production\ililib.X.production.o
 tft_begin@addr 78 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
 _RC3PPS F23 0 ABS 0 - dist/default/production\ililib.X.production.o
 _RC6PPS F26 0 ABS 0 - dist/default/production\ililib.X.production.o
 __size_of_PIN_MANAGER_IOC 0 0 ABS 0 - dist/default/production\ililib.X.production.o
-_setAddrWindow 2754 0 CODE 0 text32 dist/default/production\ililib.X.production.o
-__end_of_SYSTEM_Initialize 230E 0 CODE 0 text37 dist/default/production\ililib.X.production.o
+_setAddrWindow 2424 0 CODE 0 text32 dist/default/production\ililib.X.production.o
+__end_of_SYSTEM_Initialize 3FAA 0 CODE 0 text37 dist/default/production\ililib.X.production.o
 __size_of_tft_begin 0 0 ABS 0 - dist/default/production\ililib.X.production.o
 drawVLine@h 2A 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 drawVLine@x 26 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 drawVLine@y 28 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
-clear_ram0 2252 0 CODE 0 clrtext dist/default/production\ililib.X.production.o
+clear_ram0 1000 0 CODE 0 clrtext dist/default/production\ililib.X.production.o
 __pcstackBANK0 20 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 __pcstackBANK1 D2 0 BANK1 1 cstackBANK1 dist/default/production\ililib.X.production.o
 __size_of_ctrl_der 0 0 ABS 0 - dist/default/production\ililib.X.production.o
@@ -1120,10 +1131,10 @@ display_drawCustomChar@prev_bg 5C 0 BANK0 1 cstackBANK0 dist/default/production\
 __size_of_SPI1_Initialize 0 0 ABS 0 - dist/default/production\ililib.X.production.o
 fputc@fp 73 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
 fputs@fp 79 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
-_endWrite 220A 0 CODE 0 text35 dist/default/production\ililib.X.production.o
+_endWrite 3ED0 0 CODE 0 text35 dist/default/production\ililib.X.production.o
 __end_of_initcmd 30DE 0 STRCODE 0 stringtext3 dist/default/production\ililib.X.production.o
-_tft_begin 2C4A 0 CODE 0 text1 dist/default/production\ililib.X.production.o
-___int_sp 0 0 STACK 2 stack C:\Users\sseba\AppData\Local\Temp\sc2s.o
+_tft_begin 2A4A 0 CODE 0 text1 dist/default/production\ililib.X.production.o
+___int_sp 0 0 STACK 2 stack C:\Users\sseba\AppData\Local\Temp\sfl8.o
 __Hbank0 0 0 ABS 0 bank0 -
 __Hbank1 0 0 ABS 0 bank1 -
 __Hbank2 0 0 ABS 0 bank2 -
@@ -1134,8 +1145,8 @@ __Hbank6 0 0 ABS 0 bank6 -
 __Hbank7 0 0 ABS 0 bank7 -
 __Hbank8 0 0 ABS 0 bank8 -
 __Hbank9 0 0 ABS 0 bank9 -
-__Hcinit 80 0 CODE 0 cinit -
-__end_of_strlen 2474 0 CODE 0 text13 dist/default/production\ililib.X.production.o
+__Hcinit 8E 0 CODE 0 cinit -
+__end_of_strlen 213E 0 CODE 0 text13 dist/default/production\ililib.X.production.o
 __size_of_OSCILLATOR_Initialize 0 0 ABS 0 - dist/default/production\ililib.X.production.o
 display_drawCustomChar@size 55 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 __Hsfr10 0 0 ABS 0 sfr10 -
@@ -1185,15 +1196,15 @@ __Hbank30 0 0 BANK30 1 bank30 -
 __Hbank31 0 0 BANK31 1 bank31 -
 __Hbigram 0 0 ABS 0 bigram -
 __Hmaintext 0 0 ABS 0 maintext -
-__end_of_IOCCF5_SetInterruptHandler 2252 0 CODE 0 text41 dist/default/production\ililib.X.production.o
-__end_of_endWrite 2212 0 CODE 0 text35 dist/default/production\ililib.X.production.o
-__end_of_sprintf 25FC 0 CODE 0 text8 dist/default/production\ililib.X.production.o
+__end_of_IOCCF5_SetInterruptHandler 3F1E 0 CODE 0 text41 dist/default/production\ililib.X.production.o
+__end_of_endWrite 3ED8 0 CODE 0 text35 dist/default/production\ililib.X.production.o
+__end_of_sprintf FF4 0 CODE 0 text8 dist/default/production\ililib.X.production.o
 __Hcommon 0 0 ABS 0 common -
 __Hconfig 10018 0 CONFIG 4 config -
-__end_of_IOCAF1_DefaultInterruptHandler 21F6 0 CODE 0 text59 dist/default/production\ililib.X.production.o
-_display_drawCustomChar 29AC 0 CODE 0 text3 dist/default/production\ililib.X.production.o
+__end_of_IOCAF1_DefaultInterruptHandler 3EB8 0 CODE 0 text59 dist/default/production\ililib.X.production.o
+_display_drawCustomChar 278C 0 CODE 0 text3 dist/default/production\ililib.X.production.o
 _IOCAF2_InterruptHandler E8 0 BANK1 1 nvBANK1 dist/default/production\ililib.X.production.o
-_display_setTextColor 22B8 0 CODE 0 text23 dist/default/production\ililib.X.production.o
+_display_setTextColor 3F68 0 CODE 0 text23 dist/default/production\ililib.X.production.o
 __Lbank0 0 0 ABS 0 bank0 -
 __Lbank1 0 0 ABS 0 bank1 -
 __Lbank2 0 0 ABS 0 bank2 -
@@ -1204,7 +1215,7 @@ __Lbank6 0 0 ABS 0 bank6 -
 __Lbank7 0 0 ABS 0 bank7 -
 __Lbank8 0 0 ABS 0 bank8 -
 __Lbank9 0 0 ABS 0 bank9 -
-__Lcinit 20 0 CODE 0 cinit -
+__Lcinit 2C 0 CODE 0 cinit -
 __Lsfr10 0 0 ABS 0 sfr10 -
 __Lsfr11 0 0 ABS 0 sfr11 -
 __Lsfr12 0 0 ABS 0 sfr12 -
@@ -1230,14 +1241,14 @@ __Lsfr31 0 0 ABS 0 sfr31 -
 __Lstack 0 0 STACK 2 stack -
 _display_setTextSize$1270 73 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
 __end_of_display_customChar 2000 0 CODE 0 text4 dist/default/production\ililib.X.production.o
-init_ram FF2 0 CODE 0 inittext dist/default/production\ililib.X.production.o
+init_ram FF4 0 CODE 0 inittext dist/default/production\ililib.X.production.o
 disp_texto@i 7B 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
 __Linittext 0 0 ABS 0 inittext -
 _PORTAbits C 0 ABS 0 - dist/default/production\ililib.X.production.o
 _INTCONbits B 0 ABS 0 - dist/default/production\ililib.X.production.o
 __Habs1 0 0 ABS 0 abs1 -
 __Hcode 0 0 ABS 0 code -
-__Hinit 1C 0 CODE 0 init -
+__Hinit 28 0 CODE 0 init -
 __Hsfr0 0 0 ABS 0 sfr0 -
 __Hsfr1 0 0 ABS 0 sfr1 -
 __Hsfr2 0 0 ABS 0 sfr2 -
@@ -1251,7 +1262,7 @@ __Hsfr9 0 0 ABS 0 sfr9 -
 __Htext 0 0 ABS 0 text -
 __Labs1 0 0 ABS 0 abs1 -
 __Lcode 0 0 ABS 0 code -
-__Linit 1C 0 CODE 0 init -
+__Linit 28 0 CODE 0 init -
 __Lsfr0 0 0 ABS 0 sfr0 -
 __Lsfr1 0 0 ABS 0 sfr1 -
 __Lsfr2 0 0 ABS 0 sfr2 -
@@ -1263,7 +1274,7 @@ __Lsfr7 0 0 ABS 0 sfr7 -
 __Lsfr8 0 0 ABS 0 sfr8 -
 __Lsfr9 0 0 ABS 0 sfr9 -
 __Ltext 0 0 ABS 0 text -
-__pstringtext1 80 0 STRCODE 0 stringtext1 dist/default/production\ililib.X.production.o
+__pstringtext1 8E 0 STRCODE 0 stringtext1 dist/default/production\ililib.X.production.o
 __pstringtext2 32C8 0 STRCODE 0 stringtext2 dist/default/production\ililib.X.production.o
 __pstringtext3 3000 0 STRCODE 0 stringtext3 dist/default/production\ililib.X.production.o
 __pstringtext4 30DE 0 STRCODE 0 stringtext4 dist/default/production\ililib.X.production.o
@@ -1278,7 +1289,7 @@ IOCCF5_SetInterruptHandler@InterruptHandler 71 0 COMMON 1 cstackCOMMON dist/defa
 _SSP1CON1 190 0 ABS 0 - dist/default/production\ililib.X.production.o
 _SSP1CON2 191 0 ABS 0 - dist/default/production\ililib.X.production.o
 _SSP1STAT 18F 0 ABS 0 - dist/default/production\ililib.X.production.o
-_disp_texto 251A 0 CODE 0 text25 dist/default/production\ililib.X.production.o
+_disp_texto 2232 0 CODE 0 text25 dist/default/production\ililib.X.production.o
 __pstringtext10 321C 0 STRCODE 0 stringtext10 dist/default/production\ililib.X.production.o
 __pstringtext11 3240 0 STRCODE 0 stringtext11 dist/default/production\ililib.X.production.o
 __pstringtext12 3264 0 STRCODE 0 stringtext12 dist/default/production\ililib.X.production.o
@@ -1287,11 +1298,11 @@ __pstringtext14 3298 0 STRCODE 0 stringtext14 dist/default/production\ililib.X.p
 __pstringtext15 32AC 0 STRCODE 0 stringtext15 dist/default/production\ililib.X.production.o
 __pstringtext16 32BC 0 STRCODE 0 stringtext16 dist/default/production\ililib.X.production.o
 __pstringtext17 0 0 STRCODE 0 stringtext17 dist/default/production\ililib.X.production.o
-___bmul 2376 0 CODE 0 text5 dist/default/production\ililib.X.production.o
-___lmul 1002 0 CODE 0 text28 dist/default/production\ililib.X.production.o
-___wmul 2474 0 CODE 0 text36 dist/default/production\ililib.X.production.o
+___bmul 207C 0 CODE 0 text5 dist/default/production\ililib.X.production.o
+___lmul 2336 0 CODE 0 text28 dist/default/production\ililib.X.production.o
+___wmul 2174 0 CODE 0 text36 dist/default/production\ililib.X.production.o
 ___aomod@sign 73 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
-__end_of_SPI1_ExchangeByte 22F6 0 CODE 0 text34 dist/default/production\ililib.X.production.o
+__end_of_SPI1_ExchangeByte 3FC4 0 CODE 0 text34 dist/default/production\ililib.X.production.o
 __LcstackBANK0 0 0 ABS 0 cstackBANK0 -
 __LcstackBANK1 0 0 ABS 0 cstackBANK1 -
 int$flags 7E 0 ABS 0 - dist/default/production\ililib.X.production.o
@@ -1301,41 +1312,41 @@ display_drawCustomChar@y 4D 0 BANK0 1 cstackBANK0 dist/default/production\ililib
 __width C9 0 BANK1 1 bssBANK1 dist/default/production\ililib.X.production.o
 __HcstackCOMMON 0 0 ABS 0 cstackCOMMON -
 __size_of_INTERRUPT_InterruptManager 0 0 ABS 0 - dist/default/production\ililib.X.production.o
-__S0 1968 0 ABS 0 - -
+__S0 2000 0 ABS 0 - -
 __S1 14A 0 ABS 0 - -
 __S2 0 0 ABS 0 - -
 __S3 0 0 ABS 0 - -
-_abs 2416 0 CODE 0 text17 dist/default/production\ililib.X.production.o
-_pad 2910 0 CODE 0 text12 dist/default/production\ililib.X.production.o
-_ctrl_der 221C 0 CODE 0 text51 dist/default/production\ililib.X.production.o
-_ctrl_izq 21FE 0 CODE 0 text54 dist/default/production\ililib.X.production.o
-_IOCCF5_DefaultInterruptHandler 4 0 CODE 0 text50 dist/default/production\ililib.X.production.o
+_abs 20D6 0 CODE 0 text17 dist/default/production\ililib.X.production.o
+_pad 100C 0 CODE 0 text12 dist/default/production\ililib.X.production.o
+_ctrl_der 3ED8 0 CODE 0 text51 dist/default/production\ililib.X.production.o
+_ctrl_izq 3EBC 0 CODE 0 text54 dist/default/production\ililib.X.production.o
+_IOCCF5_DefaultInterruptHandler 2000 0 CODE 0 text50 dist/default/production\ililib.X.production.o
 _bolita A5 0 BANK1 1 dataBANK1 dist/default/production\ililib.X.production.o
-__end_of_display_setTextColor2 22A4 0 CODE 0 text22 dist/default/production\ililib.X.production.o
+__end_of_display_setTextColor2 3F90 0 CODE 0 text22 dist/default/production\ililib.X.production.o
 _IOCAF1_InterruptHandler EA 0 BANK1 1 nvBANK1 dist/default/production\ililib.X.production.o
-__end_of_ctrl_der 2226 0 CODE 0 text51 dist/default/production\ililib.X.production.o
-__end_of_ctrl_izq 2204 0 CODE 0 text54 dist/default/production\ililib.X.production.o
+__end_of_ctrl_der 3EE2 0 CODE 0 text51 dist/default/production\ililib.X.production.o
+__end_of_ctrl_izq 3EC2 0 CODE 0 text54 dist/default/production\ililib.X.production.o
 fillRect@h 2C 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 fillRect@w 2A 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 fillRect@x 26 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 fillRect@y 28 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
-__end_of_IOCBF4_DefaultInterruptHandler 1002 0 CODE 0 text53 dist/default/production\ililib.X.production.o
+__end_of_IOCBF4_DefaultInterruptHandler 3EBC 0 CODE 0 text53 dist/default/production\ililib.X.production.o
 ___aodiv@sign 73 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
 sprintf@fmt 66 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
-_display_customChar 1BCA 0 CODE 0 text4 dist/default/production\ililib.X.production.o
-_SYSTEM_Initialize 22F6 0 CODE 0 text37 dist/default/production\ililib.X.production.o
+_display_customChar 1B86 0 CODE 0 text4 dist/default/production\ililib.X.production.o
+_SYSTEM_Initialize 3F90 0 CODE 0 text37 dist/default/production\ililib.X.production.o
 _dtoa$1971 3C 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
-_IOCAF1_ISR 230E 0 CODE 0 text58 dist/default/production\ililib.X.production.o
-_IOCAF2_ISR 2328 0 CODE 0 text55 dist/default/production\ililib.X.production.o
-__end_of_abs 2444 0 CODE 0 text17 dist/default/production\ililib.X.production.o
-__end_of_pad 29AC 0 CODE 0 text12 dist/default/production\ililib.X.production.o
+_IOCAF1_ISR 3FC4 0 CODE 0 text58 dist/default/production\ililib.X.production.o
+_IOCAF2_ISR 3FE2 0 CODE 0 text55 dist/default/production\ililib.X.production.o
+__end_of_abs 210A 0 CODE 0 text17 dist/default/production\ililib.X.production.o
+__end_of_pad 10BE 0 CODE 0 text12 dist/default/production\ililib.X.production.o
 display_drawCustomChar@prev_color 5A 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 display_drawCustomChar@color 51 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 __size_of_setAddrWindow 0 0 ABS 0 - dist/default/production\ililib.X.production.o
 __HnvBANK1 0 0 ABS 0 nvBANK1 -
 __Lintentry 8 0 CODE 0 intentry -
-_display_setTextColor2 2292 0 CODE 0 text22 dist/default/production\ililib.X.production.o
-reset_vec 0 0 CODE 0 reset_vec C:\Users\sseba\AppData\Local\Temp\sc2s.o
+_display_setTextColor2 3F7C 0 CODE 0 text22 dist/default/production\ililib.X.production.o
+reset_vec 0 0 CODE 0 reset_vec C:\Users\sseba\AppData\Local\Temp\sfl8.o
 strlen@a 74 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
 strlen@s 75 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
 __pdataBANK0 6F 0 BANK0 1 dataBANK0 dist/default/production\ililib.X.production.o
@@ -1362,7 +1373,7 @@ tft_begin@cmd 77 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.produc
 vfpfcnvrt@fmt 4E 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 _INTERRUPT_InterruptManager 8 0 CODE 0 intentry dist/default/production\ililib.X.production.o
 _IOCAFbits F3F 0 ABS 0 - dist/default/production\ililib.X.production.o
-__end_of_IOCAF1_SetInterruptHandler 2246 0 CODE 0 text44 dist/default/production\ililib.X.production.o
+__end_of_IOCAF1_SetInterruptHandler 3EFA 0 CODE 0 text44 dist/default/production\ililib.X.production.o
 _IOCANbits F3E 0 ABS 0 - dist/default/production\ililib.X.production.o
 __size_of_PMD_Initialize 0 0 ABS 0 - dist/default/production\ililib.X.production.o
 _IOCAPbits F3D 0 ABS 0 - dist/default/production\ililib.X.production.o
@@ -1373,63 +1384,63 @@ _IOCBNbits F49 0 ABS 0 - dist/default/production\ililib.X.production.o
 pad@buf 27 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 _IOCBPbits F48 0 ABS 0 - dist/default/production\ililib.X.production.o
 __size_of_setRotation 0 0 ABS 0 - dist/default/production\ililib.X.production.o
-__end_of_disp_texto 2562 0 CODE 0 text25 dist/default/production\ililib.X.production.o
-__ptext10 1060 0 CODE 0 text10 dist/default/production\ililib.X.production.o
-__ptext11 159A 0 CODE 0 text11 dist/default/production\ililib.X.production.o
-__ptext12 2910 0 CODE 0 text12 dist/default/production\ililib.X.production.o
-__ptext13 2444 0 CODE 0 text13 dist/default/production\ililib.X.production.o
-__ptext14 2562 0 CODE 0 text14 dist/default/production\ililib.X.production.o
-__ptext15 26CA 0 CODE 0 text15 dist/default/production\ililib.X.production.o
-__ptext16 6 0 CODE 0 text16 dist/default/production\ililib.X.production.o
-__ptext17 2416 0 CODE 0 text17 dist/default/production\ililib.X.production.o
-__ptext18 11FC 0 CODE 0 text18 dist/default/production\ililib.X.production.o
-__ptext19 13B4 0 CODE 0 text19 dist/default/production\ililib.X.production.o
-__ptext20 27E4 0 CODE 0 text20 dist/default/production\ililib.X.production.o
-__ptext21 23EC 0 CODE 0 text21 dist/default/production\ililib.X.production.o
-__ptext22 2292 0 CODE 0 text22 dist/default/production\ililib.X.production.o
-__ptext23 22B8 0 CODE 0 text23 dist/default/production\ililib.X.production.o
-__ptext24 22A4 0 CODE 0 text24 dist/default/production\ililib.X.production.o
-__ptext25 251A 0 CODE 0 text25 dist/default/production\ililib.X.production.o
-__ptext26 A80 0 CODE 0 text26 dist/default/production\ililib.X.production.o
-__ptext27 2E7A 0 CODE 0 text27 dist/default/production\ililib.X.production.o
-__ptext28 1002 0 CODE 0 text28 dist/default/production\ililib.X.production.o
-__ptext29 2B64 0 CODE 0 text29 dist/default/production\ililib.X.production.o
-__ptext30 2656 0 CODE 0 text30 dist/default/production\ililib.X.production.o
-__ptext31 2204 0 CODE 0 text31 dist/default/production\ililib.X.production.o
-__ptext32 2754 0 CODE 0 text32 dist/default/production\ililib.X.production.o
-__ptext33 2280 0 CODE 0 text33 dist/default/production\ililib.X.production.o
-__ptext34 22E0 0 CODE 0 text34 dist/default/production\ililib.X.production.o
-__ptext35 220A 0 CODE 0 text35 dist/default/production\ililib.X.production.o
-__ptext36 2474 0 CODE 0 text36 dist/default/production\ililib.X.production.o
-__ptext37 22F6 0 CODE 0 text37 dist/default/production\ililib.X.production.o
-__ptext38 23C2 0 CODE 0 text38 dist/default/production\ililib.X.production.o
-__ptext39 225E 0 CODE 0 text39 dist/default/production\ililib.X.production.o
-__ptext40 2A84 0 CODE 0 text40 dist/default/production\ililib.X.production.o
-__ptext41 2246 0 CODE 0 text41 dist/default/production\ililib.X.production.o
-__ptext42 2230 0 CODE 0 text42 dist/default/production\ililib.X.production.o
-__ptext43 2226 0 CODE 0 text43 dist/default/production\ililib.X.production.o
-__ptext44 223A 0 CODE 0 text44 dist/default/production\ililib.X.production.o
-__ptext45 226E 0 CODE 0 text45 dist/default/production\ililib.X.production.o
-__ptext46 2876 0 CODE 0 text46 dist/default/production\ililib.X.production.o
-__ptext48 2398 0 CODE 0 text48 dist/default/production\ililib.X.production.o
-__ptext49 235C 0 CODE 0 text49 dist/default/production\ililib.X.production.o
-__ptext50 4 0 CODE 0 text50 dist/default/production\ililib.X.production.o
-__ptext51 221C 0 CODE 0 text51 dist/default/production\ililib.X.production.o
-__ptext52 2342 0 CODE 0 text52 dist/default/production\ililib.X.production.o
-__ptext53 1000 0 CODE 0 text53 dist/default/production\ililib.X.production.o
-__ptext54 21FE 0 CODE 0 text54 dist/default/production\ililib.X.production.o
-__ptext55 2328 0 CODE 0 text55 dist/default/production\ililib.X.production.o
-__ptext56 21F6 0 CODE 0 text56 dist/default/production\ililib.X.production.o
-__ptext57 2212 0 CODE 0 text57 dist/default/production\ililib.X.production.o
-__ptext58 230E 0 CODE 0 text58 dist/default/production\ililib.X.production.o
-__ptext59 21F4 0 CODE 0 text59 dist/default/production\ililib.X.production.o
-__ptext60 21F8 0 CODE 0 text60 dist/default/production\ililib.X.production.o
+__end_of_disp_texto 2282 0 CODE 0 text25 dist/default/production\ililib.X.production.o
+__ptext10 2E4A 0 CODE 0 text10 dist/default/production\ililib.X.production.o
+__ptext11 1494 0 CODE 0 text11 dist/default/production\ililib.X.production.o
+__ptext12 100C 0 CODE 0 text12 dist/default/production\ililib.X.production.o
+__ptext13 210A 0 CODE 0 text13 dist/default/production\ililib.X.production.o
+__ptext14 2282 0 CODE 0 text14 dist/default/production\ililib.X.production.o
+__ptext15 2556 0 CODE 0 text15 dist/default/production\ililib.X.production.o
+__ptext16 4 0 CODE 0 text16 dist/default/production\ililib.X.production.o
+__ptext17 20D6 0 CODE 0 text17 dist/default/production\ililib.X.production.o
+__ptext18 10BE 0 CODE 0 text18 dist/default/production\ililib.X.production.o
+__ptext19 1292 0 CODE 0 text19 dist/default/production\ililib.X.production.o
+__ptext20 25F4 0 CODE 0 text20 dist/default/production\ililib.X.production.o
+__ptext21 20A6 0 CODE 0 text21 dist/default/production\ililib.X.production.o
+__ptext22 3F7C 0 CODE 0 text22 dist/default/production\ililib.X.production.o
+__ptext23 3F68 0 CODE 0 text23 dist/default/production\ililib.X.production.o
+__ptext24 3F54 0 CODE 0 text24 dist/default/production\ililib.X.production.o
+__ptext25 2232 0 CODE 0 text25 dist/default/production\ililib.X.production.o
+__ptext26 A8E 0 CODE 0 text26 dist/default/production\ililib.X.production.o
+__ptext27 2C9A 0 CODE 0 text27 dist/default/production\ililib.X.production.o
+__ptext28 2336 0 CODE 0 text28 dist/default/production\ililib.X.production.o
+__ptext29 294A 0 CODE 0 text29 dist/default/production\ililib.X.production.o
+__ptext30 23A2 0 CODE 0 text30 dist/default/production\ililib.X.production.o
+__ptext31 3EC2 0 CODE 0 text31 dist/default/production\ililib.X.production.o
+__ptext32 2424 0 CODE 0 text32 dist/default/production\ililib.X.production.o
+__ptext33 3F40 0 CODE 0 text33 dist/default/production\ililib.X.production.o
+__ptext34 3FAA 0 CODE 0 text34 dist/default/production\ililib.X.production.o
+__ptext35 3ED0 0 CODE 0 text35 dist/default/production\ililib.X.production.o
+__ptext36 2174 0 CODE 0 text36 dist/default/production\ililib.X.production.o
+__ptext37 3F90 0 CODE 0 text37 dist/default/production\ililib.X.production.o
+__ptext38 2052 0 CODE 0 text38 dist/default/production\ililib.X.production.o
+__ptext39 3F1E 0 CODE 0 text39 dist/default/production\ililib.X.production.o
+__ptext40 2868 0 CODE 0 text40 dist/default/production\ililib.X.production.o
+__ptext41 3F12 0 CODE 0 text41 dist/default/production\ililib.X.production.o
+__ptext42 3F06 0 CODE 0 text42 dist/default/production\ililib.X.production.o
+__ptext43 3EFA 0 CODE 0 text43 dist/default/production\ililib.X.production.o
+__ptext44 3EEE 0 CODE 0 text44 dist/default/production\ililib.X.production.o
+__ptext45 3F2E 0 CODE 0 text45 dist/default/production\ililib.X.production.o
+__ptext46 24B8 0 CODE 0 text46 dist/default/production\ililib.X.production.o
+__ptext48 21F0 0 CODE 0 text48 dist/default/production\ililib.X.production.o
+__ptext49 2034 0 CODE 0 text49 dist/default/production\ililib.X.production.o
+__ptext50 2000 0 CODE 0 text50 dist/default/production\ililib.X.production.o
+__ptext51 3ED8 0 CODE 0 text51 dist/default/production\ililib.X.production.o
+__ptext52 2016 0 CODE 0 text52 dist/default/production\ililib.X.production.o
+__ptext53 3EBA 0 CODE 0 text53 dist/default/production\ililib.X.production.o
+__ptext54 3EBC 0 CODE 0 text54 dist/default/production\ililib.X.production.o
+__ptext55 3FE2 0 CODE 0 text55 dist/default/production\ililib.X.production.o
+__ptext56 3EB8 0 CODE 0 text56 dist/default/production\ililib.X.production.o
+__ptext57 3EE2 0 CODE 0 text57 dist/default/production\ililib.X.production.o
+__ptext58 3FC4 0 CODE 0 text58 dist/default/production\ililib.X.production.o
+__ptext59 3EB6 0 CODE 0 text59 dist/default/production\ililib.X.production.o
+__ptext60 3EC8 0 CODE 0 text60 dist/default/production\ililib.X.production.o
 _IOCCFbits F55 0 ABS 0 - dist/default/production\ililib.X.production.o
 _IOCCNbits F54 0 ABS 0 - dist/default/production\ililib.X.production.o
 _IOCCPbits F53 0 ABS 0 - dist/default/production\ililib.X.production.o
-__end_of_PIN_MANAGER_Initialize 2B64 0 CODE 0 text40 dist/default/production\ililib.X.production.o
-___aodiv 13B4 0 CODE 0 text19 dist/default/production\ililib.X.production.o
-___aomod 11FC 0 CODE 0 text18 dist/default/production\ililib.X.production.o
+__end_of_PIN_MANAGER_Initialize 294A 0 CODE 0 text40 dist/default/production\ililib.X.production.o
+___aodiv 1292 0 CODE 0 text19 dist/default/production\ililib.X.production.o
+___aomod 10BE 0 CODE 0 text18 dist/default/production\ililib.X.production.o
 __Lbank10 0 0 ABS 0 bank10 -
 __Lbank11 0 0 ABS 0 bank11 -
 __Lbank12 0 0 ABS 0 bank12 -
@@ -1452,34 +1463,34 @@ __Lbank28 0 0 BANK28 1 bank28 -
 __Lbank29 0 0 BANK29 1 bank29 -
 __Lbank30 0 0 BANK30 1 bank30 -
 __Lbank31 0 0 BANK31 1 bank31 -
-__pmaintext 1834 0 CODE 0 maintext dist/default/production\ililib.X.production.o
+__pmaintext 1774 0 CODE 0 maintext dist/default/production\ililib.X.production.o
 __Lbigram 0 0 ABS 0 bigram -
 ___lmul@multiplier 71 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
 _textbgcolor A0 0 BANK1 1 dataBANK1 dist/default/production\ililib.X.production.o
-__end_of_setAddrWindow 27E4 0 CODE 0 text32 dist/default/production\ililib.X.production.o
+__end_of_setAddrWindow 24B8 0 CODE 0 text32 dist/default/production\ililib.X.production.o
 SPI1_ExchangeByte@data 71 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
 ?_dtoa 30 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 display_setCursor@x 71 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
 display_setCursor@y 73 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
 __Lcommon 0 0 ABS 0 common -
 __Lconfig 0 0 CONFIG 4 config -
-__end_of_drawPixel 26CA 0 CODE 0 text30 dist/default/production\ililib.X.production.o
+__end_of_drawPixel 2424 0 CODE 0 text30 dist/default/production\ililib.X.production.o
 __Hinittext 0 0 ABS 0 inittext -
-__end_of_drawVLine 2C4A 0 CODE 0 text29 dist/default/production\ililib.X.production.o
+__end_of_drawVLine 2A4A 0 CODE 0 text29 dist/default/production\ililib.X.production.o
 ___wmul@multiplier 71 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
 _LATAbits 16 0 ABS 0 - dist/default/production\ililib.X.production.o
 _LATCbits 18 0 ABS 0 - dist/default/production\ililib.X.production.o
 __size_of_drawPixel 0 0 ABS 0 - dist/default/production\ililib.X.production.o
 disp_texto@cadena 4A 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 __size_of_drawVLine 0 0 ABS 0 - dist/default/production\ililib.X.production.o
-_IOCAF1_DefaultInterruptHandler 21F4 0 CODE 0 text59 dist/default/production\ililib.X.production.o
-_SPI1_ExchangeByte 22E0 0 CODE 0 text34 dist/default/production\ililib.X.production.o
-_strlen 2444 0 CODE 0 text13 dist/default/production\ililib.X.production.o
+_IOCAF1_DefaultInterruptHandler 3EB6 0 CODE 0 text59 dist/default/production\ililib.X.production.o
+_SPI1_ExchangeByte 3FAA 0 CODE 0 text34 dist/default/production\ililib.X.production.o
+_strlen 210A 0 CODE 0 text13 dist/default/production\ililib.X.production.o
 __size_of_display_setTextSize 0 0 ABS 0 - dist/default/production\ililib.X.production.o
-__end_of_IOCAF1_ISR 2328 0 CODE 0 text58 dist/default/production\ililib.X.production.o
-__end_of_IOCAF2_ISR 2342 0 CODE 0 text55 dist/default/production\ililib.X.production.o
+__end_of_IOCAF1_ISR 3FE2 0 CODE 0 text58 dist/default/production\ililib.X.production.o
+__end_of_IOCAF2_ISR 4000 0 CODE 0 text55 dist/default/production\ililib.X.production.o
 __size_of_vfprintf 0 0 ABS 0 - dist/default/production\ililib.X.production.o
-__end_of_SPI1_Open 2910 0 CODE 0 text46 dist/default/production\ililib.X.production.o
+__end_of_SPI1_Open 2556 0 CODE 0 text46 dist/default/production\ililib.X.production.o
 _SSP1CLKPPS EC5 0 ABS 0 - dist/default/production\ililib.X.production.o
 __size_of_SPI1_Open 0 0 ABS 0 - dist/default/production\ililib.X.production.o
 _OSCCON1 88D 0 ABS 0 - dist/default/production\ililib.X.production.o
@@ -1487,11 +1498,11 @@ _OSCCON3 88F 0 ABS 0 - dist/default/production\ililib.X.production.o
 _OSCTUNE 892 0 ABS 0 - dist/default/production\ililib.X.production.o
 _SSP1DATPPS EC6 0 ABS 0 - dist/default/production\ililib.X.production.o
 __size_of_IOCCF5_SetInterruptHandler 0 0 ABS 0 - dist/default/production\ililib.X.production.o
-_drawPixel 2656 0 CODE 0 text30 dist/default/production\ililib.X.production.o
-_drawVLine 2B64 0 CODE 0 text29 dist/default/production\ililib.X.production.o
+_drawPixel 23A2 0 CODE 0 text30 dist/default/production\ililib.X.production.o
+_drawVLine 294A 0 CODE 0 text29 dist/default/production\ililib.X.production.o
 __height C7 0 BANK1 1 bssBANK1 dist/default/production\ililib.X.production.o
 ?_vfpfcnvrt 4E 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
-_IOCBF4_SetInterruptHandler 2230 0 CODE 0 text42 dist/default/production\ililib.X.production.o
+_IOCBF4_SetInterruptHandler 3F06 0 CODE 0 text42 dist/default/production\ililib.X.production.o
 __Lspace_0 0 0 ABS 0 - -
 __Lspace_1 0 0 ABS 0 - -
 __Lspace_2 0 0 ABS 0 - -
@@ -1502,22 +1513,22 @@ __HcstackBANK0 0 0 ABS 0 cstackBANK0 -
 __HcstackBANK1 0 0 ABS 0 cstackBANK1 -
 _PIR0bits 70C 0 ABS 0 - dist/default/production\ililib.X.production.o
 _PIR3bits 70F 0 ABS 0 - dist/default/production\ililib.X.production.o
-__Lend_init 1C 0 CODE 0 end_init -
+__Lend_init 28 0 CODE 0 end_init -
 ___aodiv@divisor 20 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 ___aodiv@dividend 28 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 __LcstackCOMMON 0 0 ABS 0 cstackCOMMON -
 SPI1_Open@spi1UniqueConfiguration 74 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
 _textsize 6F 0 BANK0 1 dataBANK0 dist/default/production\ililib.X.production.o
-_fillScreen 24E0 0 CODE 0 text6 dist/default/production\ililib.X.production.o
-end_of_initialization 78 0 CODE 0 cinit dist/default/production\ililib.X.production.o
-_SPI1_Open 2876 0 CODE 0 text46 dist/default/production\ililib.X.production.o
-__Hintentry 1C 0 CODE 0 intentry -
-_display_print A80 0 CODE 0 text26 dist/default/production\ililib.X.production.o
+_fillScreen 21B2 0 CODE 0 text6 dist/default/production\ililib.X.production.o
+end_of_initialization 86 0 CODE 0 cinit dist/default/production\ililib.X.production.o
+_SPI1_Open 24B8 0 CODE 0 text46 dist/default/production\ililib.X.production.o
+__Hintentry 28 0 CODE 0 intentry -
+_display_print A8E 0 CODE 0 text26 dist/default/production\ililib.X.production.o
 fputc@c 71 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
 fputs@c 23 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 fputs@i 24 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 fputs@s 26 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
-__end_of_display_drawCustomChar 2A84 0 CODE 0 text3 dist/default/production\ililib.X.production.o
+__end_of_display_drawCustomChar 2868 0 CODE 0 text3 dist/default/production\ililib.X.production.o
 drawVLine@hi 32 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 drawVLine@lo 33 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 __Lstrings 0 0 ABS 0 strings -
@@ -1525,7 +1536,7 @@ __Lstrings 0 0 ABS 0 strings -
 ?___aomod 20 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 dibujarMarcador@puntaje1 6E 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 dibujarMarcador@puntaje2 6D 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
-_IOCBF4_DefaultInterruptHandler 1000 0 CODE 0 text53 dist/default/production\ililib.X.production.o
+_IOCBF4_DefaultInterruptHandler 3EBA 0 CODE 0 text53 dist/default/production\ililib.X.production.o
 writeCommand@cmd 72 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
 vfprintf@fmt 5E 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 _puntaje1 CC 0 BANK1 1 bssBANK1 dist/default/production\ililib.X.production.o
@@ -1535,34 +1546,34 @@ __HbssBANK1 0 0 ABS 0 bssBANK1 -
 __HbssBANK2 0 0 ABS 0 bssBANK2 -
 _initcmd 3000 0 STRCODE 0 stringtext3 dist/default/production\ililib.X.production.o
 __size_of_strlen 0 0 ABS 0 - dist/default/production\ililib.X.production.o
-_display_setTextSize 23EC 0 CODE 0 text21 dist/default/production\ililib.X.production.o
+_display_setTextSize 20A6 0 CODE 0 text21 dist/default/production\ililib.X.production.o
 __size_of_fillRect 0 0 ABS 0 - dist/default/production\ililib.X.production.o
 display_drawCustomChar@bg 53 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 vfpfcnvrt@ap 4F 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 vfpfcnvrt@fp 5D 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 vfpfcnvrt@ll 55 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
-__ptext1 2C4A 0 CODE 0 text1 dist/default/production\ililib.X.production.o
-__ptext2 2D54 0 CODE 0 text2 dist/default/production\ililib.X.production.o
-__ptext3 29AC 0 CODE 0 text3 dist/default/production\ililib.X.production.o
-__ptext4 1BCA 0 CODE 0 text4 dist/default/production\ililib.X.production.o
-__ptext5 2376 0 CODE 0 text5 dist/default/production\ililib.X.production.o
-__ptext6 24E0 0 CODE 0 text6 dist/default/production\ililib.X.production.o
-__ptext7 F32 0 CODE 0 text7 dist/default/production\ililib.X.production.o
-__ptext8 25AC 0 CODE 0 text8 dist/default/production\ililib.X.production.o
-__ptext9 25FC 0 CODE 0 text9 dist/default/production\ililib.X.production.o
+__ptext1 2A4A 0 CODE 0 text1 dist/default/production\ililib.X.production.o
+__ptext2 2B64 0 CODE 0 text2 dist/default/production\ililib.X.production.o
+__ptext3 278C 0 CODE 0 text3 dist/default/production\ililib.X.production.o
+__ptext4 1B86 0 CODE 0 text4 dist/default/production\ililib.X.production.o
+__ptext5 207C 0 CODE 0 text5 dist/default/production\ililib.X.production.o
+__ptext6 21B2 0 CODE 0 text6 dist/default/production\ililib.X.production.o
+__ptext7 26B6 0 CODE 0 text7 dist/default/production\ililib.X.production.o
+__ptext8 FA2 0 CODE 0 text8 dist/default/production\ililib.X.production.o
+__ptext9 22D4 0 CODE 0 text9 dist/default/production\ililib.X.production.o
 vfprintf@ap 60 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 vfprintf@fp 63 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 vfprintf@cfmt 64 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
-_sprintf 25AC 0 CODE 0 text8 dist/default/production\ililib.X.production.o
+_sprintf FA2 0 CODE 0 text8 dist/default/production\ililib.X.production.o
 _cursor_x C5 0 BANK1 1 bssBANK1 dist/default/production\ililib.X.production.o
 _cursor_y C3 0 BANK1 1 bssBANK1 dist/default/production\ililib.X.production.o
-_vfprintf 25FC 0 CODE 0 text9 dist/default/production\ililib.X.production.o
+_vfprintf 22D4 0 CODE 0 text9 dist/default/production\ililib.X.production.o
 __Lpowerup 0 0 CODE 0 powerup -
-_IOCCF5_SetInterruptHandler 2246 0 CODE 0 text41 dist/default/production\ililib.X.production.o
+_IOCCF5_SetInterruptHandler 3F12 0 CODE 0 text41 dist/default/production\ililib.X.production.o
 __Leeprom_data 0 0 EEDATA 3 eeprom_data -
 sprintf@ap D4 0 BANK1 1 cstackBANK1 dist/default/production\ililib.X.production.o
 display_drawCustomChar@prev_size 5E 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
-__end_of_display_setCursor 22B8 0 CODE 0 text24 dist/default/production\ililib.X.production.o
+__end_of_display_setCursor 3F68 0 CODE 0 text24 dist/default/production\ililib.X.production.o
 __Lreset_vec 0 0 CODE 0 reset_vec -
 drawPixel@x 26 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 drawPixel@y 28 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
@@ -1576,7 +1587,7 @@ __Hstringtext7 0 0 ABS 0 stringtext7 -
 __Hstringtext8 0 0 ABS 0 stringtext8 -
 __Hstringtext9 0 0 ABS 0 stringtext9 -
 _IOCCF5_InterruptHandler E4 0 BANK1 1 nvBANK1 dist/default/production\ililib.X.production.o
-__end_of_vfprintf 2656 0 CODE 0 text9 dist/default/production\ililib.X.production.o
+__end_of_vfprintf 2336 0 CODE 0 text9 dist/default/production\ililib.X.production.o
 drawPixel@color 2A 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 _SLRCONA F3B 0 ABS 0 - dist/default/production\ililib.X.production.o
 _SLRCONB F46 0 ABS 0 - dist/default/production\ililib.X.production.o
@@ -1584,18 +1595,18 @@ _SLRCONC F51 0 ABS 0 - dist/default/production\ililib.X.production.o
 _SLRCOND F5C 0 ABS 0 - dist/default/production\ililib.X.production.o
 _SLRCONE F67 0 ABS 0 - dist/default/production\ililib.X.production.o
 tft_begin@x 76 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
-__end_of__initialization 78 0 CODE 0 cinit dist/default/production\ililib.X.production.o
-_IOCBF4_ISR 2342 0 CODE 0 text52 dist/default/production\ililib.X.production.o
+__end_of__initialization 86 0 CODE 0 cinit dist/default/production\ililib.X.production.o
+_IOCBF4_ISR 2016 0 CODE 0 text52 dist/default/production\ililib.X.production.o
 IOCBF4_SetInterruptHandler@InterruptHandler 71 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
 _rotation CE 0 BANK1 1 bssBANK1 dist/default/production\ililib.X.production.o
 __Lfunctab 0 0 ENTRY 0 functab -
-__pidataBANK0 FFE 0 CODE 0 idataBANK0 dist/default/production\ililib.X.production.o
-__pidataBANK1 24AA 0 CODE 0 idataBANK1 dist/default/production\ililib.X.production.o
-__pidataBANK2 22CC 0 CODE 0 idataBANK2 dist/default/production\ililib.X.production.o
+__pidataBANK0 6 0 CODE 0 idataBANK0 dist/default/production\ililib.X.production.o
+__pidataBANK1 213E 0 CODE 0 idataBANK1 dist/default/production\ililib.X.production.o
+__pidataBANK2 2002 0 CODE 0 idataBANK2 dist/default/production\ililib.X.production.o
 __Lclrtext 0 0 ABS 0 clrtext -
-__end_of_fillScreen 251A 0 CODE 0 text6 dist/default/production\ililib.X.production.o
+__end_of_fillScreen 21F0 0 CODE 0 text6 dist/default/production\ililib.X.production.o
 _SSP1CON1bits 190 0 ABS 0 - dist/default/production\ililib.X.production.o
-_writeCommand 2280 0 CODE 0 text33 dist/default/production\ililib.X.production.o
+_writeCommand 3F40 0 CODE 0 text33 dist/default/production\ililib.X.production.o
 __size_of_IOCAF1_SetInterruptHandler 0 0 ABS 0 - dist/default/production\ililib.X.production.o
 ___lmul@product 20 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 drawVLine@color 2C 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
@@ -1604,23 +1615,23 @@ ___lmul@multiplicand 75 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X
 __size_of_IOCAF2_DefaultInterruptHandler 0 0 ABS 0 - dist/default/production\ililib.X.production.o
 __pcstackCOMMON 70 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
 moverJugador@jugador 5F 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
-_startWrite 2204 0 CODE 0 text31 dist/default/production\ililib.X.production.o
+_startWrite 3EC2 0 CODE 0 text31 dist/default/production\ililib.X.production.o
 _SSP1ADD 18D 0 ABS 0 - dist/default/production\ililib.X.production.o
 _SSP1BUF 18C 0 ABS 0 - dist/default/production\ililib.X.production.o
-_fillRect 2E7A 0 CODE 0 text27 dist/default/production\ililib.X.production.o
+_fillRect 2C9A 0 CODE 0 text27 dist/default/production\ililib.X.production.o
 __size_of_display_customChar 0 0 ABS 0 - dist/default/production\ililib.X.production.o
-__Hend_init 20 0 CODE 0 end_init -
+__Hend_init 2C 0 CODE 0 end_init -
 sprintf@f D6 0 BANK1 1 cstackBANK1 dist/default/production\ililib.X.production.o
 sprintf@s D5 0 BANK1 1 cstackBANK1 dist/default/production\ililib.X.production.o
-__end_of_dtoa 1834 0 CODE 0 text11 dist/default/production\ililib.X.production.o
-__end_of_font A80 0 STRCODE 0 stringtext1 dist/default/production\ililib.X.production.o
-__end_of_main 1BCA 0 CODE 0 maintext dist/default/production\ililib.X.production.o
-__end_of_IOCAF2_SetInterruptHandler 2230 0 CODE 0 text43 dist/default/production\ililib.X.production.o
+__end_of_dtoa 1774 0 CODE 0 text11 dist/default/production\ililib.X.production.o
+__end_of_font A8E 0 STRCODE 0 stringtext1 dist/default/production\ililib.X.production.o
+__end_of_main 1B86 0 CODE 0 maintext dist/default/production\ililib.X.production.o
+__end_of_IOCAF2_SetInterruptHandler 3F06 0 CODE 0 text43 dist/default/production\ililib.X.production.o
 display_print@line 46 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
-__end_of_dibujarMarcador FF2 0 CODE 0 text7 dist/default/production\ililib.X.production.o
+__end_of_dibujarMarcador 278C 0 CODE 0 text7 dist/default/production\ililib.X.production.o
 __size_of_disp_texto 0 0 ABS 0 - dist/default/production\ililib.X.production.o
-__end_of_fputc 2754 0 CODE 0 text15 dist/default/production\ililib.X.production.o
-__end_of_fputs 25AC 0 CODE 0 text14 dist/default/production\ililib.X.production.o
+__end_of_fputc 25F4 0 CODE 0 text15 dist/default/production\ililib.X.production.o
+__end_of_fputs 22D4 0 CODE 0 text14 dist/default/production\ililib.X.production.o
 ?_sprintf 66 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 _OSCEN 891 0 ABS 0 - dist/default/production\ililib.X.production.o
 _TRISA 11 0 ABS 0 - dist/default/production\ililib.X.production.o
@@ -1628,19 +1639,19 @@ _TRISB 12 0 ABS 0 - dist/default/production\ililib.X.production.o
 _TRISC 13 0 ABS 0 - dist/default/production\ililib.X.production.o
 _TRISD 14 0 ABS 0 - dist/default/production\ililib.X.production.o
 _TRISE 15 0 ABS 0 - dist/default/production\ililib.X.production.o
-__end_of_putch 8 0 CODE 0 text16 dist/default/production\ililib.X.production.o
-_moverJugador 2D54 0 CODE 0 text2 dist/default/production\ililib.X.production.o
-__end_of_fillRect 3000 0 CODE 0 text27 dist/default/production\ililib.X.production.o
+__end_of_putch 6 0 CODE 0 text16 dist/default/production\ililib.X.production.o
+_moverJugador 2B64 0 CODE 0 text2 dist/default/production\ililib.X.production.o
+__end_of_fillRect 2E4A 0 CODE 0 text27 dist/default/production\ililib.X.production.o
 __Hram 0 0 ABS 0 ram -
 __Lram 0 0 ABS 0 ram -
 _flags C1 0 BANK1 1 bssBANK1 dist/default/production\ililib.X.production.o
-_fputc 26CA 0 CODE 0 text15 dist/default/production\ililib.X.production.o
-_fputs 2562 0 CODE 0 text14 dist/default/production\ililib.X.production.o
-_putch 6 0 CODE 0 text16 dist/default/production\ililib.X.production.o
+_fputc 2556 0 CODE 0 text15 dist/default/production\ililib.X.production.o
+_fputs 2282 0 CODE 0 text14 dist/default/production\ililib.X.production.o
+_putch 4 0 CODE 0 text16 dist/default/production\ililib.X.production.o
 _width BD 0 BANK1 1 bssBANK1 dist/default/production\ililib.X.production.o
 __size_of_PIN_MANAGER_Initialize 0 0 ABS 0 - dist/default/production\ililib.X.production.o
 setRotation@m 75 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
-_setRotation 27E4 0 CODE 0 text20 dist/default/production\ililib.X.production.o
+_setRotation 25F4 0 CODE 0 text20 dist/default/production\ililib.X.production.o
 __pintentry 8 0 CODE 0 intentry dist/default/production\ililib.X.production.o
 __size_of_display_print 0 0 ABS 0 - dist/default/production\ililib.X.production.o
 __size_of_abs 0 0 ABS 0 - dist/default/production\ililib.X.production.o
@@ -1651,19 +1662,19 @@ __HdataBANK2 0 0 ABS 0 dataBANK2 -
 display_customChar@c 3A 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 display_customChar@i 4A 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 display_customChar@j 49 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
-__end_of_OSCILLATOR_Initialize 2280 0 CODE 0 text45 dist/default/production\ililib.X.production.o
+__end_of_OSCILLATOR_Initialize 3F40 0 CODE 0 text45 dist/default/production\ililib.X.production.o
 IOCAF1_SetInterruptHandler@InterruptHandler 71 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
-__initialization 20 0 CODE 0 cinit dist/default/production\ililib.X.production.o
+__initialization 2C 0 CODE 0 cinit dist/default/production\ililib.X.production.o
 ___bmul@product 73 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
 __size_of_writeCommand 0 0 ABS 0 - dist/default/production\ililib.X.production.o
 __pbssBANK1 BB 0 BANK1 1 bssBANK1 dist/default/production\ililib.X.production.o
 __pbssBANK2 120 0 BANK2 1 bssBANK2 dist/default/production\ililib.X.production.o
 __size_of_display_setTextColor 0 0 ABS 0 - dist/default/production\ililib.X.production.o
 __size_of_display_setTextColor2 0 0 ABS 0 - dist/default/production\ililib.X.production.o
-_IOCAF1_SetInterruptHandler 223A 0 CODE 0 text44 dist/default/production\ililib.X.production.o
-__end_of_display_setTextSize 2416 0 CODE 0 text21 dist/default/production\ililib.X.production.o
+_IOCAF1_SetInterruptHandler 3EEE 0 CODE 0 text44 dist/default/production\ililib.X.production.o
+__end_of_display_setTextSize 20D6 0 CODE 0 text21 dist/default/production\ililib.X.production.o
 ___wmul@product 75 0 COMMON 1 cstackCOMMON dist/default/production\ililib.X.production.o
-__end_of_IOCBF4_ISR 235C 0 CODE 0 text52 dist/default/production\ililib.X.production.o
+__end_of_IOCBF4_ISR 2034 0 CODE 0 text52 dist/default/production\ililib.X.production.o
 dtoa@d 30 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 dtoa@i 4C 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 dtoa@n 44 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
@@ -1672,8 +1683,8 @@ dtoa@s 42 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 dtoa@w 40 0 BANK0 1 cstackBANK0 dist/default/production\ililib.X.production.o
 __size_of_IOCAF1_ISR 0 0 ABS 0 - dist/default/production\ililib.X.production.o
 __size_of_IOCAF2_ISR 0 0 ABS 0 - dist/default/production\ililib.X.production.o
-_display_setCursor 22A4 0 CODE 0 text24 dist/default/production\ililib.X.production.o
-_OSCILLATOR_Initialize 226E 0 CODE 0 text45 dist/default/production\ililib.X.production.o
+_display_setCursor 3F54 0 CODE 0 text24 dist/default/production\ililib.X.production.o
+_OSCILLATOR_Initialize 3F2E 0 CODE 0 text45 dist/default/production\ililib.X.production.o
 # %SPLITSTAB Section
 # This section enumerates all the psect splits performed by the assembler.
 # The beginning of the section is indicated by %SPLITSTAB.
@@ -1699,74 +1710,74 @@ _OSCILLATOR_Initialize 226E 0 CODE 0 text45 dist/default/production\ililib.X.pro
 # and size are in units of delta. The file address is in units of bytes.
 # All other numeric quantities are in decimal.
 %SEGMENTS
-text1 0 1625 2C4A 85 2
-text2 0 16AA 2D54 93 2
-text3 0 14D6 29AC 6C 2
-text4 0 DE5 1BCA 21B 2
-text5 0 11BB 2376 11 2
-text6 0 1270 24E0 1D 2
-text8 0 12D6 25AC 28 2
-text9 0 12FE 25FC 2D 2
-text10 0 830 1060 CE 2
-text11 0 ACD 159A 14D 2
-text12 0 1488 2910 4E 2
-text13 0 1222 2444 18 2
-text14 0 12B1 2562 25 2
-text15 0 1365 26CA 45 2
-text16 0 3 6 1 2
-text17 0 120B 2416 17 2
-text18 0 8FE 11FC DC 2
-text19 0 9DA 13B4 F3 2
-text20 0 13F2 27E4 49 2
-text21 0 11F6 23EC 15 2
-text22 0 1149 2292 9 2
-text23 0 115C 22B8 A 2
-text24 0 1152 22A4 A 2
-text25 0 128D 251A 24 2
-text26 0 540 A80 2C1 2
-text27 0 173D 2E7A C3 2
-text28 0 801 1002 2F 2
-text29 0 15B2 2B64 73 2
-text30 0 132B 2656 3A 2
-text31 0 1102 2204 3 2
-text32 0 13AA 2754 48 2
-text33 0 1140 2280 9 2
-text34 0 1170 22E0 B 2
-text35 0 1105 220A 4 2
-text36 0 123A 2474 1B 2
-text37 0 117B 22F6 C 2
-text38 0 11E1 23C2 15 2
-text39 0 112F 225E 8 2
-text40 0 1542 2A84 70 2
-text41 0 1123 2246 6 2
-text42 0 1118 2230 5 2
-text43 0 1113 2226 5 2
-text44 0 111D 223A 6 2
-text45 0 1137 226E 9 2
-text46 0 143B 2876 4D 2
-text48 0 11CC 2398 15 2
-text49 0 11AE 235C D 2
-text51 0 110E 221C 5 2
-text52 0 11A1 2342 D 2
-text54 0 10FF 21FE 3 2
-text55 0 1194 2328 D 2
-text56 0 10FB 21F6 1 2
-text57 0 1109 2212 5 2
-text58 0 1187 230E D 2
-text59 0 10FA 21F4 1 2
-text60 0 10FC 21F8 3 2
-maintext 0 C1A 1834 1CB 2
+text1 0 1525 2A4A 8D 2
+text2 0 15B2 2B64 9B 2
+text3 0 13C6 278C 6E 2
+text4 0 DC3 1B86 23E 2
+text5 0 103E 207C 15 2
+text6 0 10D9 21B2 1F 2
+text7 0 135B 26B6 6B 2
+text9 0 116A 22D4 31 2
+text10 0 1725 2E4A DB 2
+text11 0 A4A 1494 170 2
+text12 0 806 100C 59 2
+text13 0 1085 210A 1A 2
+text14 0 1141 2282 29 2
+text15 0 12AB 2556 4F 2
+text17 0 106B 20D6 1A 2
+text18 0 85F 10BE EA 2
+text19 0 949 1292 101 2
+text20 0 12FA 25F4 61 2
+text21 0 1053 20A6 18 2
+text22 0 1FBE 3F7C A 2
+text23 0 1FB4 3F68 A 2
+text24 0 1FAA 3F54 A 2
+text25 0 1119 2232 28 2
+text26 0 547 A8E 2BF 2
+text27 0 164D 2C9A D8 2
+text28 0 119B 2336 36 2
+text29 0 14A5 294A 80 2
+text30 0 11D1 23A2 41 2
+text31 0 1F61 3EC2 3 2
+text32 0 1212 2424 4A 2
+text33 0 1FA0 3F40 A 2
+text34 0 1FD5 3FAA D 2
+text35 0 1F68 3ED0 4 2
+text36 0 10BA 2174 1F 2
+text37 0 1FC8 3F90 D 2
+text38 0 1029 2052 15 2
+text39 0 1F8F 3F1E 8 2
+text40 0 1434 2868 71 2
+text41 0 1F89 3F12 6 2
+text42 0 1F83 3F06 6 2
+text43 0 1F7D 3EFA 6 2
+text44 0 1F77 3EEE 6 2
+text45 0 1F97 3F2E 9 2
+text46 0 125C 24B8 4F 2
+text48 0 10F8 21F0 21 2
+text49 0 101A 2034 F 2
+text51 0 1F6C 3ED8 5 2
+text52 0 100B 2016 F 2
+text53 0 1F5D 3EBA 1 2
+text54 0 1F5E 3EBC 3 2
+text55 0 1FF1 3FE2 F 2
+text56 0 1F5C 3EB8 1 2
+text57 0 1F71 3EE2 6 2
+text58 0 1FE2 3FC4 F 2
+text59 0 1F5B 3EB6 1 2
+text60 0 1F64 3EC8 4 2
+maintext 0 BBA 1774 209 2
 cstackCOMMON 1 70 70 D 1
 cstackBANK0 1 20 20 50 1
-stringtext1 0 40 80 500 2
+stringtext1 0 47 8E 500 2
 stringtext3 0 1800 3000 168 2
-intentry 0 4 8 3C 2
+intentry 0 4 8 43 2
 reset_vec 0 0 0 3 2
 bssBANK2 1 120 120 2A 1
-idataBANK1 0 1255 24AA 1B 2
-idataBANK2 0 1166 22CC A 2
+idataBANK0 0 3 6 1 2
+idataBANK1 0 109F 213E 1B 2
+idataBANK2 0 1001 2002 A 2
 dataBANK1 1 A0 A0 4C 1
-clrtext 0 1129 2252 6 2
 # %NOTES Section
 # This section contains data of all the note-psects.  The beginning of the section
 # is indicated by %NOTES. The first line indicates the name and decimal

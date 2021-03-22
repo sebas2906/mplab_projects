@@ -7,7 +7,7 @@
 # 1 "C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/PIC16F1xxxx_DFP/1.4.119/xc8\\pic\\include\\language_support.h" 1 3
 # 2 "<built-in>" 2
 # 1 "main.c" 2
-# 20 "main.c"
+# 27 "main.c"
 # 1 "./mcc_generated_files/mcc.h" 1
 # 49 "./mcc_generated_files/mcc.h"
 # 1 "C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/PIC16F1xxxx_DFP/1.4.119/xc8\\pic\\include\\xc.h" 1 3
@@ -21084,7 +21084,7 @@ void SYSTEM_Initialize(void);
 void OSCILLATOR_Initialize(void);
 # 97 "./mcc_generated_files/mcc.h"
 void PMD_Initialize(void);
-# 20 "main.c" 2
+# 27 "main.c" 2
 
 # 1 "./ILI9341.h" 1
 # 135 "./ILI9341.h"
@@ -21144,7 +21144,7 @@ void writeCommand(uint8_t cmd);
 void setAddrWindow(uint16_t x1, uint16_t y1, uint16_t w, uint16_t h);
 void drawPixel(uint16_t x, uint16_t y, uint16_t color);
 uint8_t tft_readcommand8(uint8_t reg, uint8_t index);
-# 21 "main.c" 2
+# 28 "main.c" 2
 
 # 1 "./GFX_Library.h" 1
 # 42 "./GFX_Library.h"
@@ -21457,7 +21457,7 @@ _Bool
    0x00, 0x3C, 0x3C, 0x3C, 0x3C,
    0x00, 0x00, 0x00, 0x00, 0x00
 };
-# 22 "main.c" 2
+# 29 "main.c" 2
 
 
 
@@ -21639,10 +21639,10 @@ void ctrl_der2() {
 
 void dibujarMarcador(uint8_t puntaje1,uint8_t puntaje2){
     setRotation(1);
+    _delay((unsigned long)((10)*(32000000/4000.0)));
     display_setCursor((320/2)-10,0);
     display_setTextSize(2);
     display_setTextColor(0x0000,0x0000);
-
     disp_texto(marcador);
     display_setCursor((320/2)-10,0);
     display_setTextColor2(0x07E0);

@@ -3,7 +3,7 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>ililib</name>
+            <name>pong</name>
             <creation-uuid>e63c4241-a742-4751-be1e-969234ce2685</creation-uuid>
             <make-project-type>0</make-project-type>
             <c-extensions>c</c-extensions>

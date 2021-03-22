@@ -1,10 +1,10 @@
 Version 4.0 HI-TECH Software Intermediate Code
-"26 main.c
-[; ;main.c: 26: typedef struct{
+"33 main.c
+[; ;main.c: 33: typedef struct{
 [s S1627 `uc 1 `uc 1 `uc 1 `uc 1 `uc -> 5 `i `uc 1 ]
 [n S1627 . sentido velocidad escala id forma posicion ]
-"35
-[; ;main.c: 35: typedef struct{
+"42
+[; ;main.c: 42: typedef struct{
 [s S1628 `uc 1 `uc 1 `uc 1 `uc 1 `uc -> 5 `i `uc 1 `us 1 ]
 [n S1628 . sentidox sentidoy velocidad escala forma posicionx posiciony ]
 [p mainexit ]
@@ -22,8 +22,8 @@ Version 4.0 HI-TECH Software Intermediate Code
 "71 ./mcc_generated_files/mcc.h
 [; ;./mcc_generated_files/mcc.h: 71: void SYSTEM_Initialize(void);
 [v _SYSTEM_Initialize `(v ~T0 @X0 0 ef ]
-"88 main.c
-[; ;main.c: 88:     SPI1_Open(SPI1_DEFAULT);
+"95 main.c
+[; ;main.c: 95:     SPI1_Open(SPI1_DEFAULT);
 [c E12595 0 .. ]
 [n E12595 . SPI1_DEFAULT  ]
 "64 ./mcc_generated_files/spi1.h
@@ -44,29 +44,29 @@ Version 4.0 HI-TECH Software Intermediate Code
 "554 ./mcc_generated_files/pin_manager.h
 [; ;./mcc_generated_files/pin_manager.h: 554: void IOCCF5_SetInterruptHandler(void (* InterruptHandler)(void));
 [v _IOCCF5_SetInterruptHandler `(v ~T0 @X0 0 ef1`*F12226 ]
-"77 main.c
-[; ;main.c: 77: void ctrl_der(void);
+"84 main.c
+[; ;main.c: 84: void ctrl_der(void);
 [v _ctrl_der `(v ~T0 @X0 0 ef ]
 [v F12218 `(v ~T0 @X0 0 tf ]
 "470 ./mcc_generated_files/pin_manager.h
 [; ;./mcc_generated_files/pin_manager.h: 470: void IOCBF4_SetInterruptHandler(void (* InterruptHandler)(void));
 [v _IOCBF4_SetInterruptHandler `(v ~T0 @X0 0 ef1`*F12218 ]
-"76 main.c
-[; ;main.c: 76: void ctrl_izq(void);
+"83 main.c
+[; ;main.c: 83: void ctrl_izq(void);
 [v _ctrl_izq `(v ~T0 @X0 0 ef ]
 [v F12202 `(v ~T0 @X0 0 tf ]
 "302 ./mcc_generated_files/pin_manager.h
 [; ;./mcc_generated_files/pin_manager.h: 302: void IOCAF1_SetInterruptHandler(void (* InterruptHandler)(void));
 [v _IOCAF1_SetInterruptHandler `(v ~T0 @X0 0 ef1`*F12202 ]
-"79 main.c
-[; ;main.c: 79: void ctrl_izq2(void);
+"86 main.c
+[; ;main.c: 86: void ctrl_izq2(void);
 [v _ctrl_izq2 `(v ~T0 @X0 0 ef ]
 [v F12210 `(v ~T0 @X0 0 tf ]
 "386 ./mcc_generated_files/pin_manager.h
 [; ;./mcc_generated_files/pin_manager.h: 386: void IOCAF2_SetInterruptHandler(void (* InterruptHandler)(void));
 [v _IOCAF2_SetInterruptHandler `(v ~T0 @X0 0 ef1`*F12210 ]
-"80 main.c
-[; ;main.c: 80: void ctrl_der2(void);
+"87 main.c
+[; ;main.c: 87: void ctrl_der2(void);
 [v _ctrl_der2 `(v ~T0 @X0 0 ef ]
 "172 ./ILI9341.h
 [; ;./ILI9341.h: 172: void tft_begin(void);
@@ -77,19 +77,19 @@ Version 4.0 HI-TECH Software Intermediate Code
 "61 ./GFX_Library.h
 [; ;./GFX_Library.h: 61: void display_drawCustomChar(uint16_t x, uint16_t y, uint8_t c[5], uint16_t color, uint16_t bg,uint8_t size);
 [v _display_drawCustomChar `(v ~T0 @X0 0 ef6`us`us`*uc`us`us`uc ]
-"73 main.c
-[; ;main.c: 73: void dibujarMarcador(uint8_t puntaje1,uint8_t puntaje2);
+"80 main.c
+[; ;main.c: 80: void dibujarMarcador(uint8_t puntaje1,uint8_t puntaje2);
 [v _dibujarMarcador `(v ~T0 @X0 0 ef2`uc`uc ]
-"114
-[; ;main.c: 114:         if (movimiento_jugador1 == izquierda) {
+"121
+[; ;main.c: 121:         if (movimiento_jugador1 == izquierda) {
 [c E12831 0 1 2 .. ]
 [n E12831 Interrupciones inactivo izquierda derecha  ]
 [v F12187 `(v ~T0 @X0 1 tf1`ul ]
 "92 C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/PIC16F1xxxx_DFP/1.4.119/xc8\pic\include\pic.h
 [v __delay `JF12187 ~T0 @X0 0 e ]
 [p i __delay ]
-"82 main.c
-[; ;main.c: 82: void moverJugador(Jugador_t *jugador);
+"89 main.c
+[; ;main.c: 89: void moverJugador(Jugador_t *jugador);
 [v _moverJugador `(v ~T0 @X0 0 ef1`*S1627 ]
 "178 ./ILI9341.h
 [; ;./ILI9341.h: 178: void setRotation(uint8_t m);
@@ -103,8 +103,8 @@ Version 4.0 HI-TECH Software Intermediate Code
 "55
 [; ;./GFX_Library.h: 55: void display_setTextColor(uint16_t c, uint16_t bg);
 [v _display_setTextColor `(v ~T0 @X0 0 ef2`us`us ]
-"60 main.c
-[; ;main.c: 60: void disp_texto(uint8_t *cadena);
+"67 main.c
+[; ;main.c: 67: void disp_texto(uint8_t *cadena);
 [v _disp_texto `(v ~T0 @X0 0 ef1`*uc ]
 "54 ./GFX_Library.h
 [; ;./GFX_Library.h: 54: void display_setTextColor2(uint16_t c);
@@ -3751,8 +3751,8 @@ Version 4.0 HI-TECH Software Intermediate Code
 ..
 ..
 ]
-"51 main.c
-[; ;main.c: 51: Jugador_t jugador1={0,30,13,0,{0x01, 0x01, 0x01, 0x01, 0x01},0};
+"58 main.c
+[; ;main.c: 58: Jugador_t jugador1={0,30,13,0,{0x01, 0x01, 0x01, 0x01, 0x01},0};
 [v _jugador1 `S1627 ~T0 @X0 1 e ]
 [i _jugador1
 :U ..
@@ -3772,8 +3772,8 @@ Version 4.0 HI-TECH Software Intermediate Code
 ..
 ..
 ]
-"52
-[; ;main.c: 52: Jugador_t jugador2={0,30,13,1,{0x80, 0x80, 0x80, 0x80, 0x80},0};;
+"59
+[; ;main.c: 59: Jugador_t jugador2={0,30,13,1,{0x80, 0x80, 0x80, 0x80, 0x80},0};;
 [v _jugador2 `S1627 ~T0 @X0 1 e ]
 [i _jugador2
 :U ..
@@ -3793,8 +3793,8 @@ Version 4.0 HI-TECH Software Intermediate Code
 ..
 ..
 ]
-"53
-[; ;main.c: 53: Objeto_t bolita={0,0,6,2,{0x3c,0x7e, 0x7e, 0x7e, 0x3c},(240 -(2 * 5)) / 2,(320 -(2 * 8)) / 2};
+"60
+[; ;main.c: 60: Objeto_t bolita={0,0,6,2,{0x3c,0x7e, 0x7e, 0x7e, 0x3c},(240 -(2 * 5)) / 2,(320 -(2 * 8)) / 2};
 [v _bolita `S1628 ~T0 @X0 1 e ]
 [i _bolita
 :U ..
@@ -3815,642 +3815,645 @@ Version 4.0 HI-TECH Software Intermediate Code
 ..
 ..
 ]
-"55
-[; ;main.c: 55: uint8_t movimiento_jugador1, movimiento_jugador2 = 0;
+"62
+[; ;main.c: 62: uint8_t movimiento_jugador1, movimiento_jugador2 = 0;
 [v _movimiento_jugador1 `uc ~T0 @X0 1 e ]
 [v _movimiento_jugador2 `uc ~T0 @X0 1 e ]
 [i _movimiento_jugador2
 -> -> 0 `i `uc
 ]
-"56
-[; ;main.c: 56: uint8_t marcador[3];
+"63
+[; ;main.c: 63: uint8_t marcador[3];
 [v _marcador `uc ~T0 @X0 -> 3 `i e ]
-"57
-[; ;main.c: 57: uint8_t puntaje1=0;
+"64
+[; ;main.c: 64: uint8_t puntaje1=0;
 [v _puntaje1 `uc ~T0 @X0 1 e ]
 [i _puntaje1
 -> -> 0 `i `uc
 ]
-"58
-[; ;main.c: 58: uint8_t puntaje2=0;
+"65
+[; ;main.c: 65: uint8_t puntaje2=0;
 [v _puntaje2 `uc ~T0 @X0 1 e ]
 [i _puntaje2
 -> -> 0 `i `uc
 ]
 [v $root$_main `(v ~T0 @X0 0 e ]
-"84
-[; ;main.c: 84: void main(void) {
+"91
+[; ;main.c: 91: void main(void) {
 [v _main `(v ~T0 @X0 1 ef ]
 {
 [e :U _main ]
 [f ]
-"85
-[; ;main.c: 85:     PORTAbits.RA0=0;
+"92
+[; ;main.c: 92:     PORTAbits.RA0=0;
 [e = . . _PORTAbits 0 0 -> -> 0 `i `uc ]
-"87
-[; ;main.c: 87:     SYSTEM_Initialize();
+"94
+[; ;main.c: 94:     SYSTEM_Initialize();
 [e ( _SYSTEM_Initialize ..  ]
-"88
-[; ;main.c: 88:     SPI1_Open(SPI1_DEFAULT);
-[e ( _SPI1_Open (1 . `E12595 0 ]
-"91
-[; ;main.c: 91:     (INTCONbits.GIE = 1);
-[e = . . _INTCONbits 0 3 -> -> 1 `i `uc ]
-"93
-[; ;main.c: 93:     (INTCONbits.PEIE = 1);
-[e = . . _INTCONbits 0 2 -> -> 1 `i `uc ]
 "95
-[; ;main.c: 95:     IOCCF5_SetInterruptHandler(ctrl_der);
-[e ( _IOCCF5_SetInterruptHandler (1 &U _ctrl_der ]
-"96
-[; ;main.c: 96:     IOCBF4_SetInterruptHandler(ctrl_izq);
-[e ( _IOCBF4_SetInterruptHandler (1 &U _ctrl_izq ]
+[; ;main.c: 95:     SPI1_Open(SPI1_DEFAULT);
+[e ( _SPI1_Open (1 . `E12595 0 ]
 "98
-[; ;main.c: 98:     IOCAF1_SetInterruptHandler(ctrl_izq2);
-[e ( _IOCAF1_SetInterruptHandler (1 &U _ctrl_izq2 ]
-"99
-[; ;main.c: 99:     IOCAF2_SetInterruptHandler(ctrl_der2);
-[e ( _IOCAF2_SetInterruptHandler (1 &U _ctrl_der2 ]
+[; ;main.c: 98:     (INTCONbits.GIE = 1);
+[e = . . _INTCONbits 0 3 -> -> 1 `i `uc ]
+"100
+[; ;main.c: 100:     (INTCONbits.PEIE = 1);
+[e = . . _INTCONbits 0 2 -> -> 1 `i `uc ]
 "102
-[; ;main.c: 102:     tft_begin();
-[e ( _tft_begin ..  ]
+[; ;main.c: 102:     IOCCF5_SetInterruptHandler(ctrl_der);
+[e ( _IOCCF5_SetInterruptHandler (1 &U _ctrl_der ]
+"103
+[; ;main.c: 103:     IOCBF4_SetInterruptHandler(ctrl_izq);
+[e ( _IOCBF4_SetInterruptHandler (1 &U _ctrl_izq ]
 "105
-[; ;main.c: 105:     fillScreen(0x0000);
-[e ( _fillScreen (1 -> -> 0 `i `us ]
-"107
-[; ;main.c: 107:     display_drawCustomChar(0, 0, jugador1.forma, 0x07E0, 0x0000,jugador1.escala);
-[e ( _display_drawCustomChar (4 , , , , , -> -> 0 `i `us -> -> 0 `i `us &U . _jugador1 4 -> -> 2016 `i `us -> -> 0 `i `us . _jugador1 2 ]
-"108
-[; ;main.c: 108:     display_drawCustomChar(0, 320 -(jugador2.escala * 8), jugador2.forma, 0x07E0, 0x0000,jugador2.escala);
-[e ( _display_drawCustomChar (4 , , , , , -> -> 0 `i `us -> - -> 320 `i * -> . _jugador2 2 `i -> 8 `i `us &U . _jugador2 4 -> -> 2016 `i `us -> -> 0 `i `us . _jugador2 2 ]
-"110
-[; ;main.c: 110:     display_drawCustomChar(bolita.posicionx,bolita.posiciony,bolita.forma,0xFFFF, 0x0000,bolita.escala);
-[e ( _display_drawCustomChar (4 , , , , , -> . _bolita 5 `us . _bolita 6 &U . _bolita 4 -> -> 65535 `ui `us -> -> 0 `i `us . _bolita 3 ]
-"111
-[; ;main.c: 111:     dibujarMarcador(0,0);
-[e ( _dibujarMarcador (2 , -> -> 0 `i `uc -> -> 0 `i `uc ]
+[; ;main.c: 105:     IOCAF1_SetInterruptHandler(ctrl_izq2);
+[e ( _IOCAF1_SetInterruptHandler (1 &U _ctrl_izq2 ]
+"106
+[; ;main.c: 106:     IOCAF2_SetInterruptHandler(ctrl_der2);
+[e ( _IOCAF2_SetInterruptHandler (1 &U _ctrl_der2 ]
+"109
+[; ;main.c: 109:     tft_begin();
+[e ( _tft_begin ..  ]
 "112
-[; ;main.c: 112:     while (1) {
+[; ;main.c: 112:     fillScreen(0x0000);
+[e ( _fillScreen (1 -> -> 0 `i `us ]
+"114
+[; ;main.c: 114:     display_drawCustomChar(0, 0, jugador1.forma, 0x07E0, 0x0000,jugador1.escala);
+[e ( _display_drawCustomChar (4 , , , , , -> -> 0 `i `us -> -> 0 `i `us &U . _jugador1 4 -> -> 2016 `i `us -> -> 0 `i `us . _jugador1 2 ]
+"115
+[; ;main.c: 115:     display_drawCustomChar(0, 320 -(jugador2.escala * 8), jugador2.forma, 0x07E0, 0x0000,jugador2.escala);
+[e ( _display_drawCustomChar (4 , , , , , -> -> 0 `i `us -> - -> 320 `i * -> . _jugador2 2 `i -> 8 `i `us &U . _jugador2 4 -> -> 2016 `i `us -> -> 0 `i `us . _jugador2 2 ]
+"117
+[; ;main.c: 117:     display_drawCustomChar(bolita.posicionx,bolita.posiciony,bolita.forma,0xFFFF, 0x0000,bolita.escala);
+[e ( _display_drawCustomChar (4 , , , , , -> . _bolita 5 `us . _bolita 6 &U . _bolita 4 -> -> 65535 `ui `us -> -> 0 `i `us . _bolita 3 ]
+"118
+[; ;main.c: 118:     dibujarMarcador(0,0);
+[e ( _dibujarMarcador (2 , -> -> 0 `i `uc -> -> 0 `i `uc ]
+"119
+[; ;main.c: 119:     while (1) {
 [e :U 1631 ]
 {
-"114
-[; ;main.c: 114:         if (movimiento_jugador1 == izquierda) {
+"121
+[; ;main.c: 121:         if (movimiento_jugador1 == izquierda) {
 [e $ ! == -> _movimiento_jugador1 `i -> . `E12831 1 `i 1633  ]
 {
-"115
-[; ;main.c: 115:             jugador1.sentido=0;
+"122
+[; ;main.c: 122:             jugador1.sentido=0;
 [e = . _jugador1 0 -> -> 0 `i `uc ]
-"116
-[; ;main.c: 116:         } else if (movimiento_jugador1 == derecha) {
+"123
+[; ;main.c: 123:         } else if (movimiento_jugador1 == derecha) {
 }
 [e $U 1634  ]
 [e :U 1633 ]
 [e $ ! == -> _movimiento_jugador1 `i -> . `E12831 2 `i 1635  ]
 {
-"117
-[; ;main.c: 117:             jugador1.sentido=1;
+"124
+[; ;main.c: 124:             jugador1.sentido=1;
 [e = . _jugador1 0 -> -> 1 `i `uc ]
-"118
-[; ;main.c: 118:         }
+"125
+[; ;main.c: 125:         }
 }
 [e :U 1635 ]
 [e :U 1634 ]
-"119
-[; ;main.c: 119:         if (movimiento_jugador2 == izquierda) {
+"126
+[; ;main.c: 126:         if (movimiento_jugador2 == izquierda) {
 [e $ ! == -> _movimiento_jugador2 `i -> . `E12831 1 `i 1636  ]
 {
-"120
-[; ;main.c: 120:             jugador2.sentido=0;
+"127
+[; ;main.c: 127:             jugador2.sentido=0;
 [e = . _jugador2 0 -> -> 0 `i `uc ]
-"121
-[; ;main.c: 121:         } else if (movimiento_jugador2 == derecha) {
+"128
+[; ;main.c: 128:         } else if (movimiento_jugador2 == derecha) {
 }
 [e $U 1637  ]
 [e :U 1636 ]
 [e $ ! == -> _movimiento_jugador2 `i -> . `E12831 2 `i 1638  ]
 {
-"122
-[; ;main.c: 122:             jugador2.sentido=1;
+"129
+[; ;main.c: 129:             jugador2.sentido=1;
 [e = . _jugador2 0 -> -> 1 `i `uc ]
-"123
-[; ;main.c: 123:         }
+"130
+[; ;main.c: 130:         }
 }
 [e :U 1638 ]
 [e :U 1637 ]
-"125
-[; ;main.c: 125:         if (!(movimiento_jugador1 || movimiento_jugador2)) {
+"132
+[; ;main.c: 132:         if (!(movimiento_jugador1 || movimiento_jugador2)) {
 [e $ ! ! || != -> _movimiento_jugador1 `i -> 0 `i != -> _movimiento_jugador2 `i -> 0 `i 1639  ]
 {
-"126
-[; ;main.c: 126:             _delay((unsigned long)((65)*(32000000/4000.0)));
+"133
+[; ;main.c: 133:             _delay((unsigned long)((65)*(32000000/4000.0)));
 [e ( __delay (1 -> * -> -> 65 `i `d / -> -> 32000000 `l `d .4000.0 `ul ]
-"127
-[; ;main.c: 127:         } else if(movimiento_jugador1) {
+"134
+[; ;main.c: 134:         } else if(movimiento_jugador1) {
 }
 [e $U 1640  ]
 [e :U 1639 ]
 [e $ ! != -> _movimiento_jugador1 `i -> 0 `i 1641  ]
 {
-"128
-[; ;main.c: 128:             moverJugador(&jugador1);
+"135
+[; ;main.c: 135:             moverJugador(&jugador1);
 [e ( _moverJugador (1 &U _jugador1 ]
-"129
-[; ;main.c: 129:             movimiento_jugador1 = inactivo;
+"136
+[; ;main.c: 136:             movimiento_jugador1 = inactivo;
 [e = _movimiento_jugador1 -> . `E12831 0 `uc ]
-"130
-[; ;main.c: 130:             dibujarMarcador(puntaje1,puntaje2);
+"137
+[; ;main.c: 137:             dibujarMarcador(puntaje1,puntaje2);
 [e ( _dibujarMarcador (2 , _puntaje1 _puntaje2 ]
-"131
-[; ;main.c: 131:         }else{
+"138
+[; ;main.c: 138:         }else{
 }
 [e $U 1642  ]
 [e :U 1641 ]
 {
-"132
-[; ;main.c: 132:             moverJugador(&jugador2);
+"139
+[; ;main.c: 139:             moverJugador(&jugador2);
 [e ( _moverJugador (1 &U _jugador2 ]
-"133
-[; ;main.c: 133:             movimiento_jugador2 = inactivo;
+"140
+[; ;main.c: 140:             movimiento_jugador2 = inactivo;
 [e = _movimiento_jugador2 -> . `E12831 0 `uc ]
-"134
-[; ;main.c: 134:             dibujarMarcador(puntaje1,puntaje2);
+"141
+[; ;main.c: 141:             dibujarMarcador(puntaje1,puntaje2);
 [e ( _dibujarMarcador (2 , _puntaje1 _puntaje2 ]
-"135
-[; ;main.c: 135:         }
+"142
+[; ;main.c: 142:         }
 }
 [e :U 1642 ]
 [e :U 1640 ]
-"138
-[; ;main.c: 138:         display_drawCustomChar(bolita.posicionx,bolita.posiciony,bolita.forma,0x0000,0x0000,bolita.escala);
+"145
+[; ;main.c: 145:         display_drawCustomChar(bolita.posicionx,bolita.posiciony,bolita.forma,0x0000,0x0000,bolita.escala);
 [e ( _display_drawCustomChar (4 , , , , , -> . _bolita 5 `us . _bolita 6 &U . _bolita 4 -> -> 0 `i `us -> -> 0 `i `us . _bolita 3 ]
-"139
-[; ;main.c: 139:         if (bolita.posicionx >= (240 -(2 * 5))) {
+"146
+[; ;main.c: 146:         if (bolita.posicionx >= (240 -(2 * 5))) {
 [e $ ! >= -> . _bolita 5 `i - -> 240 `i * -> 2 `i -> 5 `i 1643  ]
 {
-"140
-[; ;main.c: 140:             bolita.sentidox = 1;
+"147
+[; ;main.c: 147:             bolita.sentidox = 1;
 [e = . _bolita 0 -> -> 1 `i `uc ]
-"141
-[; ;main.c: 141:         } else if (bolita.posicionx <= 10) {
+"148
+[; ;main.c: 148:         } else if (bolita.posicionx <= 10) {
 }
 [e $U 1644  ]
 [e :U 1643 ]
 [e $ ! <= -> . _bolita 5 `i -> 10 `i 1645  ]
 {
-"142
-[; ;main.c: 142:             bolita.sentidox = 0;
+"149
+[; ;main.c: 149:             bolita.sentidox = 0;
 [e = . _bolita 0 -> -> 0 `i `uc ]
-"143
-[; ;main.c: 143:         }
+"150
+[; ;main.c: 150:         }
 }
 [e :U 1645 ]
 [e :U 1644 ]
-"145
-[; ;main.c: 145:         if (bolita.posiciony >= ((320 -(2 * 8))-16)) {
+"152
+[; ;main.c: 152:         if (bolita.posiciony >= ((320 -(2 * 8))-16)) {
 [e $ ! >= -> . _bolita 6 `ui -> - - -> 320 `i * -> 2 `i -> 8 `i -> 16 `i `ui 1646  ]
 {
-"147
-[; ;main.c: 147:             if ((bolita.posicionx >= jugador2.posicion)&&(bolita.posicionx <= (jugador2.posicion+((5 * 13) / 2)) + 30)) {
+"154
+[; ;main.c: 154:             if ((bolita.posicionx >= jugador2.posicion)&&(bolita.posicionx <= (jugador2.posicion+((5 * 13) / 2)) + 30)) {
 [e $ ! && >= -> . _bolita 5 `i -> . _jugador2 5 `i <= -> . _bolita 5 `i + + -> . _jugador2 5 `i / * -> 5 `i -> 13 `i -> 2 `i -> 30 `i 1647  ]
 {
-"148
-[; ;main.c: 148:                 bolita.sentidoy = 1;
+"155
+[; ;main.c: 155:                 bolita.sentidoy = 1;
 [e = . _bolita 1 -> -> 1 `i `uc ]
-"149
-[; ;main.c: 149:             }else{
+"156
+[; ;main.c: 156:             }else{
 }
 [e $U 1648  ]
 [e :U 1647 ]
 {
-"150
-[; ;main.c: 150:                 puntaje1++;
+"157
+[; ;main.c: 157:                 puntaje1++;
 [e ++ _puntaje1 -> -> 1 `i `uc ]
-"151
-[; ;main.c: 151:                 dibujarMarcador(puntaje1,puntaje2);
+"158
+[; ;main.c: 158:                 dibujarMarcador(puntaje1,puntaje2);
 [e ( _dibujarMarcador (2 , _puntaje1 _puntaje2 ]
-"152
-[; ;main.c: 152:                 bolita.posicionx=(240 -(2 * 5)) / 2;
+"159
+[; ;main.c: 159:                 bolita.posicionx=(240 -(2 * 5)) / 2;
 [e = . _bolita 5 -> / - -> 240 `i * -> 2 `i -> 5 `i -> 2 `i `uc ]
-"153
-[; ;main.c: 153:                 bolita.posiciony=(320 -(2 * 8)) / 2;
+"160
+[; ;main.c: 160:                 bolita.posiciony=(320 -(2 * 8)) / 2;
 [e = . _bolita 6 -> / - -> 320 `i * -> 2 `i -> 8 `i -> 2 `i `us ]
-"154
-[; ;main.c: 154:             }
+"161
+[; ;main.c: 161:             }
 }
 [e :U 1648 ]
-"156
-[; ;main.c: 156:         } else if (bolita.posiciony <= 18) {
+"163
+[; ;main.c: 163:         } else if (bolita.posiciony <= 18) {
 }
 [e $U 1649  ]
 [e :U 1646 ]
 [e $ ! <= -> . _bolita 6 `ui -> -> 18 `i `ui 1650  ]
 {
-"157
-[; ;main.c: 157:             if ((bolita.posicionx >= jugador1.posicion)&&(bolita.posicionx <= (jugador1.posicion+((5 * 13) / 2)) + 30)) {
+"164
+[; ;main.c: 164:             if ((bolita.posicionx >= jugador1.posicion)&&(bolita.posicionx <= (jugador1.posicion+((5 * 13) / 2)) + 30)) {
 [e $ ! && >= -> . _bolita 5 `i -> . _jugador1 5 `i <= -> . _bolita 5 `i + + -> . _jugador1 5 `i / * -> 5 `i -> 13 `i -> 2 `i -> 30 `i 1651  ]
 {
-"158
-[; ;main.c: 158:                 bolita.sentidoy = 0;
+"165
+[; ;main.c: 165:                 bolita.sentidoy = 0;
 [e = . _bolita 1 -> -> 0 `i `uc ]
-"159
-[; ;main.c: 159:             }else{
+"166
+[; ;main.c: 166:             }else{
 }
 [e $U 1652  ]
 [e :U 1651 ]
 {
-"160
-[; ;main.c: 160:                 puntaje2++;
+"167
+[; ;main.c: 167:                 puntaje2++;
 [e ++ _puntaje2 -> -> 1 `i `uc ]
-"161
-[; ;main.c: 161:                 dibujarMarcador(puntaje1,puntaje2);
+"168
+[; ;main.c: 168:                 dibujarMarcador(puntaje1,puntaje2);
 [e ( _dibujarMarcador (2 , _puntaje1 _puntaje2 ]
-"162
-[; ;main.c: 162:                 bolita.posicionx=(240 -(2 * 5)) / 2;
+"169
+[; ;main.c: 169:                 bolita.posicionx=(240 -(2 * 5)) / 2;
 [e = . _bolita 5 -> / - -> 240 `i * -> 2 `i -> 5 `i -> 2 `i `uc ]
-"163
-[; ;main.c: 163:                 bolita.posiciony=(320 -(2 * 8)) / 2;
+"170
+[; ;main.c: 170:                 bolita.posiciony=(320 -(2 * 8)) / 2;
 [e = . _bolita 6 -> / - -> 320 `i * -> 2 `i -> 8 `i -> 2 `i `us ]
-"164
-[; ;main.c: 164:             }
+"171
+[; ;main.c: 171:             }
 }
 [e :U 1652 ]
-"165
-[; ;main.c: 165:         }
+"172
+[; ;main.c: 172:         }
 }
 [e :U 1650 ]
 [e :U 1649 ]
-"167
-[; ;main.c: 167:         if (bolita.sentidox) {
+"174
+[; ;main.c: 174:         if (bolita.sentidox) {
 [e $ ! != -> . _bolita 0 `i -> 0 `i 1653  ]
 {
-"168
-[; ;main.c: 168:             bolita.posicionx -= bolita.velocidad;
+"175
+[; ;main.c: 175:             bolita.posicionx -= bolita.velocidad;
 [e =- . _bolita 5 -> . _bolita 2 `uc ]
-"169
-[; ;main.c: 169:         } else {
+"176
+[; ;main.c: 176:         } else {
 }
 [e $U 1654  ]
 [e :U 1653 ]
 {
-"170
-[; ;main.c: 170:             bolita.posicionx += bolita.velocidad;
+"177
+[; ;main.c: 177:             bolita.posicionx += bolita.velocidad;
 [e =+ . _bolita 5 -> . _bolita 2 `uc ]
-"171
-[; ;main.c: 171:         }
+"178
+[; ;main.c: 178:         }
 }
 [e :U 1654 ]
-"173
-[; ;main.c: 173:         if (bolita.sentidoy) {
+"180
+[; ;main.c: 180:         if (bolita.sentidoy) {
 [e $ ! != -> . _bolita 1 `i -> 0 `i 1655  ]
 {
-"174
-[; ;main.c: 174:             bolita.posiciony -= bolita.velocidad;
+"181
+[; ;main.c: 181:             bolita.posiciony -= bolita.velocidad;
 [e =- . _bolita 6 -> . _bolita 2 `us ]
-"175
-[; ;main.c: 175:         } else {
+"182
+[; ;main.c: 182:         } else {
 }
 [e $U 1656  ]
 [e :U 1655 ]
 {
-"176
-[; ;main.c: 176:             bolita.posiciony += bolita.velocidad;
+"183
+[; ;main.c: 183:             bolita.posiciony += bolita.velocidad;
 [e =+ . _bolita 6 -> . _bolita 2 `us ]
-"177
-[; ;main.c: 177:         }
+"184
+[; ;main.c: 184:         }
 }
 [e :U 1656 ]
-"178
-[; ;main.c: 178:         display_drawCustomChar(bolita.posicionx, bolita.posiciony, bolita.forma, 0x07E0, 0x0000,bolita.escala);
+"185
+[; ;main.c: 185:         display_drawCustomChar(bolita.posicionx, bolita.posiciony, bolita.forma, 0x07E0, 0x0000,bolita.escala);
 [e ( _display_drawCustomChar (4 , , , , , -> . _bolita 5 `us . _bolita 6 &U . _bolita 4 -> -> 2016 `i `us -> -> 0 `i `us . _bolita 3 ]
-"180
-[; ;main.c: 180:     }
+"187
+[; ;main.c: 187:     }
 }
 [e :U 1630 ]
 [e $U 1631  ]
 [e :U 1632 ]
-"181
-[; ;main.c: 181: }
+"188
+[; ;main.c: 188: }
 [e :UE 1629 ]
 }
-"184
-[; ;main.c: 184: void ctrl_izq() {
+"191
+[; ;main.c: 191: void ctrl_izq() {
 [v _ctrl_izq `(v ~T0 @X0 1 ef ]
 {
 [e :U _ctrl_izq ]
 [f ]
-"185
-[; ;main.c: 185:     movimiento_jugador1 = izquierda;
+"192
+[; ;main.c: 192:     movimiento_jugador1 = izquierda;
 [e = _movimiento_jugador1 -> . `E12831 1 `uc ]
-"186
-[; ;main.c: 186: }
+"193
+[; ;main.c: 193: }
 [e :UE 1657 ]
 }
-"188
-[; ;main.c: 188: void ctrl_der() {
+"195
+[; ;main.c: 195: void ctrl_der() {
 [v _ctrl_der `(v ~T0 @X0 1 ef ]
 {
 [e :U _ctrl_der ]
 [f ]
-"189
-[; ;main.c: 189:     movimiento_jugador1 = derecha;
+"196
+[; ;main.c: 196:     movimiento_jugador1 = derecha;
 [e = _movimiento_jugador1 -> . `E12831 2 `uc ]
-"190
-[; ;main.c: 190: }
+"197
+[; ;main.c: 197: }
 [e :UE 1658 ]
 }
-"193
-[; ;main.c: 193: void ctrl_izq2() {
+"200
+[; ;main.c: 200: void ctrl_izq2() {
 [v _ctrl_izq2 `(v ~T0 @X0 1 ef ]
 {
 [e :U _ctrl_izq2 ]
 [f ]
-"194
-[; ;main.c: 194:     movimiento_jugador2 = izquierda;
+"201
+[; ;main.c: 201:     movimiento_jugador2 = izquierda;
 [e = _movimiento_jugador2 -> . `E12831 1 `uc ]
-"195
-[; ;main.c: 195: }
+"202
+[; ;main.c: 202: }
 [e :UE 1659 ]
 }
-"197
-[; ;main.c: 197: void ctrl_der2() {
+"204
+[; ;main.c: 204: void ctrl_der2() {
 [v _ctrl_der2 `(v ~T0 @X0 1 ef ]
 {
 [e :U _ctrl_der2 ]
 [f ]
-"198
-[; ;main.c: 198:     movimiento_jugador2 = derecha;
+"205
+[; ;main.c: 205:     movimiento_jugador2 = derecha;
 [e = _movimiento_jugador2 -> . `E12831 2 `uc ]
-"199
-[; ;main.c: 199: }
+"206
+[; ;main.c: 206: }
 [e :UE 1660 ]
 }
-"201
-[; ;main.c: 201: void dibujarMarcador(uint8_t puntaje1,uint8_t puntaje2){
+"208
+[; ;main.c: 208: void dibujarMarcador(uint8_t puntaje1,uint8_t puntaje2){
 [v _dibujarMarcador `(v ~T0 @X0 1 ef2`uc`uc ]
 {
 [e :U _dibujarMarcador ]
 [v _puntaje1 `uc ~T0 @X0 1 r1 ]
 [v _puntaje2 `uc ~T0 @X0 1 r2 ]
 [f ]
-"202
-[; ;main.c: 202:     setRotation(1);
-[e ( _setRotation (1 -> -> 1 `i `uc ]
-"203
-[; ;main.c: 203:     display_setCursor((320/2)-10,0);
-[e ( _display_setCursor (2 , -> - / -> 320 `i -> 2 `i -> 10 `i `us -> -> 0 `i `us ]
-"204
-[; ;main.c: 204:     display_setTextSize(2);
-[e ( _display_setTextSize (1 -> -> 2 `i `uc ]
-"205
-[; ;main.c: 205:     display_setTextColor(0x0000,0x0000);
-[e ( _display_setTextColor (2 , -> -> 0 `i `us -> -> 0 `i `us ]
-"207
-[; ;main.c: 207:     disp_texto(marcador);
-[e ( _disp_texto (1 &U _marcador ]
-"208
-[; ;main.c: 208:     display_setCursor((320/2)-10,0);
-[e ( _display_setCursor (2 , -> - / -> 320 `i -> 2 `i -> 10 `i `us -> -> 0 `i `us ]
 "209
-[; ;main.c: 209:     display_setTextColor2(0x07E0);
-[e ( _display_setTextColor2 (1 -> -> 2016 `i `us ]
+[; ;main.c: 209:     setRotation(1);
+[e ( _setRotation (1 -> -> 1 `i `uc ]
 "210
-[; ;main.c: 210:     sprintf(marcador,"%i:%i",puntaje1,puntaje2);
-[e ( _sprintf (1 , , (. , -> &U _marcador `*uc :s 1C -> _puntaje1 `i -> _puntaje2 `i ]
+[; ;main.c: 210:     _delay((unsigned long)((10)*(32000000/4000.0)));
+[e ( __delay (1 -> * -> -> 10 `i `d / -> -> 32000000 `l `d .4000.0 `ul ]
 "211
-[; ;main.c: 211:     disp_texto(marcador);
-[e ( _disp_texto (1 &U _marcador ]
+[; ;main.c: 211:     display_setCursor((320/2)-10,0);
+[e ( _display_setCursor (2 , -> - / -> 320 `i -> 2 `i -> 10 `i `us -> -> 0 `i `us ]
 "212
-[; ;main.c: 212:     setRotation(0);
-[e ( _setRotation (1 -> -> 0 `i `uc ]
+[; ;main.c: 212:     display_setTextSize(2);
+[e ( _display_setTextSize (1 -> -> 2 `i `uc ]
 "213
-[; ;main.c: 213: }
+[; ;main.c: 213:     display_setTextColor(0x0000,0x0000);
+[e ( _display_setTextColor (2 , -> -> 0 `i `us -> -> 0 `i `us ]
+"214
+[; ;main.c: 214:     disp_texto(marcador);
+[e ( _disp_texto (1 &U _marcador ]
+"215
+[; ;main.c: 215:     display_setCursor((320/2)-10,0);
+[e ( _display_setCursor (2 , -> - / -> 320 `i -> 2 `i -> 10 `i `us -> -> 0 `i `us ]
+"216
+[; ;main.c: 216:     display_setTextColor2(0x07E0);
+[e ( _display_setTextColor2 (1 -> -> 2016 `i `us ]
+"217
+[; ;main.c: 217:     sprintf(marcador,"%i:%i",puntaje1,puntaje2);
+[e ( _sprintf (1 , , (. , -> &U _marcador `*uc :s 1C -> _puntaje1 `i -> _puntaje2 `i ]
+"218
+[; ;main.c: 218:     disp_texto(marcador);
+[e ( _disp_texto (1 &U _marcador ]
+"219
+[; ;main.c: 219:     setRotation(0);
+[e ( _setRotation (1 -> -> 0 `i `uc ]
+"220
+[; ;main.c: 220: }
 [e :UE 1661 ]
 }
-"216
-[; ;main.c: 216: void moverJugador(Jugador_t *jugador) {
+"223
+[; ;main.c: 223: void moverJugador(Jugador_t *jugador) {
 [v _moverJugador `(v ~T0 @X0 1 ef1`*S1627 ]
 {
 [e :U _moverJugador ]
 [v _jugador `*S1627 ~T0 @X0 1 r1 ]
 [f ]
-"217
-[; ;main.c: 217:     uint8_t y = 0;
+"224
+[; ;main.c: 224:     uint8_t y = 0;
 [v _y `uc ~T0 @X0 1 a ]
 [e = _y -> -> 0 `i `uc ]
-"218
-[; ;main.c: 218:     if (jugador->id) {
+"225
+[; ;main.c: 225:     if (jugador->id) {
 [e $ ! != -> . *U _jugador 3 `i -> 0 `i 1663  ]
 {
-"219
-[; ;main.c: 219:         y = 320 -(jugador->escala * 8);
+"226
+[; ;main.c: 226:         y = 320 -(jugador->escala * 8);
 [e = _y -> - -> 320 `i * -> . *U _jugador 2 `i -> 8 `i `uc ]
-"220
-[; ;main.c: 220:     }
+"227
+[; ;main.c: 227:     }
 }
 [e :U 1663 ]
-"222
-[; ;main.c: 222:     display_drawCustomChar(jugador->posicion, y, jugador->forma, 0x0000, 0x0000, jugador->escala);
+"229
+[; ;main.c: 229:     display_drawCustomChar(jugador->posicion, y, jugador->forma, 0x0000, 0x0000, jugador->escala);
 [e ( _display_drawCustomChar (4 , , , , , -> . *U _jugador 5 `us -> _y `us &U . *U _jugador 4 -> -> 0 `i `us -> -> 0 `i `us . *U _jugador 2 ]
-"223
-[; ;main.c: 223:     if (jugador->sentido) {
+"230
+[; ;main.c: 230:     if (jugador->sentido) {
 [e $ ! != -> . *U _jugador 0 `i -> 0 `i 1664  ]
 {
-"224
-[; ;main.c: 224:         jugador->posicion += jugador->velocidad;
+"231
+[; ;main.c: 231:         jugador->posicion += jugador->velocidad;
 [e =+ . *U _jugador 5 -> . *U _jugador 1 `uc ]
-"225
-[; ;main.c: 225:     } else {
+"232
+[; ;main.c: 232:     } else {
 }
 [e $U 1665  ]
 [e :U 1664 ]
 {
-"226
-[; ;main.c: 226:         jugador->posicion -= jugador->velocidad;
+"233
+[; ;main.c: 233:         jugador->posicion -= jugador->velocidad;
 [e =- . *U _jugador 5 -> . *U _jugador 1 `uc ]
-"227
-[; ;main.c: 227:     }
+"234
+[; ;main.c: 234:     }
 }
 [e :U 1665 ]
-"228
-[; ;main.c: 228:     display_drawCustomChar(jugador->posicion, y, jugador->forma, 0x07E0, 0x0000, jugador->escala);
+"235
+[; ;main.c: 235:     display_drawCustomChar(jugador->posicion, y, jugador->forma, 0x07E0, 0x0000, jugador->escala);
 [e ( _display_drawCustomChar (4 , , , , , -> . *U _jugador 5 `us -> _y `us &U . *U _jugador 4 -> -> 2016 `i `us -> -> 0 `i `us . *U _jugador 2 ]
-"229
-[; ;main.c: 229: }
+"236
+[; ;main.c: 236: }
 [e :UE 1662 ]
 }
-"231
-[; ;main.c: 231: void disp_texto(uint8_t *cadena) {
+"238
+[; ;main.c: 238: void disp_texto(uint8_t *cadena) {
 [v _disp_texto `(v ~T0 @X0 1 ef1`*uc ]
 {
 [e :U _disp_texto ]
 [v _cadena `*uc ~T0 @X0 1 r1 ]
 [f ]
-"232
-[; ;main.c: 232:     uint8_t i = -1;
+"239
+[; ;main.c: 239:     uint8_t i = -1;
 [v _i `uc ~T0 @X0 1 a ]
 [e = _i -> -U -> 1 `i `uc ]
-"233
-[; ;main.c: 233:     while (cadena[i++] != '\0') {
+"240
+[; ;main.c: 240:     while (cadena[i++] != '\0') {
 [e $U 1667  ]
 [e :U 1668 ]
 {
-"234
-[; ;main.c: 234:         display_print(cadena[i]);
+"241
+[; ;main.c: 241:         display_print(cadena[i]);
 [e ( _display_print (1 *U + _cadena * -> _i `ux -> -> # *U _cadena `ui `ux ]
-"235
-[; ;main.c: 235:     }
+"242
+[; ;main.c: 242:     }
 }
 [e :U 1667 ]
-"233
-[; ;main.c: 233:     while (cadena[i++] != '\0') {
+"240
+[; ;main.c: 240:     while (cadena[i++] != '\0') {
 [e $ != -> *U + _cadena * -> ++ _i -> -> 1 `i `uc `ux -> -> # *U _cadena `ui `ux `ui -> 0 `ui 1668  ]
 [e :U 1669 ]
-"236
-[; ;main.c: 236: }
+"243
+[; ;main.c: 243: }
 [e :UE 1666 ]
 }
-"238
-[; ;main.c: 238: void testFillScreen() {
+"245
+[; ;main.c: 245: void testFillScreen() {
 [v _testFillScreen `(v ~T0 @X0 1 ef ]
 {
 [e :U _testFillScreen ]
 [f ]
-"239
-[; ;main.c: 239:     fillScreen(0x0000);
+"246
+[; ;main.c: 246:     fillScreen(0x0000);
 [e ( _fillScreen (1 -> -> 0 `i `us ]
-"240
-[; ;main.c: 240:     fillScreen(0xF800);
+"247
+[; ;main.c: 247:     fillScreen(0xF800);
 [e ( _fillScreen (1 -> -> 63488 `ui `us ]
-"241
-[; ;main.c: 241:     fillScreen(0x07E0);
+"248
+[; ;main.c: 248:     fillScreen(0x07E0);
 [e ( _fillScreen (1 -> -> 2016 `i `us ]
-"242
-[; ;main.c: 242:     fillScreen(0x001F);
+"249
+[; ;main.c: 249:     fillScreen(0x001F);
 [e ( _fillScreen (1 -> -> 31 `i `us ]
-"243
-[; ;main.c: 243:     fillScreen(0x0000);
+"250
+[; ;main.c: 250:     fillScreen(0x0000);
 [e ( _fillScreen (1 -> -> 0 `i `us ]
-"244
-[; ;main.c: 244: }
+"251
+[; ;main.c: 251: }
 [e :UE 1670 ]
 }
-"246
-[; ;main.c: 246: void testText() {
+"253
+[; ;main.c: 253: void testText() {
 [v _testText `(v ~T0 @X0 1 ef ]
 {
 [e :U _testText ]
 [f ]
-"247
-[; ;main.c: 247:     fillScreen(0x0000);
-[e ( _fillScreen (1 -> -> 0 `i `us ]
-"248
-[; ;main.c: 248:     display_setCursor(0, 0);
-[e ( _display_setCursor (2 , -> -> 0 `i `us -> -> 0 `i `us ]
-"249
-[; ;main.c: 249:     display_setTextColor2(0xFFFF);
-[e ( _display_setTextColor2 (1 -> -> 65535 `ui `us ]
-"250
-[; ;main.c: 250:     display_setTextSize(1);
-[e ( _display_setTextSize (1 -> -> 1 `i `uc ]
-"251
-[; ;main.c: 251:     disp_texto("Hello World!\r\n");
-[e ( _disp_texto (1 :s 2C ]
-"253
-[; ;main.c: 253:     display_setTextColor2(0xFFE0);
-[e ( _display_setTextColor2 (1 -> -> 65504 `ui `us ]
 "254
-[; ;main.c: 254:     display_setTextSize(2);
-[e ( _display_setTextSize (1 -> -> 2 `i `uc ]
+[; ;main.c: 254:     fillScreen(0x0000);
+[e ( _fillScreen (1 -> -> 0 `i `us ]
 "255
-[; ;main.c: 255:     disp_texto("1234.56\r\n");
-[e ( _disp_texto (1 :s 3C ]
+[; ;main.c: 255:     display_setCursor(0, 0);
+[e ( _display_setCursor (2 , -> -> 0 `i `us -> -> 0 `i `us ]
+"256
+[; ;main.c: 256:     display_setTextColor2(0xFFFF);
+[e ( _display_setTextColor2 (1 -> -> 65535 `ui `us ]
 "257
-[; ;main.c: 257:     display_setTextColor2(0xF800);
-[e ( _display_setTextColor2 (1 -> -> 63488 `ui `us ]
-"258
-[; ;main.c: 258:     display_setTextSize(3);
-[e ( _display_setTextSize (1 -> -> 3 `i `uc ]
-"260
-[; ;main.c: 260:     disp_texto("DEADBEEF\r\n");
-[e ( _disp_texto (1 :s 4C ]
-"261
-[; ;main.c: 261:     disp_texto("\r\n");
-[e ( _disp_texto (1 :s 5C ]
-"262
-[; ;main.c: 262:     display_setTextColor2(0x07E0);
-[e ( _display_setTextColor2 (1 -> -> 2016 `i `us ]
-"263
-[; ;main.c: 263:     display_setTextSize(5);
-[e ( _display_setTextSize (1 -> -> 5 `i `uc ]
-"264
-[; ;main.c: 264:     disp_texto("Groop\r\n");
-[e ( _disp_texto (1 :s 6C ]
-"265
-[; ;main.c: 265:     display_setTextSize(2);
-[e ( _display_setTextSize (1 -> -> 2 `i `uc ]
-"266
-[; ;main.c: 266:     disp_texto("I implore thee,\r\n");
-[e ( _disp_texto (1 :s 7C ]
-"267
-[; ;main.c: 267:     display_setTextSize(1);
+[; ;main.c: 257:     display_setTextSize(1);
 [e ( _display_setTextSize (1 -> -> 1 `i `uc ]
+"258
+[; ;main.c: 258:     disp_texto("Hello World!\r\n");
+[e ( _disp_texto (1 :s 2C ]
+"260
+[; ;main.c: 260:     display_setTextColor2(0xFFE0);
+[e ( _display_setTextColor2 (1 -> -> 65504 `ui `us ]
+"261
+[; ;main.c: 261:     display_setTextSize(2);
+[e ( _display_setTextSize (1 -> -> 2 `i `uc ]
+"262
+[; ;main.c: 262:     disp_texto("1234.56\r\n");
+[e ( _disp_texto (1 :s 3C ]
+"264
+[; ;main.c: 264:     display_setTextColor2(0xF800);
+[e ( _display_setTextColor2 (1 -> -> 63488 `ui `us ]
+"265
+[; ;main.c: 265:     display_setTextSize(3);
+[e ( _display_setTextSize (1 -> -> 3 `i `uc ]
+"267
+[; ;main.c: 267:     disp_texto("DEADBEEF\r\n");
+[e ( _disp_texto (1 :s 4C ]
 "268
-[; ;main.c: 268:     disp_texto("my foonting turlingdromes.\r\n");
-[e ( _disp_texto (1 :s 8C ]
+[; ;main.c: 268:     disp_texto("\r\n");
+[e ( _disp_texto (1 :s 5C ]
 "269
-[; ;main.c: 269:     disp_texto("And hooptiously drangle me\r\n");
-[e ( _disp_texto (1 :s 9C ]
+[; ;main.c: 269:     display_setTextColor2(0x07E0);
+[e ( _display_setTextColor2 (1 -> -> 2016 `i `us ]
 "270
-[; ;main.c: 270:     disp_texto("with crinkly bindlewurdles,\r\n");
-[e ( _disp_texto (1 :s 10C ]
+[; ;main.c: 270:     display_setTextSize(5);
+[e ( _display_setTextSize (1 -> -> 5 `i `uc ]
 "271
-[; ;main.c: 271:     disp_texto("Or I will rend thee\r\n");
-[e ( _disp_texto (1 :s 11C ]
+[; ;main.c: 271:     disp_texto("Groop\r\n");
+[e ( _disp_texto (1 :s 6C ]
 "272
-[; ;main.c: 272:     disp_texto("in the gobberwarts\r\n");
-[e ( _disp_texto (1 :s 12C ]
+[; ;main.c: 272:     display_setTextSize(2);
+[e ( _display_setTextSize (1 -> -> 2 `i `uc ]
 "273
-[; ;main.c: 273:     disp_texto("with my blurglecruncheon,\r\n");
-[e ( _disp_texto (1 :s 13C ]
+[; ;main.c: 273:     disp_texto("I implore thee,\r\n");
+[e ( _disp_texto (1 :s 7C ]
 "274
-[; ;main.c: 274:     disp_texto("see if I don't!\r\n");
-[e ( _disp_texto (1 :s 14C ]
+[; ;main.c: 274:     display_setTextSize(1);
+[e ( _display_setTextSize (1 -> -> 1 `i `uc ]
 "275
-[; ;main.c: 275: }
+[; ;main.c: 275:     disp_texto("my foonting turlingdromes.\r\n");
+[e ( _disp_texto (1 :s 8C ]
+"276
+[; ;main.c: 276:     disp_texto("And hooptiously drangle me\r\n");
+[e ( _disp_texto (1 :s 9C ]
+"277
+[; ;main.c: 277:     disp_texto("with crinkly bindlewurdles,\r\n");
+[e ( _disp_texto (1 :s 10C ]
+"278
+[; ;main.c: 278:     disp_texto("Or I will rend thee\r\n");
+[e ( _disp_texto (1 :s 11C ]
+"279
+[; ;main.c: 279:     disp_texto("in the gobberwarts\r\n");
+[e ( _disp_texto (1 :s 12C ]
+"280
+[; ;main.c: 280:     disp_texto("with my blurglecruncheon,\r\n");
+[e ( _disp_texto (1 :s 13C ]
+"281
+[; ;main.c: 281:     disp_texto("see if I don't!\r\n");
+[e ( _disp_texto (1 :s 14C ]
+"282
+[; ;main.c: 282: }
 [e :UE 1671 ]
 }
-"277
-[; ;main.c: 277: void testLines(uint16_t color) {
+"284
+[; ;main.c: 284: void testLines(uint16_t color) {
 [v _testLines `(v ~T0 @X0 1 ef1`us ]
 {
 [e :U _testLines ]
 [v _color `us ~T0 @X0 1 r1 ]
 [f ]
-"278
-[; ;main.c: 278:     int16_t x1, y1, x2, y2,
+"285
+[; ;main.c: 285:     int16_t x1, y1, x2, y2,
 [v _x1 `s ~T0 @X0 1 a ]
 [v _y1 `s ~T0 @X0 1 a ]
 [v _x2 `s ~T0 @X0 1 a ]
 [v _y2 `s ~T0 @X0 1 a ]
-"279
-[; ;main.c: 279:             w = _width,
+"286
+[; ;main.c: 286:             w = _width,
 [v _w `s ~T0 @X0 1 a ]
 [e = _w -> __width `s ]
-"280
-[; ;main.c: 280:             h = _height;
+"287
+[; ;main.c: 287:             h = _height;
 [v _h `s ~T0 @X0 1 a ]
 [e = _h -> __height `s ]
-"282
-[; ;main.c: 282:     fillScreen(0x0000);
+"289
+[; ;main.c: 289:     fillScreen(0x0000);
 [e ( _fillScreen (1 -> -> 0 `i `us ]
-"284
-[; ;main.c: 284:     x1 = y1 = 0;
+"291
+[; ;main.c: 291:     x1 = y1 = 0;
 [e = _x1 = _y1 -> -> 0 `i `s ]
-"285
-[; ;main.c: 285:     y2 = h - 1;
+"292
+[; ;main.c: 292:     y2 = h - 1;
 [e = _y2 -> - -> _h `i -> 1 `i `s ]
-"287
-[; ;main.c: 287:     for (x2 = 0; x2 < w; x2 += 6) display_drawLine(x1, y1, x2, y2, color);
+"294
+[; ;main.c: 294:     for (x2 = 0; x2 < w; x2 += 6) display_drawLine(x1, y1, x2, y2, color);
 {
 [e = _x2 -> -> 0 `i `s ]
 [e $U 1676  ]
@@ -4461,11 +4464,11 @@ Version 4.0 HI-TECH Software Intermediate Code
 [e $ < -> _x2 `i -> _w `i 1673  ]
 [e :U 1674 ]
 }
-"288
-[; ;main.c: 288:     x2 = w - 1;
+"295
+[; ;main.c: 295:     x2 = w - 1;
 [e = _x2 -> - -> _w `i -> 1 `i `s ]
-"289
-[; ;main.c: 289:     for (y2 = 0; y2 < h; y2 += 6) display_drawLine(x1, y1, x2, y2, color);
+"296
+[; ;main.c: 296:     for (y2 = 0; y2 < h; y2 += 6) display_drawLine(x1, y1, x2, y2, color);
 {
 [e = _y2 -> -> 0 `i `s ]
 [e $U 1680  ]
@@ -4476,20 +4479,20 @@ Version 4.0 HI-TECH Software Intermediate Code
 [e $ < -> _y2 `i -> _h `i 1677  ]
 [e :U 1678 ]
 }
-"291
-[; ;main.c: 291:     fillScreen(0x0000);
+"298
+[; ;main.c: 298:     fillScreen(0x0000);
 [e ( _fillScreen (1 -> -> 0 `i `us ]
-"293
-[; ;main.c: 293:     x1 = w - 1;
+"300
+[; ;main.c: 300:     x1 = w - 1;
 [e = _x1 -> - -> _w `i -> 1 `i `s ]
-"294
-[; ;main.c: 294:     y1 = 0;
+"301
+[; ;main.c: 301:     y1 = 0;
 [e = _y1 -> -> 0 `i `s ]
-"295
-[; ;main.c: 295:     y2 = h - 1;
+"302
+[; ;main.c: 302:     y2 = h - 1;
 [e = _y2 -> - -> _h `i -> 1 `i `s ]
-"297
-[; ;main.c: 297:     for (x2 = 0; x2 < w; x2 += 6) display_drawLine(x1, y1, x2, y2, color);
+"304
+[; ;main.c: 304:     for (x2 = 0; x2 < w; x2 += 6) display_drawLine(x1, y1, x2, y2, color);
 {
 [e = _x2 -> -> 0 `i `s ]
 [e $U 1684  ]
@@ -4500,11 +4503,11 @@ Version 4.0 HI-TECH Software Intermediate Code
 [e $ < -> _x2 `i -> _w `i 1681  ]
 [e :U 1682 ]
 }
-"298
-[; ;main.c: 298:     x2 = 0;
+"305
+[; ;main.c: 305:     x2 = 0;
 [e = _x2 -> -> 0 `i `s ]
-"299
-[; ;main.c: 299:     for (y2 = 0; y2 < h; y2 += 6) display_drawLine(x1, y1, x2, y2, color);
+"306
+[; ;main.c: 306:     for (y2 = 0; y2 < h; y2 += 6) display_drawLine(x1, y1, x2, y2, color);
 {
 [e = _y2 -> -> 0 `i `s ]
 [e $U 1688  ]
@@ -4515,20 +4518,20 @@ Version 4.0 HI-TECH Software Intermediate Code
 [e $ < -> _y2 `i -> _h `i 1685  ]
 [e :U 1686 ]
 }
-"301
-[; ;main.c: 301:     fillScreen(0x0000);
+"308
+[; ;main.c: 308:     fillScreen(0x0000);
 [e ( _fillScreen (1 -> -> 0 `i `us ]
-"303
-[; ;main.c: 303:     x1 = 0;
+"310
+[; ;main.c: 310:     x1 = 0;
 [e = _x1 -> -> 0 `i `s ]
-"304
-[; ;main.c: 304:     y1 = h - 1;
+"311
+[; ;main.c: 311:     y1 = h - 1;
 [e = _y1 -> - -> _h `i -> 1 `i `s ]
-"305
-[; ;main.c: 305:     y2 = 0;
+"312
+[; ;main.c: 312:     y2 = 0;
 [e = _y2 -> -> 0 `i `s ]
-"307
-[; ;main.c: 307:     for (x2 = 0; x2 < w; x2 += 6) display_drawLine(x1, y1, x2, y2, color);
+"314
+[; ;main.c: 314:     for (x2 = 0; x2 < w; x2 += 6) display_drawLine(x1, y1, x2, y2, color);
 {
 [e = _x2 -> -> 0 `i `s ]
 [e $U 1692  ]
@@ -4539,11 +4542,11 @@ Version 4.0 HI-TECH Software Intermediate Code
 [e $ < -> _x2 `i -> _w `i 1689  ]
 [e :U 1690 ]
 }
-"308
-[; ;main.c: 308:     x2 = w - 1;
+"315
+[; ;main.c: 315:     x2 = w - 1;
 [e = _x2 -> - -> _w `i -> 1 `i `s ]
-"309
-[; ;main.c: 309:     for (y2 = 0; y2 < h; y2 += 6) display_drawLine(x1, y1, x2, y2, color);
+"316
+[; ;main.c: 316:     for (y2 = 0; y2 < h; y2 += 6) display_drawLine(x1, y1, x2, y2, color);
 {
 [e = _y2 -> -> 0 `i `s ]
 [e $U 1696  ]
@@ -4554,20 +4557,20 @@ Version 4.0 HI-TECH Software Intermediate Code
 [e $ < -> _y2 `i -> _h `i 1693  ]
 [e :U 1694 ]
 }
-"311
-[; ;main.c: 311:     fillScreen(0x0000);
+"318
+[; ;main.c: 318:     fillScreen(0x0000);
 [e ( _fillScreen (1 -> -> 0 `i `us ]
-"313
-[; ;main.c: 313:     x1 = w - 1;
+"320
+[; ;main.c: 320:     x1 = w - 1;
 [e = _x1 -> - -> _w `i -> 1 `i `s ]
-"314
-[; ;main.c: 314:     y1 = h - 1;
+"321
+[; ;main.c: 321:     y1 = h - 1;
 [e = _y1 -> - -> _h `i -> 1 `i `s ]
-"315
-[; ;main.c: 315:     y2 = 0;
+"322
+[; ;main.c: 322:     y2 = 0;
 [e = _y2 -> -> 0 `i `s ]
-"317
-[; ;main.c: 317:     for (x2 = 0; x2 < w; x2 += 6) display_drawLine(x1, y1, x2, y2, color);
+"324
+[; ;main.c: 324:     for (x2 = 0; x2 < w; x2 += 6) display_drawLine(x1, y1, x2, y2, color);
 {
 [e = _x2 -> -> 0 `i `s ]
 [e $U 1700  ]
@@ -4578,11 +4581,11 @@ Version 4.0 HI-TECH Software Intermediate Code
 [e $ < -> _x2 `i -> _w `i 1697  ]
 [e :U 1698 ]
 }
-"318
-[; ;main.c: 318:     x2 = 0;
+"325
+[; ;main.c: 325:     x2 = 0;
 [e = _x2 -> -> 0 `i `s ]
-"319
-[; ;main.c: 319:     for (y2 = 0; y2 < h; y2 += 6) display_drawLine(x1, y1, x2, y2, color);
+"326
+[; ;main.c: 326:     for (y2 = 0; y2 < h; y2 += 6) display_drawLine(x1, y1, x2, y2, color);
 {
 [e = _y2 -> -> 0 `i `s ]
 [e $U 1704  ]
@@ -4593,31 +4596,31 @@ Version 4.0 HI-TECH Software Intermediate Code
 [e $ < -> _y2 `i -> _h `i 1701  ]
 [e :U 1702 ]
 }
-"320
-[; ;main.c: 320: }
+"327
+[; ;main.c: 327: }
 [e :UE 1672 ]
 }
-"322
-[; ;main.c: 322: void testFastLines(uint16_t color1, uint16_t color2) {
+"329
+[; ;main.c: 329: void testFastLines(uint16_t color1, uint16_t color2) {
 [v _testFastLines `(v ~T0 @X0 1 ef2`us`us ]
 {
 [e :U _testFastLines ]
 [v _color1 `us ~T0 @X0 1 r1 ]
 [v _color2 `us ~T0 @X0 1 r2 ]
 [f ]
-"323
-[; ;main.c: 323:     int16_t x, y, w = _width, h = _height;
+"330
+[; ;main.c: 330:     int16_t x, y, w = _width, h = _height;
 [v _x `s ~T0 @X0 1 a ]
 [v _y `s ~T0 @X0 1 a ]
 [v _w `s ~T0 @X0 1 a ]
 [e = _w -> __width `s ]
 [v _h `s ~T0 @X0 1 a ]
 [e = _h -> __height `s ]
-"325
-[; ;main.c: 325:     fillScreen(0x0000);
+"332
+[; ;main.c: 332:     fillScreen(0x0000);
 [e ( _fillScreen (1 -> -> 0 `i `us ]
-"327
-[; ;main.c: 327:     for (y = 0; y < h; y += 5) drawHLine(0, y, w, color1);
+"334
+[; ;main.c: 334:     for (y = 0; y < h; y += 5) drawHLine(0, y, w, color1);
 {
 [e = _y -> -> 0 `i `s ]
 [e $U 1709  ]
@@ -4628,8 +4631,8 @@ Version 4.0 HI-TECH Software Intermediate Code
 [e $ < -> _y `i -> _h `i 1706  ]
 [e :U 1707 ]
 }
-"328
-[; ;main.c: 328:     for (x = 0; x < w; x += 5) drawVLine(x, 0, h, color2);
+"335
+[; ;main.c: 335:     for (x = 0; x < w; x += 5) drawVLine(x, 0, h, color2);
 {
 [e = _x -> -> 0 `i `s ]
 [e $U 1713  ]
@@ -4640,126 +4643,126 @@ Version 4.0 HI-TECH Software Intermediate Code
 [e $ < -> _x `i -> _w `i 1710  ]
 [e :U 1711 ]
 }
-"329
-[; ;main.c: 329: }
+"336
+[; ;main.c: 336: }
 [e :UE 1705 ]
 }
-"331
-[; ;main.c: 331: void testRects(uint16_t color) {
+"338
+[; ;main.c: 338: void testRects(uint16_t color) {
 [v _testRects `(v ~T0 @X0 1 ef1`us ]
 {
 [e :U _testRects ]
 [v _color `us ~T0 @X0 1 r1 ]
 [f ]
-"332
-[; ;main.c: 332:     int16_t n, i, i2,
+"339
+[; ;main.c: 339:     int16_t n, i, i2,
 [v _n `s ~T0 @X0 1 a ]
 [v _i `s ~T0 @X0 1 a ]
 [v _i2 `s ~T0 @X0 1 a ]
-"333
-[; ;main.c: 333:             cx = _width / 2,
+"340
+[; ;main.c: 340:             cx = _width / 2,
 [v _cx `s ~T0 @X0 1 a ]
 [e = _cx -> / -> __width `ui -> -> 2 `i `ui `s ]
-"334
-[; ;main.c: 334:             cy = _height / 2;
+"341
+[; ;main.c: 341:             cy = _height / 2;
 [v _cy `s ~T0 @X0 1 a ]
 [e = _cy -> / -> __height `ui -> -> 2 `i `ui `s ]
-"336
-[; ;main.c: 336:     fillScreen(0x0000);
+"343
+[; ;main.c: 343:     fillScreen(0x0000);
 [e ( _fillScreen (1 -> -> 0 `i `us ]
-"337
-[; ;main.c: 337:     n = (((_width) < (_height)) ? (_width) : (_height));
+"344
+[; ;main.c: 344:     n = (((_width) < (_height)) ? (_width) : (_height));
 [e = _n -> ? < -> __width `ui -> __height `ui : -> __width `ui -> __height `ui `s ]
-"339
-[; ;main.c: 339:     for (i = 2; i < n; i += 6) {
+"346
+[; ;main.c: 346:     for (i = 2; i < n; i += 6) {
 {
 [e = _i -> -> 2 `i `s ]
 [e $U 1718  ]
 [e :U 1715 ]
 {
-"340
-[; ;main.c: 340:         i2 = i / 2;
+"347
+[; ;main.c: 347:         i2 = i / 2;
 [e = _i2 -> / -> _i `i -> 2 `i `s ]
-"341
-[; ;main.c: 341:         display_drawRect(cx - i2, cy - i2, i, i, color);
+"348
+[; ;main.c: 348:         display_drawRect(cx - i2, cy - i2, i, i, color);
 [e ( _display_drawRect (4 , , , , -> - -> _cx `i -> _i2 `i `us -> - -> _cy `i -> _i2 `i `us -> _i `us -> _i `us _color ]
-"342
-[; ;main.c: 342:     }
+"349
+[; ;main.c: 349:     }
 }
 [e =+ _i -> -> 6 `i `s ]
 [e :U 1718 ]
 [e $ < -> _i `i -> _n `i 1715  ]
 [e :U 1716 ]
 }
-"343
-[; ;main.c: 343: }
+"350
+[; ;main.c: 350: }
 [e :UE 1714 ]
 }
-"345
-[; ;main.c: 345: void testFilledRects(uint16_t color1, uint16_t color2) {
+"352
+[; ;main.c: 352: void testFilledRects(uint16_t color1, uint16_t color2) {
 [v _testFilledRects `(v ~T0 @X0 1 ef2`us`us ]
 {
 [e :U _testFilledRects ]
 [v _color1 `us ~T0 @X0 1 r1 ]
 [v _color2 `us ~T0 @X0 1 r2 ]
 [f ]
-"346
-[; ;main.c: 346:     int16_t n, i, i2,
+"353
+[; ;main.c: 353:     int16_t n, i, i2,
 [v _n `s ~T0 @X0 1 a ]
 [v _i `s ~T0 @X0 1 a ]
 [v _i2 `s ~T0 @X0 1 a ]
-"347
-[; ;main.c: 347:             cx = _width / 2 - 1,
+"354
+[; ;main.c: 354:             cx = _width / 2 - 1,
 [v _cx `s ~T0 @X0 1 a ]
 [e = _cx -> - / -> __width `ui -> -> 2 `i `ui -> -> 1 `i `ui `s ]
-"348
-[; ;main.c: 348:             cy = _height / 2 - 1;
+"355
+[; ;main.c: 355:             cy = _height / 2 - 1;
 [v _cy `s ~T0 @X0 1 a ]
 [e = _cy -> - / -> __height `ui -> -> 2 `i `ui -> -> 1 `i `ui `s ]
-"350
-[; ;main.c: 350:     fillScreen(0x0000);
+"357
+[; ;main.c: 357:     fillScreen(0x0000);
 [e ( _fillScreen (1 -> -> 0 `i `us ]
-"351
-[; ;main.c: 351:     n = (((_width) < (_height)) ? (_width) : (_height));
+"358
+[; ;main.c: 358:     n = (((_width) < (_height)) ? (_width) : (_height));
 [e = _n -> ? < -> __width `ui -> __height `ui : -> __width `ui -> __height `ui `s ]
-"352
-[; ;main.c: 352:     for (i = n; i > 0; i -= 6) {
+"359
+[; ;main.c: 359:     for (i = n; i > 0; i -= 6) {
 {
 [e = _i _n ]
 [e $ > -> _i `i -> 0 `i 1720  ]
 [e $U 1721  ]
 [e :U 1720 ]
 {
-"353
-[; ;main.c: 353:         i2 = i / 2 - 1;
+"360
+[; ;main.c: 360:         i2 = i / 2 - 1;
 [e = _i2 -> - / -> _i `i -> 2 `i -> 1 `i `s ]
-"355
-[; ;main.c: 355:         fillRect(cx - i2, cy - i2, i, i, color1);
+"362
+[; ;main.c: 362:         fillRect(cx - i2, cy - i2, i, i, color1);
 [e ( _fillRect (4 , , , , -> - -> _cx `i -> _i2 `i `us -> - -> _cy `i -> _i2 `i `us -> _i `us -> _i `us _color1 ]
-"358
-[; ;main.c: 358:         display_drawRect(cx - i2, cy - i2, i, i, color2);
+"365
+[; ;main.c: 365:         display_drawRect(cx - i2, cy - i2, i, i, color2);
 [e ( _display_drawRect (4 , , , , -> - -> _cx `i -> _i2 `i `us -> - -> _cy `i -> _i2 `i `us -> _i `us -> _i `us _color2 ]
-"359
-[; ;main.c: 359:     }
+"366
+[; ;main.c: 366:     }
 }
 [e =- _i -> -> 6 `i `s ]
 [e $ > -> _i `i -> 0 `i 1720  ]
 [e :U 1721 ]
 }
-"360
-[; ;main.c: 360: }
+"367
+[; ;main.c: 367: }
 [e :UE 1719 ]
 }
-"362
-[; ;main.c: 362: void testFilledCircles(uint8_t radius, uint16_t color) {
+"369
+[; ;main.c: 369: void testFilledCircles(uint8_t radius, uint16_t color) {
 [v _testFilledCircles `(v ~T0 @X0 1 ef2`uc`us ]
 {
 [e :U _testFilledCircles ]
 [v _radius `uc ~T0 @X0 1 r1 ]
 [v _color `us ~T0 @X0 1 r2 ]
 [f ]
-"363
-[; ;main.c: 363:     int16_t x, y, w = _width, h = _height, r2 = radius * 2;
+"370
+[; ;main.c: 370:     int16_t x, y, w = _width, h = _height, r2 = radius * 2;
 [v _x `s ~T0 @X0 1 a ]
 [v _y `s ~T0 @X0 1 a ]
 [v _w `s ~T0 @X0 1 a ]
@@ -4768,293 +4771,293 @@ Version 4.0 HI-TECH Software Intermediate Code
 [e = _h -> __height `s ]
 [v _r2 `s ~T0 @X0 1 a ]
 [e = _r2 -> * -> _radius `i -> 2 `i `s ]
-"365
-[; ;main.c: 365:     fillScreen(0x0000);
+"372
+[; ;main.c: 372:     fillScreen(0x0000);
 [e ( _fillScreen (1 -> -> 0 `i `us ]
-"367
-[; ;main.c: 367:     for (x = radius; x < w; x += r2) {
+"374
+[; ;main.c: 374:     for (x = radius; x < w; x += r2) {
 {
 [e = _x -> _radius `s ]
 [e $U 1727  ]
 [e :U 1724 ]
 {
-"368
-[; ;main.c: 368:         for (y = radius; y < h; y += r2) {
+"375
+[; ;main.c: 375:         for (y = radius; y < h; y += r2) {
 {
 [e = _y -> _radius `s ]
 [e $U 1731  ]
 [e :U 1728 ]
 {
-"369
-[; ;main.c: 369:             display_fillCircle(x, y, radius, color);
+"376
+[; ;main.c: 376:             display_fillCircle(x, y, radius, color);
 [e ( _display_fillCircle (4 , , , -> _x `us -> _y `us -> _radius `us _color ]
-"370
-[; ;main.c: 370:         }
+"377
+[; ;main.c: 377:         }
 }
 [e =+ _y -> _r2 `s ]
 [e :U 1731 ]
 [e $ < -> _y `i -> _h `i 1728  ]
 [e :U 1729 ]
 }
-"371
-[; ;main.c: 371:     }
+"378
+[; ;main.c: 378:     }
 }
 [e =+ _x -> _r2 `s ]
 [e :U 1727 ]
 [e $ < -> _x `i -> _w `i 1724  ]
 [e :U 1725 ]
 }
-"372
-[; ;main.c: 372: }
+"379
+[; ;main.c: 379: }
 [e :UE 1723 ]
 }
-"374
-[; ;main.c: 374: void testCircles(uint8_t radius, uint16_t color) {
+"381
+[; ;main.c: 381: void testCircles(uint8_t radius, uint16_t color) {
 [v _testCircles `(v ~T0 @X0 1 ef2`uc`us ]
 {
 [e :U _testCircles ]
 [v _radius `uc ~T0 @X0 1 r1 ]
 [v _color `us ~T0 @X0 1 r2 ]
 [f ]
-"375
-[; ;main.c: 375:     int16_t x, y, r2 = radius * 2,
+"382
+[; ;main.c: 382:     int16_t x, y, r2 = radius * 2,
 [v _x `s ~T0 @X0 1 a ]
 [v _y `s ~T0 @X0 1 a ]
 [v _r2 `s ~T0 @X0 1 a ]
 [e = _r2 -> * -> _radius `i -> 2 `i `s ]
-"376
-[; ;main.c: 376:             w = _width + radius,
+"383
+[; ;main.c: 383:             w = _width + radius,
 [v _w `s ~T0 @X0 1 a ]
 [e = _w -> + -> __width `ui -> _radius `ui `s ]
-"377
-[; ;main.c: 377:             h = _height + radius;
+"384
+[; ;main.c: 384:             h = _height + radius;
 [v _h `s ~T0 @X0 1 a ]
 [e = _h -> + -> __height `ui -> _radius `ui `s ]
-"379
-[; ;main.c: 379:     for (x = 0; x < w; x += r2) {
+"386
+[; ;main.c: 386:     for (x = 0; x < w; x += r2) {
 {
 [e = _x -> -> 0 `i `s ]
 [e $U 1736  ]
 [e :U 1733 ]
 {
-"380
-[; ;main.c: 380:         for (y = 0; y < h; y += r2) {
+"387
+[; ;main.c: 387:         for (y = 0; y < h; y += r2) {
 {
 [e = _y -> -> 0 `i `s ]
 [e $U 1740  ]
 [e :U 1737 ]
 {
-"381
-[; ;main.c: 381:             display_drawCircle(x, y, radius, color);
+"388
+[; ;main.c: 388:             display_drawCircle(x, y, radius, color);
 [e ( _display_drawCircle (4 , , , -> _x `us -> _y `us -> _radius `us _color ]
-"382
-[; ;main.c: 382:         }
+"389
+[; ;main.c: 389:         }
 }
 [e =+ _y -> _r2 `s ]
 [e :U 1740 ]
 [e $ < -> _y `i -> _h `i 1737  ]
 [e :U 1738 ]
 }
-"383
-[; ;main.c: 383:     }
+"390
+[; ;main.c: 390:     }
 }
 [e =+ _x -> _r2 `s ]
 [e :U 1736 ]
 [e $ < -> _x `i -> _w `i 1733  ]
 [e :U 1734 ]
 }
-"384
-[; ;main.c: 384: }
+"391
+[; ;main.c: 391: }
 [e :UE 1732 ]
 }
-"386
-[; ;main.c: 386: void testTriangles() {
+"393
+[; ;main.c: 393: void testTriangles() {
 [v _testTriangles `(v ~T0 @X0 1 ef ]
 {
 [e :U _testTriangles ]
 [f ]
-"387
-[; ;main.c: 387:     int16_t n, i, cx = _width / 2 - 1,
+"394
+[; ;main.c: 394:     int16_t n, i, cx = _width / 2 - 1,
 [v _n `s ~T0 @X0 1 a ]
 [v _i `s ~T0 @X0 1 a ]
 [v _cx `s ~T0 @X0 1 a ]
 [e = _cx -> - / -> __width `ui -> -> 2 `i `ui -> -> 1 `i `ui `s ]
-"388
-[; ;main.c: 388:             cy = _height / 2 - 1;
+"395
+[; ;main.c: 395:             cy = _height / 2 - 1;
 [v _cy `s ~T0 @X0 1 a ]
 [e = _cy -> - / -> __height `ui -> -> 2 `i `ui -> -> 1 `i `ui `s ]
-"389
-[; ;main.c: 389:     uint16_t color = 0xF600;
+"396
+[; ;main.c: 396:     uint16_t color = 0xF600;
 [v _color `us ~T0 @X0 1 a ]
 [e = _color -> -> 62976 `ui `us ]
-"390
-[; ;main.c: 390:     fillScreen(0x0000);
+"397
+[; ;main.c: 397:     fillScreen(0x0000);
 [e ( _fillScreen (1 -> -> 0 `i `us ]
-"391
-[; ;main.c: 391:     n = (((cx) < (cy)) ? (cx) : (cy));
+"398
+[; ;main.c: 398:     n = (((cx) < (cy)) ? (cx) : (cy));
 [e = _n -> ? < -> _cx `i -> _cy `i : -> _cx `i -> _cy `i `s ]
-"393
-[; ;main.c: 393:     for (i = 0; i < n; i += 5) {
+"400
+[; ;main.c: 400:     for (i = 0; i < n; i += 5) {
 {
 [e = _i -> -> 0 `i `s ]
 [e $U 1745  ]
 [e :U 1742 ]
 {
-"394
-[; ;main.c: 394:         display_drawTriangle(
+"401
+[; ;main.c: 401:         display_drawTriangle(
 [e ( _display_drawTriangle (4 , , , , , , -> _cx `us -> - -> _cy `i -> _i `i `us -> - -> _cx `i -> _i `i `us -> + -> _cy `i -> _i `i `us -> + -> _cx `i -> _i `i `us -> + -> _cy `i -> _i `i `us _color ]
-"399
-[; ;main.c: 399:         color += 100;
+"406
+[; ;main.c: 406:         color += 100;
 [e =+ _color -> -> 100 `i `us ]
-"400
-[; ;main.c: 400:     }
+"407
+[; ;main.c: 407:     }
 }
 [e =+ _i -> -> 5 `i `s ]
 [e :U 1745 ]
 [e $ < -> _i `i -> _n `i 1742  ]
 [e :U 1743 ]
 }
-"401
-[; ;main.c: 401: }
+"408
+[; ;main.c: 408: }
 [e :UE 1741 ]
 }
-"403
-[; ;main.c: 403: void testFilledTriangles() {
+"410
+[; ;main.c: 410: void testFilledTriangles() {
 [v _testFilledTriangles `(v ~T0 @X0 1 ef ]
 {
 [e :U _testFilledTriangles ]
 [f ]
-"404
-[; ;main.c: 404:     int16_t i, cx = _width / 2 - 1,
+"411
+[; ;main.c: 411:     int16_t i, cx = _width / 2 - 1,
 [v _i `s ~T0 @X0 1 a ]
 [v _cx `s ~T0 @X0 1 a ]
 [e = _cx -> - / -> __width `ui -> -> 2 `i `ui -> -> 1 `i `ui `s ]
-"405
-[; ;main.c: 405:             cy = _height / 2 - 1;
+"412
+[; ;main.c: 412:             cy = _height / 2 - 1;
 [v _cy `s ~T0 @X0 1 a ]
 [e = _cy -> - / -> __height `ui -> -> 2 `i `ui -> -> 1 `i `ui `s ]
-"407
-[; ;main.c: 407:     fillScreen(0x0000);
+"414
+[; ;main.c: 414:     fillScreen(0x0000);
 [e ( _fillScreen (1 -> -> 0 `i `us ]
-"409
-[; ;main.c: 409:     for (i = (((cx) < (cy)) ? (cx) : (cy)); i > 10; i -= 5) {
+"416
+[; ;main.c: 416:     for (i = (((cx) < (cy)) ? (cx) : (cy)); i > 10; i -= 5) {
 {
 [e = _i -> ? < -> _cx `i -> _cy `i : -> _cx `i -> _cy `i `s ]
 [e $ > -> _i `i -> 10 `i 1747  ]
 [e $U 1748  ]
 [e :U 1747 ]
 {
-"410
-[; ;main.c: 410:         display_fillTriangle(cx, cy - i, cx - i, cy + i, cx + i, cy + i,
+"417
+[; ;main.c: 417:         display_fillTriangle(cx, cy - i, cx - i, cy + i, cx + i, cy + i,
 [e ( _display_fillTriangle (4 , , , , , , -> _cx `us -> - -> _cy `i -> _i `i `us -> - -> _cx `i -> _i `i `us -> + -> _cy `i -> _i `i `us -> + -> _cx `i -> _i `i `us -> + -> _cy `i -> _i `i `us ( _display_color565 (3 , , -> -> 0 `i `uc -> * -> _i `i -> 2 `i `uc -> * -> _i `i -> 2 `i `uc ]
-"412
-[; ;main.c: 412:         display_drawTriangle(cx, cy - i, cx - i, cy + i, cx + i, cy + i,
+"419
+[; ;main.c: 419:         display_drawTriangle(cx, cy - i, cx - i, cy + i, cx + i, cy + i,
 [e ( _display_drawTriangle (4 , , , , , , -> _cx `us -> - -> _cy `i -> _i `i `us -> - -> _cx `i -> _i `i `us -> + -> _cy `i -> _i `i `us -> + -> _cx `i -> _i `i `us -> + -> _cy `i -> _i `i `us ( _display_color565 (3 , , -> * -> _i `i -> 2 `i `uc -> * -> _i `i -> 2 `i `uc -> -> 0 `i `uc ]
-"414
-[; ;main.c: 414:     }
+"421
+[; ;main.c: 421:     }
 }
 [e =- _i -> -> 5 `i `s ]
 [e $ > -> _i `i -> 10 `i 1747  ]
 [e :U 1748 ]
 }
-"415
-[; ;main.c: 415: }
+"422
+[; ;main.c: 422: }
 [e :UE 1746 ]
 }
-"417
-[; ;main.c: 417: void testRoundRects() {
+"424
+[; ;main.c: 424: void testRoundRects() {
 [v _testRoundRects `(v ~T0 @X0 1 ef ]
 {
 [e :U _testRoundRects ]
 [f ]
-"418
-[; ;main.c: 418:     int16_t w, i, i2,
+"425
+[; ;main.c: 425:     int16_t w, i, i2,
 [v _w `s ~T0 @X0 1 a ]
 [v _i `s ~T0 @X0 1 a ]
 [v _i2 `s ~T0 @X0 1 a ]
-"419
-[; ;main.c: 419:             cx = _width / 2 - 1,
+"426
+[; ;main.c: 426:             cx = _width / 2 - 1,
 [v _cx `s ~T0 @X0 1 a ]
 [e = _cx -> - / -> __width `ui -> -> 2 `i `ui -> -> 1 `i `ui `s ]
-"420
-[; ;main.c: 420:             cy = _height / 2 - 1;
+"427
+[; ;main.c: 427:             cy = _height / 2 - 1;
 [v _cy `s ~T0 @X0 1 a ]
 [e = _cy -> - / -> __height `ui -> -> 2 `i `ui -> -> 1 `i `ui `s ]
-"422
-[; ;main.c: 422:     fillScreen(0x0000);
+"429
+[; ;main.c: 429:     fillScreen(0x0000);
 [e ( _fillScreen (1 -> -> 0 `i `us ]
-"423
-[; ;main.c: 423:     w = (((_width) < (_height)) ? (_width) : (_height));
+"430
+[; ;main.c: 430:     w = (((_width) < (_height)) ? (_width) : (_height));
 [e = _w -> ? < -> __width `ui -> __height `ui : -> __width `ui -> __height `ui `s ]
-"425
-[; ;main.c: 425:     for (i = 0; i < w; i += 6) {
+"432
+[; ;main.c: 432:     for (i = 0; i < w; i += 6) {
 {
 [e = _i -> -> 0 `i `s ]
 [e $U 1754  ]
 [e :U 1751 ]
 {
-"426
-[; ;main.c: 426:         i2 = i / 2;
+"433
+[; ;main.c: 433:         i2 = i / 2;
 [e = _i2 -> / -> _i `i -> 2 `i `s ]
-"427
-[; ;main.c: 427:         display_drawRoundRect(cx - i2, cy - i2, i, i, i / 8, display_color565(i, 0, 0));
+"434
+[; ;main.c: 434:         display_drawRoundRect(cx - i2, cy - i2, i, i, i / 8, display_color565(i, 0, 0));
 [e ( _display_drawRoundRect (4 , , , , , -> - -> _cx `i -> _i2 `i `us -> - -> _cy `i -> _i2 `i `us -> _i `us -> _i `us -> / -> _i `i -> 8 `i `us ( _display_color565 (3 , , -> _i `uc -> -> 0 `i `uc -> -> 0 `i `uc ]
-"428
-[; ;main.c: 428:     }
+"435
+[; ;main.c: 435:     }
 }
 [e =+ _i -> -> 6 `i `s ]
 [e :U 1754 ]
 [e $ < -> _i `i -> _w `i 1751  ]
 [e :U 1752 ]
 }
-"429
-[; ;main.c: 429: }
+"436
+[; ;main.c: 436: }
 [e :UE 1750 ]
 }
-"431
-[; ;main.c: 431: void testFilledRoundRects() {
+"438
+[; ;main.c: 438: void testFilledRoundRects() {
 [v _testFilledRoundRects `(v ~T0 @X0 1 ef ]
 {
 [e :U _testFilledRoundRects ]
 [f ]
-"432
-[; ;main.c: 432:     int16_t i, i2,
+"439
+[; ;main.c: 439:     int16_t i, i2,
 [v _i `s ~T0 @X0 1 a ]
 [v _i2 `s ~T0 @X0 1 a ]
-"433
-[; ;main.c: 433:             cx = _width / 2 - 1,
+"440
+[; ;main.c: 440:             cx = _width / 2 - 1,
 [v _cx `s ~T0 @X0 1 a ]
 [e = _cx -> - / -> __width `ui -> -> 2 `i `ui -> -> 1 `i `ui `s ]
-"434
-[; ;main.c: 434:             cy = _height / 2 - 1;
+"441
+[; ;main.c: 441:             cy = _height / 2 - 1;
 [v _cy `s ~T0 @X0 1 a ]
 [e = _cy -> - / -> __height `ui -> -> 2 `i `ui -> -> 1 `i `ui `s ]
-"436
-[; ;main.c: 436:     fillScreen(0x0000);
+"443
+[; ;main.c: 443:     fillScreen(0x0000);
 [e ( _fillScreen (1 -> -> 0 `i `us ]
-"438
-[; ;main.c: 438:     for (i = (((_width) < (_height)) ? (_width) : (_height)); i > 20; i -= 6) {
+"445
+[; ;main.c: 445:     for (i = (((_width) < (_height)) ? (_width) : (_height)); i > 20; i -= 6) {
 {
 [e = _i -> ? < -> __width `ui -> __height `ui : -> __width `ui -> __height `ui `s ]
 [e $ > -> _i `i -> 20 `i 1756  ]
 [e $U 1757  ]
 [e :U 1756 ]
 {
-"439
-[; ;main.c: 439:         i2 = i / 2;
+"446
+[; ;main.c: 446:         i2 = i / 2;
 [e = _i2 -> / -> _i `i -> 2 `i `s ]
-"440
-[; ;main.c: 440:         display_fillRoundRect(cx - i2, cy - i2, i, i, i / 8, display_color565(0, i, 0));
+"447
+[; ;main.c: 447:         display_fillRoundRect(cx - i2, cy - i2, i, i, i / 8, display_color565(0, i, 0));
 [e ( _display_fillRoundRect (4 , , , , , -> - -> _cx `i -> _i2 `i `us -> - -> _cy `i -> _i2 `i `us -> _i `us -> _i `us -> / -> _i `i -> 8 `i `us ( _display_color565 (3 , , -> -> 0 `i `uc -> _i `uc -> -> 0 `i `uc ]
-"441
-[; ;main.c: 441:     }
+"448
+[; ;main.c: 448:     }
 }
 [e =- _i -> -> 6 `i `s ]
 [e $ > -> _i `i -> 20 `i 1756  ]
 [e :U 1757 ]
 }
-"442
-[; ;main.c: 442: }
+"449
+[; ;main.c: 449: }
 [e :UE 1755 ]
 }
 [p f _sprintf 8388736 ]
